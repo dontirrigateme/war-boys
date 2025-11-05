@@ -26,11 +26,11 @@
         .map(u => ({ key: u.user_id, label: u.user_name }))
         .sort((a,b) => a.label.localeCompare(b.label));
     } else {
-      options = data.blorbos
+      options = (data.blorbos || [])
         .map(b => {
-          const disp = b.display_name || b.command_name;
-          const cmd  = b.command_name;
-          const same = disp.trim().toLowerCase() === cmd.trim().toLowerCase();
+          const disp = (b.display_name || b.command_name || "").trim();
+          const cmd  = (b.command_name || "").trim();
+          const same = disp.toLowerCase() === cmd.toLowerCase();
           return { key: cmd, label: same ? disp : `${disp} (${cmd})` };
         })
         .sort((a,b) => a.label.localeCompare(b.label));
@@ -65,13 +65,13 @@
       if (!u.claims?.length) {
         wrap.innerHTML = `<span class="small">No claims yet.</span>`;
       } else {
-        for (const c of u.claims) {
-        const chip = document.createElement("a");
-        chip.className = "chip";
-        chip.href = `../character/?c=${encodeURIComponent(c.command_name)}`;
-        chip.textContent = c.display_name;  // pretty name
-        wrap.appendChild(chip);
-      }
+        for (const c of (u.claims || [])) {
+          const chip = document.createElement("a");
+          chip.className = "chip";
+          chip.href = `../character/?c=${encodeURIComponent(c.command_name || "")}`;
+          chip.textContent = (c.display_name || c.command_name || "Unknown");
+          wrap.appendChild(chip);
+        }
       card.appendChild(wrap);
       results.appendChild(card);
     } else {
@@ -82,13 +82,13 @@
       card.innerHTML = `<h3>${b.display_name} <span class="small">(${b.command_name})</span></h3>`;
       const wrap = document.createElement("div");
       wrap.className = "kv";
-      if (!b.claimed_by?.length) {
+      if (!b.claimed_by || !b.claimed_by.length) {
         wrap.innerHTML = `<span class="small">No one has claimed this blorbo yet.</span>`;
       } else {
         for (const u of b.claimed_by) {
           const chip = document.createElement("span");
           chip.className = "chip";
-          chip.textContent = u.user_name || u.user_id;
+          chip.textContent = (u.user_name || u.user_id || "Unknown user");
           wrap.appendChild(chip);
         }
       }

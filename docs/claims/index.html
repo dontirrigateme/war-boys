@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Claims • War Boys</title>
+  <link rel="stylesheet" href="../claims/claims.css">
+</head>
+<body>
+  <nav class="topnav">
+    <div class="brand">War Boys</div>
+    <div class="links">
+      <a href="../">Home</a>
+      <a class="active" href="../claims/">Claims</a>
+    </div>
+  </nav>
+
+  <main class="container">
+    <header class="pagehead">
+      <h1>Claims</h1>
+      <p class="muted">Browse who claimed who — or who’s claimed a blorbo.</p>
+      <div id="stamp" class="muted"></div>
+    </header>
+
+    <section class="switcher">
+      <button id="tabUsers" class="tab active">By user</button>
+      <button id="tabBlorbos" class="tab">By blorbo</button>
+    </section>
+
+    <section class="controls">
+      <input id="search" type="search" placeholder="Search users or blorbos…" />
+      <select id="picker"></select>
+    </section>
+
+    <section id="results" class="results"></section>
+  </main>
+
+  <script src="../claims/claims.js"></script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "user_id": "123456789012345678",
+      "user_name": "Maddie",
+      "claims": [
+        { "command_name": "nix", "display_name": "Lewis Nixon" },
+        { "command_name": "speirs", "display_name": "Ronald Speirs" }
+      ]
+    }
+  ],
+  "blorbos": [
+    {
+      "command_name": "nix",
+      "display_name": "Lewis Nixon",
+      "claimed_by": [
+        { "user_id": "123456789012345678", "user_name": "Maddie" }
+      ]
+    }
+  ],
+  "generated_at": "2025-11-05T03:10:00Z"
+}

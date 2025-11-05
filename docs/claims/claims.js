@@ -1,6 +1,6 @@
 (async function () {
   const DATA_VERSION = "2025-11-05-01";
-  const DATA_URL = `../data/claims.json?v=${DATA_VERSION}`;
+  const DATA_URL = "../data/claims.json?v=2025-11-05-02";
   const data = await fetch(DATA_URL).then(r => r.json()).catch(() => ({users:[], blorbos:[]}));
   const stamp = document.getElementById("stamp");
   if (data.generated_at) stamp.textContent = `Last updated: ${new Date(data.generated_at).toLocaleString()}`;

@@ -34,7 +34,7 @@
       new Date().toLocaleString();
 
     // This file is where you’ll paste a nightly snapshot (step 2)
-    fetch('./data/snapshot.json')
+    fetch('./data/claims.json')
       .then(r => r.ok ? r.json() : { news: [] })
       .then(data => {
         const root = document.getElementById('newsGrid');

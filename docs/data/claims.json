@@ -1,22 +1,859 @@
 {
   "users": [
     {
-      "user_id": "123456789012345678",
-      "user_name": "Maddie",
+      "user_id": "1252425325908852759",
+      "user_name": "sledgehamma",
       "claims": [
-        { "command_name": "nix", "display_name": "Lewis Nixon" },
-        { "command_name": "speirs", "display_name": "Ronald Speirs" }
+        {
+          "command_name": "Sledge",
+          "display_name": "Sledge"
+        },
+        {
+          "command_name": "Shifty",
+          "display_name": "Shifty"
+        }
+      ]
+    },
+    {
+      "user_id": "860291240544829471",
+      "user_name": "Alex",
+      "claims": [
+        {
+          "command_name": "Nixon",
+          "display_name": "Nixon"
+        },
+        {
+          "command_name": "Doc Bryan",
+          "display_name": "Doc Bryan"
+        },
+        {
+          "command_name": "Speirs",
+          "display_name": "Speirs"
+        },
+        {
+          "command_name": "Rosie",
+          "display_name": "Rosie"
+        },
+        {
+          "command_name": "Bucky",
+          "display_name": "Bucky"
+        }
+      ]
+    },
+    {
+      "user_id": "887855737479520287",
+      "user_name": "Boning Hambone",
+      "claims": [
+        {
+          "command_name": "Burgin",
+          "display_name": "Burgin"
+        },
+        {
+          "command_name": "Skinny",
+          "display_name": "Skinny"
+        },
+        {
+          "command_name": "Brady",
+          "display_name": "Brady"
+        },
+        {
+          "command_name": "Hambone",
+          "display_name": "Hambone"
+        },
+        {
+          "command_name": "Demarco",
+          "display_name": "Demarco"
+        },
+        {
+          "command_name": "Popeye",
+          "display_name": "Popeye"
+        },
+        {
+          "command_name": "Cleven",
+          "display_name": "Cleven"
+        },
+        {
+          "command_name": "Penkala",
+          "display_name": "Penkala"
+        },
+        {
+          "command_name": "Veal",
+          "display_name": "Veal"
+        },
+        {
+          "command_name": "Hoosier",
+          "display_name": "Hoosier"
+        },
+        {
+          "command_name": "Colbert",
+          "display_name": "Colbert"
+        },
+        {
+          "command_name": "Dinozzo",
+          "display_name": "Tony"
+        }
+      ]
+    },
+    {
+      "user_id": "465285923022831647",
+      "user_name": "Ivy League",
+      "claims": [
+        {
+          "command_name": "Speirs",
+          "display_name": "Speirs"
+        },
+        {
+          "command_name": "Fick",
+          "display_name": "Fick"
+        },
+        {
+          "command_name": "Lemmons",
+          "display_name": "Lemmons"
+        },
+        {
+          "command_name": "Burgin",
+          "display_name": "Burgin"
+        },
+        {
+          "command_name": "Hoosier",
+          "display_name": "Hoosier"
+        },
+        {
+          "command_name": "Rosie",
+          "display_name": "Rosie"
+        },
+        {
+          "command_name": "Reyes",
+          "display_name": "Reyes"
+        },
+        {
+          "command_name": "Colbert",
+          "display_name": "Colbert"
+        }
+      ]
+    },
+    {
+      "user_id": "990759232045473862",
+      "user_name": "Private Bullshit's Babe",
+      "claims": [
+        {
+          "command_name": "Speirs",
+          "display_name": "Speirs"
+        },
+        {
+          "command_name": "Malarkey",
+          "display_name": "Malarkey"
+        },
+        {
+          "command_name": "Skip",
+          "display_name": "Skip"
+        },
+        {
+          "command_name": "Penkala",
+          "display_name": "Penkala"
+        },
+        {
+          "command_name": "Runner",
+          "display_name": "Runner"
+        },
+        {
+          "command_name": "Ack Ack",
+          "display_name": "Ack Ack"
+        },
+        {
+          "command_name": "Fick",
+          "display_name": "Fick"
+        },
+        {
+          "command_name": "Hillbilly",
+          "display_name": "Hillbilly"
+        }
+      ]
+    },
+    {
+      "user_id": "1241757256924532806",
+      "user_name": "meatball",
+      "claims": [
+        {
+          "command_name": "Fick",
+          "display_name": "Fick"
+        },
+        {
+          "command_name": "Basilone",
+          "display_name": "Basilone"
+        },
+        {
+          "command_name": "Manny",
+          "display_name": "Manny"
+        }
+      ]
+    },
+    {
+      "user_id": "698227872585875477",
+      "user_name": "Ron’s Barbie",
+      "claims": [
+        {
+          "command_name": "Speirs",
+          "display_name": "Speirs"
+        },
+        {
+          "command_name": "Nixon",
+          "display_name": "Nixon"
+        },
+        {
+          "command_name": "Rosie",
+          "display_name": "Rosie"
+        },
+        {
+          "command_name": "Bucky",
+          "display_name": "Bucky"
+        },
+        {
+          "command_name": "Basilone",
+          "display_name": "Basilone"
+        }
+      ]
+    },
+    {
+      "user_id": "774462595998416896",
+      "user_name": "Nate Fuck's Slutshine",
+      "claims": [
+        {
+          "command_name": "Shifty",
+          "display_name": "Shifty"
+        },
+        {
+          "command_name": "Sledge",
+          "display_name": "Sledge"
+        },
+        {
+          "command_name": "Talbert",
+          "display_name": "Talbert"
+        },
+        {
+          "command_name": "Winters",
+          "display_name": "Winters"
+        },
+        {
+          "command_name": "Doc Roe",
+          "display_name": "Doc Roe"
+        },
+        {
+          "command_name": "Luz",
+          "display_name": "Luz"
+        },
+        {
+          "command_name": "Crosby",
+          "display_name": "Crosby"
+        },
+        {
+          "command_name": "Lemmons",
+          "display_name": "Lemmons"
+        },
+        {
+          "command_name": "Liebgott",
+          "display_name": "Liebgott"
+        },
+        {
+          "command_name": "Speirs",
+          "display_name": "Speirs"
+        },
+        {
+          "command_name": "Babe",
+          "display_name": "Babe"
+        },
+        {
+          "command_name": "Grant",
+          "display_name": "Grant"
+        },
+        {
+          "command_name": "Malarkey",
+          "display_name": "Malarkey"
+        },
+        {
+          "command_name": "Fick",
+          "display_name": "Fick"
+        },
+        {
+          "command_name": "Snafu",
+          "display_name": "Snafu"
+        },
+        {
+          "command_name": "Moose",
+          "display_name": "Moose"
+        },
+        {
+          "command_name": "Peacock",
+          "display_name": "Peacock"
+        }
+      ]
+    },
+    {
+      "user_id": "1191295082708598844",
+      "user_name": "The MacDaddy",
+      "claims": [
+        {
+          "command_name": "Burgin",
+          "display_name": "Burgin"
+        },
+        {
+          "command_name": "Luz",
+          "display_name": "Luz"
+        }
+      ]
+    },
+    {
+      "user_id": "1103766553222201374",
+      "user_name": "clung wrap",
+      "claims": [
+        {
+          "command_name": "McClung",
+          "display_name": "McClung"
+        },
+        {
+          "command_name": "Alley",
+          "display_name": "Alley"
+        },
+        {
+          "command_name": "Cassidy",
+          "display_name": "Cassidy"
+        },
+        {
+          "command_name": "Filthy 13",
+          "display_name": "Filthy 13"
+        }
       ]
     }
   ],
   "blorbos": [
     {
-      "command_name": "nix",
-      "display_name": "Lewis Nixon",
+      "command_name": "Sledge",
+      "display_name": "Sledge",
       "claimed_by": [
-        { "user_id": "123456789012345678", "user_name": "Maddie" }
+        {
+          "user_id": "1252425325908852759",
+          "user_name": "sledgehamma"
+        },
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Shifty",
+      "display_name": "Shifty",
+      "claimed_by": [
+        {
+          "user_id": "1252425325908852759",
+          "user_name": "sledgehamma"
+        },
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Nixon",
+      "display_name": "Nixon",
+      "claimed_by": [
+        {
+          "user_id": "860291240544829471",
+          "user_name": "Alex"
+        },
+        {
+          "user_id": "698227872585875477",
+          "user_name": "Ron’s Barbie"
+        }
+      ]
+    },
+    {
+      "command_name": "Doc Bryan",
+      "display_name": "Doc Bryan",
+      "claimed_by": [
+        {
+          "user_id": "860291240544829471",
+          "user_name": "Alex"
+        }
+      ]
+    },
+    {
+      "command_name": "Speirs",
+      "display_name": "Speirs",
+      "claimed_by": [
+        {
+          "user_id": "860291240544829471",
+          "user_name": "Alex"
+        },
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        },
+        {
+          "user_id": "698227872585875477",
+          "user_name": "Ron’s Barbie"
+        },
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Rosie",
+      "display_name": "Rosie",
+      "claimed_by": [
+        {
+          "user_id": "860291240544829471",
+          "user_name": "Alex"
+        },
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "698227872585875477",
+          "user_name": "Ron’s Barbie"
+        }
+      ]
+    },
+    {
+      "command_name": "Bucky",
+      "display_name": "Bucky",
+      "claimed_by": [
+        {
+          "user_id": "860291240544829471",
+          "user_name": "Alex"
+        },
+        {
+          "user_id": "698227872585875477",
+          "user_name": "Ron’s Barbie"
+        }
+      ]
+    },
+    {
+      "command_name": "Burgin",
+      "display_name": "Burgin",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        },
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "1191295082708598844",
+          "user_name": "The MacDaddy"
+        }
+      ]
+    },
+    {
+      "command_name": "Skinny",
+      "display_name": "Skinny",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Brady",
+      "display_name": "Brady",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Hambone",
+      "display_name": "Hambone",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Demarco",
+      "display_name": "Demarco",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Popeye",
+      "display_name": "Popeye",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Cleven",
+      "display_name": "Cleven",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Penkala",
+      "display_name": "Penkala",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        },
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        }
+      ]
+    },
+    {
+      "command_name": "Fick",
+      "display_name": "Fick",
+      "claimed_by": [
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        },
+        {
+          "user_id": "1241757256924532806",
+          "user_name": "meatball"
+        },
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Lemmons",
+      "display_name": "Lemmons",
+      "claimed_by": [
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Hoosier",
+      "display_name": "Hoosier",
+      "claimed_by": [
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Reyes",
+      "display_name": "Reyes",
+      "claimed_by": [
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        }
+      ]
+    },
+    {
+      "command_name": "Colbert",
+      "display_name": "Colbert",
+      "claimed_by": [
+        {
+          "user_id": "465285923022831647",
+          "user_name": "Ivy League"
+        },
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Malarkey",
+      "display_name": "Malarkey",
+      "claimed_by": [
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        },
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Skip",
+      "display_name": "Skip",
+      "claimed_by": [
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        }
+      ]
+    },
+    {
+      "command_name": "Runner",
+      "display_name": "Runner",
+      "claimed_by": [
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        }
+      ]
+    },
+    {
+      "command_name": "Ack Ack",
+      "display_name": "Ack Ack",
+      "claimed_by": [
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        }
+      ]
+    },
+    {
+      "command_name": "Hillbilly",
+      "display_name": "Hillbilly",
+      "claimed_by": [
+        {
+          "user_id": "990759232045473862",
+          "user_name": "Private Bullshit's Babe"
+        }
+      ]
+    },
+    {
+      "command_name": "Basilone",
+      "display_name": "Basilone",
+      "claimed_by": [
+        {
+          "user_id": "1241757256924532806",
+          "user_name": "meatball"
+        },
+        {
+          "user_id": "698227872585875477",
+          "user_name": "Ron’s Barbie"
+        }
+      ]
+    },
+    {
+      "command_name": "Manny",
+      "display_name": "Manny",
+      "claimed_by": [
+        {
+          "user_id": "1241757256924532806",
+          "user_name": "meatball"
+        }
+      ]
+    },
+    {
+      "command_name": "Talbert",
+      "display_name": "Talbert",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Winters",
+      "display_name": "Winters",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Doc Roe",
+      "display_name": "Doc Roe",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Luz",
+      "display_name": "Luz",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        },
+        {
+          "user_id": "1191295082708598844",
+          "user_name": "The MacDaddy"
+        }
+      ]
+    },
+    {
+      "command_name": "Crosby",
+      "display_name": "Crosby",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Liebgott",
+      "display_name": "Liebgott",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Babe",
+      "display_name": "Babe",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Grant",
+      "display_name": "Grant",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Snafu",
+      "display_name": "Snafu",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "McClung",
+      "display_name": "McClung",
+      "claimed_by": [
+        {
+          "user_id": "1103766553222201374",
+          "user_name": "clung wrap"
+        }
+      ]
+    },
+    {
+      "command_name": "Alley",
+      "display_name": "Alley",
+      "claimed_by": [
+        {
+          "user_id": "1103766553222201374",
+          "user_name": "clung wrap"
+        }
+      ]
+    },
+    {
+      "command_name": "Cassidy",
+      "display_name": "Cassidy",
+      "claimed_by": [
+        {
+          "user_id": "1103766553222201374",
+          "user_name": "clung wrap"
+        }
+      ]
+    },
+    {
+      "command_name": "Veal",
+      "display_name": "Veal",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Filthy 13",
+      "display_name": "Filthy 13",
+      "claimed_by": [
+        {
+          "user_id": "1103766553222201374",
+          "user_name": "clung wrap"
+        }
+      ]
+    },
+    {
+      "command_name": "Dinozzo",
+      "display_name": "Tony",
+      "claimed_by": [
+        {
+          "user_id": "887855737479520287",
+          "user_name": "Boning Hambone"
+        }
+      ]
+    },
+    {
+      "command_name": "Moose",
+      "display_name": "Moose",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
+      ]
+    },
+    {
+      "command_name": "Peacock",
+      "display_name": "Peacock",
+      "claimed_by": [
+        {
+          "user_id": "774462595998416896",
+          "user_name": "Nate Fuck's Slutshine"
+        }
       ]
     }
   ],
-  "generated_at": "2025-11-05T03:10:00Z"
+  "generated_at": "2025-11-05T10:45:20Z"
 }

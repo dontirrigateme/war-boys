@@ -1,0 +1,82 @@
+/* ===== War Boys Theme (drop-in) ===== */
+/* Color tokens */
+:root{
+  --bg: #0b1020;            /* deep navy (header) */
+  --bg-page: #0f172a;       /* slate navy (dark mode base) */
+  --bg-light: #0a0f1e;
+  --fg: #e5e7eb;            /* text */
+  --muted: #94a3b8;         /* secondary text */
+  --accent: #c2a97a;        /* khaki/gold accent */
+  --card: #111827;          /* card background */
+  --card-border: #1f2937;   /* card border */
+  --link: #93c5fd;          /* link blue */
+  --ok: #22c55e;            /* success */
+  --warn: #f59e0b;          /* warning */
+  --bad: #ef4444;           /* danger */
+  --max: 960px;
+}
+
+/* Base */
+*{ box-sizing: border-box; }
+html,body{ margin:0; padding:0; }
+body{
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+  background:#0b1222 linear-gradient(180deg,#0b1222 0%, #0a0f1e 100%);
+  color:var(--fg);
+  line-height:1.55;
+}
+a{ color:var(--link); text-decoration:none; }
+a:hover{ text-decoration:underline; }
+.wrap{ max-width:var(--max); margin:0 auto; padding:1rem; }
+
+/* Header / Nav */
+header{ background:var(--bg); border-bottom:1px solid #111827; }
+h1{ margin:.2rem 0 0; font-size:1.6rem; letter-spacing:.3px; }
+nav{ margin-top:.4rem; }
+nav a{ color:#cbd5e1; margin-right:1rem; padding:.25rem .4rem; border-radius:8px; }
+nav a:hover{ color:white; background:#0f1a34; }
+
+/* Headings */
+h2{ margin:1.2rem 0 .6rem; font-size:1.25rem; }
+h3{ margin:.2rem 0 .4rem; font-size:1.05rem; }
+
+/* Utilities */
+.muted{ color:var(--muted); font-size:.92rem; }
+.grid{ display:grid; gap:1rem; grid-template-columns:1fr; }
+@media (min-width:760px){ .grid{ grid-template-columns:1fr 1fr; } }
+
+/* Cards */
+.card{
+  background:var(--card);
+  border:1px solid var(--card-border);
+  border-radius:14px;
+  padding:1rem 1.1rem;
+  box-shadow: 0 10px 30px rgba(0,0,0,.25);
+}
+.card h3{ color:#fff; }
+
+/* Buttons / Badges (optional helpers) */
+.btn{
+  display:inline-block; border:1px solid var(--card-border);
+  background:#0f1a34; color:#e5e7eb;
+  padding:.5rem .8rem; border-radius:10px; text-decoration:none;
+}
+.btn:hover{ background:#132246; }
+.badge{ display:inline-block; padding:.15rem .5rem; border-radius:999px; font-size:.82rem; }
+.badge.ok{ background:rgba(34,197,94,.15); color:var(--ok); border:1px solid rgba(34,197,94,.35); }
+.badge.warn{ background:rgba(245,158,11,.15); color:var(--warn); border:1px solid rgba(245,158,11,.35); }
+.badge.bad{ background:rgba(239,68,68,.15); color:var(--bad); border:1px solid rgba(239,68,68,.35); }
+
+/* Tables (for future schedules/leaderboards) */
+table{ width:100%; border-collapse:separate; border-spacing:0; }
+th, td{ padding:.7rem .8rem; }
+thead th{
+  text-align:left; background:#0f1a34; color:#dbeafe;
+  border-bottom:1px solid var(--card-border);
+}
+tbody tr{ background:#0c1428; border-bottom:1px solid var(--card-border); }
+tbody tr:nth-child(2n){ background:#0e1831; }
+tbody tr:hover{ background:#112041; }
+
+/* Footer (optional) */
+footer{ color:var(--muted); font-size:.9rem; padding:2rem 0; text-align:center; }

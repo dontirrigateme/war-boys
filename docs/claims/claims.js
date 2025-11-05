@@ -27,7 +27,12 @@
         .sort((a,b) => a.label.localeCompare(b.label));
     } else {
       options = data.blorbos
-        .map(b => ({ key: b.command_name, label: `${b.display_name} (${b.command_name})` }))
+        .map(b => {
+          const disp = b.display_name || b.command_name;
+          const cmd  = b.command_name;
+          const same = disp.trim().toLowerCase() === cmd.trim().toLowerCase();
+          return { key: cmd, label: same ? disp : `${disp} (${cmd})` };
+        })
         .sort((a,b) => a.label.localeCompare(b.label));
     }
   }
@@ -52,7 +57,7 @@
     if (mode === "users") {
       const u = data.users.find(x => x.user_id === picker.value);
       if (!u) return;
-      const card = document.createElement("div");
+      ard = document.createElement("div");
       card.className = "card";
       card.innerHTML = `<h3>${u.user_name}</h3><div class="small">User ID: ${u.user_id}</div>`;
       const wrap = document.createElement("div");
@@ -61,11 +66,11 @@
         wrap.innerHTML = `<span class="small">No claims yet.</span>`;
       } else {
         for (const c of u.claims) {
-          const chip = document.createElement("span");
-          chip.className = "chip";
-          chip.textContent = `${c.display_name} (${c.command_name})`;
-          wrap.appendChild(chip);
-        }
+        const chip = document.createElement("a");
+        chip.className = "chip";
+        chip.href = `../character/?c=${encodeURIComponent(c.command_name)}`;
+        chip.textContent = c.display_name;  // pretty name
+        wrap.appendChild(chip);
       }
       card.appendChild(wrap);
       results.appendChild(card);
@@ -83,14 +88,12 @@
         for (const u of b.claimed_by) {
           const chip = document.createElement("span");
           chip.className = "chip";
-          chip.textContent = `${u.user_name}`;
+          chip.textContent = u.user_name || u.user_id;
           wrap.appendChild(chip);
         }
       }
       card.appendChild(wrap);
       results.appendChild(card);
-    }
-  }
 
   // events
   tabUsers.onclick = () => { mode = "users"; setActiveTab(); buildOptions(); renderPicker(search.value); };

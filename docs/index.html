@@ -29,30 +29,5 @@
     </section>
   </main>
 
-  <script>
-    document.getElementById('updated').textContent =
-      new Date().toLocaleString();
-
-    // This file is where you’ll paste a nightly snapshot (step 2)
-    fetch('./data/claims.json')
-      .then(r => r.ok ? r.json() : { news: [] })
-      .then(data => {
-        const root = document.getElementById('newsGrid');
-        const items = (data.news || []);
-        if (!items.length) {
-          const p = document.createElement('p');
-          p.textContent = 'No updates yet.';
-          root.appendChild(p);
-          return;
-        }
-        items.forEach(n => {
-          const card = document.createElement('div');
-          card.className = 'card';
-          card.innerHTML = `<h3>${n.title}</h3><p>${n.body}</p>`;
-          root.appendChild(card);
-        });
-      })
-      .catch(() => {});
-  </script>
 </body>
 </html>

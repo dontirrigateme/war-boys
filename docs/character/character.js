@@ -1,16 +1,15 @@
 // /docs/character/character.js
 (async function () {
-  // --- helpers ---
-  function charImg(cmd){
-    const slug = String(cmd).toLowerCase().replace(/\s+/g, "_");
-    return `../assets/images/${slug}.webp`; // your image folder
+  const DATA_VERSION = "2025-11-09-02"; // bump when data changes
+
+  function charImg(cmd, override) {
+    const file = override || `${String(cmd).toLowerCase().replace(/\s+/g, "_")}.webp`;
+    return `../assets/images/${file}`;
   }
 
-  // --- read query ---
-  const params = new URLSearchParams(location.search);
-  const cmd = (params.get("c") || "").trim().toLowerCase();
+  const qs = new URLSearchParams(location.search);
+  const key = (qs.get("c") || "").trim().toLowerCase();
 
-  // --- dom refs (must match /docs/character/index.html) ---
   const portraitEl = document.getElementById("portrait");
   const nameEl     = document.getElementById("name");
   const akaEl      = document.getElementById("aka");
@@ -18,72 +17,76 @@
   const factsEl    = document.getElementById("facts");
   const claimBox   = document.getElementById("claimers");
 
-  // --- load data (using claims.json for now; can swap to characters.json later) ---
-  const DATA_VERSION = "2025-11-09-01";
-  let data = { blorbos: [] };
+  // Load claims.json (claimed_by list) and characters.json (title/bio/facts)
+  let claims = { blorbos: [] }, chars = [];
   try {
-    const r = await fetch(`../data/claims.json?v=${DATA_VERSION}`, { cache: "no-store" });
-    if (!r.ok) throw new Error(`HTTP ${r.status}`);
-    data = await r.json();
+    const [r1, r2] = await Promise.all([
+      fetch(`../data/claims.json?v=${DATA_VERSION}`,      { cache: "no-store" }),
+      fetch(`../data/characters.json?v=${DATA_VERSION}`,  { cache: "no-store" })
+    ]);
+    if (!r1.ok) throw new Error(`claims.json HTTP ${r1.status}`);
+    if (!r2.ok) throw new Error(`characters.json HTTP ${r2.status}`);
+    claims = await r1.json();
+    chars  = await r2.json();
   } catch (err) {
-    console.error("Failed to load claims.json", err);
+    console.error("Data load failed:", err);
   }
 
-  // --- find character ---
-  const b = (data.blorbos || []).find(x => (x.command_name || "").toLowerCase() === cmd);
+  const b = (claims.blorbos || []).find(x => (x.command_name || "").toLowerCase() === key);
+  const meta = (chars || []).find(x => (x.command_name || "").toLowerCase() === key) || {};
 
-  if (!b) {
+  if (!b && !meta.command_name) {
     if (nameEl) nameEl.textContent = "Character not found";
-    if (akaEl)  akaEl.textContent  = cmd ? `(${cmd})` : "";
-    if (bioEl)  bioEl.textContent  = "We couldn’t find that character.";
-    if (factsEl){
-      factsEl.innerHTML = "";
-      const li = document.createElement("li");
-      li.textContent = "No facts available.";
-      factsEl.appendChild(li);
-    }
+    if (akaEl)  akaEl.textContent  = key ? `(${key})` : "";
+    if (bioEl)  bioEl.textContent  = "—";
+    if (factsEl) { factsEl.innerHTML = "<li>No facts available.</li>"; }
     if (claimBox) claimBox.innerHTML = '<span class="small">—</span>';
-    if (portraitEl){
+    if (portraitEl) {
       portraitEl.alt = "Not found";
       portraitEl.src = "../assets/images/_placeholder.webp";
     }
     return;
   }
 
-  // --- header (name, aka, portrait) ---
-  if (nameEl) nameEl.textContent = b.display_name || b.command_name;
-  if (akaEl)  akaEl.textContent  = b.command_name ? `(${b.command_name})` : "";
+  // Preferred display name
+  const display = meta.title || (b && b.display_name) || (b && b.command_name) || meta.command_name || key;
 
-  if (portraitEl){
-    portraitEl.alt = `${b.display_name || b.command_name} portrait`;
-    portraitEl.src = charImg(b.command_name);
+  // Header
+  if (nameEl) nameEl.textContent = display;
+  if (akaEl)  akaEl.textContent  = (b && b.command_name) ? `(${b.command_name})` : (meta.command_name ? `(${meta.command_name})` : "");
+
+  // Portrait
+  if (portraitEl) {
+    const imgFile = meta.image; // optional override
+    const imgSrc = charImg((b && b.command_name) || meta.command_name || key, imgFile);
+    portraitEl.alt = `${display} portrait`;
+    portraitEl.src = imgSrc + `?v=${DATA_VERSION}`;
     portraitEl.onerror = () => { portraitEl.src = "../assets/images/_placeholder.webp"; };
   }
 
-  // --- bio & facts (claims.json doesn’t have these yet; placeholders for now) ---
-  if (bioEl)   bioEl.textContent = b.bio || "—";
-  if (factsEl){
+  // Bio + Facts (from characters.json)
+  if (bioEl)   bioEl.textContent = meta.bio || "—";
+  if (factsEl) {
     factsEl.innerHTML = "";
-    if (Array.isArray(b.facts) && b.facts.length){
-      for (const f of b.facts){
+    if (Array.isArray(meta.facts) && meta.facts.length) {
+      for (const f of meta.facts) {
         const li = document.createElement("li");
         li.textContent = f;
         factsEl.appendChild(li);
       }
     } else {
-      const li = document.createElement("li");
-      li.textContent = "No facts added yet.";
-      factsEl.appendChild(li);
+      factsEl.innerHTML = "<li>No facts added yet.</li>";
     }
   }
 
-  // --- claimed by ---
-  if (claimBox){
+  // Claimed by (from claims.json)
+  if (claimBox) {
     claimBox.innerHTML = "";
-    if (!b.claimed_by || !b.claimed_by.length) {
+    const claimedBy = (b && b.claimed_by) || [];
+    if (!claimedBy.length) {
       claimBox.innerHTML = '<span class="small">No one has claimed this blorbo yet.</span>';
     } else {
-      for (const u of b.claimed_by) {
+      for (const u of claimedBy) {
         const chip = document.createElement("span");
         chip.className = "chip";
         chip.textContent = u.user_name || u.user_id;

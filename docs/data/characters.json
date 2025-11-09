@@ -1,24 +1,21 @@
 [
   {
     "command_name": "mcclung",
-    "display_name": "Earl McClung",
+    "title": "Earl McClung",
     "aka": ["McClung", "Earl"],
-    "bio": "Quiet, deadly-accurate scout. Known for dry humor and a steady hand.",
+    "bio": "Quiet, deadly-accurate scout. Dry humor, steady hand.",
     "facts": [
       "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper",
-      "Notable: Expert tracker with uncanny fieldcraft"
-    ]
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "mcclung.webp"
   },
   {
     "command_name": "cassidy",
-    "display_name": "Cassidy",
-    "aka": ["Cass", "Proinsias Cassidy"],
-    "bio": "Irish vampire with a taste for trouble and a soft spot for lost causes.",
-    "facts": [
-      "From: Dublin",
-      "Hobby: Chaos",
-      "Weakness: Sunshine and good decisions"
-    ]
+    "title": "Proinsias Cassidy",
+    "aka": ["Cassidy", "Cass"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": ["Dublin-born", "Sunlight-averse"],
+    "image": "cassidy.webp"
   }
 ]

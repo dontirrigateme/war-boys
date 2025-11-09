@@ -42,7 +42,7 @@
 
   function charImg(cmd) {
   const slug = String(cmd).toLowerCase().replace(/\s+/g, "_");
-  return `../assets/characters/${slug}.webp`;
+  return `../assets/images/${slug}.webp`;
 }
 
   function setActiveTab() {

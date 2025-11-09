@@ -123,9 +123,32 @@
 
       const card = document.createElement("div");
       card.className = "card";
+      
+      // top row: portrait + name
+      const top = document.createElement("div");
+      top.style.display = "flex";
+      top.style.gap = "12px";
+      top.style.alignItems = "center";
+      
+      // portrait
+      const img = document.createElement("img");
+      img.className = "portrait";
+      img.loading = "lazy";
+      img.decoding = "async";
+      img.width = 120;
+      img.height = 120;
+      img.alt = `${b.display_name || b.command_name} portrait`;
+      img.src = charImg(b.command_name);
+      img.onerror = () => { img.src = "../assets/characters/_placeholder.webp"; };
+      
+      // name
       const h = document.createElement("h3");
       h.textContent = b.display_name || b.command_name;
-      card.appendChild(h);
+      
+      // assemble header
+      top.appendChild(img);
+      top.appendChild(h);
+      card.appendChild(top);
 
       const wrap = document.createElement("div");
       wrap.className = "kv";
@@ -156,3 +179,13 @@
   console.log("[claims] mode:", mode, "options:", options.length);
   renderPicker("");
 })();
+
+.portrait{
+  width:120px;
+  height:120px;
+  border-radius:50%;
+  object-fit:cover;
+  border:1px solid #2a3344;
+  background:#0b0f14;
+}
+

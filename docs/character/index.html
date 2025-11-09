@@ -1,26 +1,28 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
-  <meta charset="utf-8">
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
   <title>Character • War Boys</title>
   <link rel="stylesheet" href="../style.css">
+  <style>
+    .page{max-width:900px;margin:32px auto;padding:0 16px}
+    .top{display:flex;gap:16px;align-items:center}
+    .portrait{width:160px;height:160px;border-radius:50%;object-fit:cover;border:1px solid #2a3344;background:#0b0f14}
+    .aka{color:#9aa7b1;margin-top:6px}
+    .facts{margin-top:12px;padding-left:18px}
+    .card{background:#151a23;border:1px solid #1f2a3d;border-radius:14px;padding:16px;margin-top:16px;color:#e7ecf3}
+  </style>
 </head>
 <body>
-  <header class="wrap">
-    <h1><a href="../" style="text-decoration:none;color:inherit;">War Boys</a></h1>
-    <nav><a href="../">Home</a> · <a href="../claims/">Claims</a></nav>
-  </header>
+  <main class="page">
+    <a href="../claims/" style="color:#9aa7b1;text-decoration:none">← Back to Claims</a>
 
-  <main class="wrap">
-    <div class="card">
-      <h2 id="charName">Loading…</h2>
-      <p class="muted" id="charKey"></p>
-      <h3>Claimed by</h3>
-      <div class="kv" id="claimers"><span class="small">Loading…</span></div>
-      <!-- Later: add Traits / Children sections here -->
-    </div>
+    <section id="view" class="card">
+      <!-- JS fills this -->
+    </section>
   </main>
 
-  <script src="./character.js?v=1"></script>
+  <script src="./character.js" defer></script>
 </body>
 </html>

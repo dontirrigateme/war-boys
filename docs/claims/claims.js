@@ -40,6 +40,11 @@
   let mode = "users"; // "users" | "blorbos"
   let options = [];
 
+  function charImg(cmd) {
+  const slug = String(cmd).toLowerCase().replace(/\s+/g, "_");
+  return `../assets/characters/${slug}.webp`;
+}
+
   function setActiveTab() {
     tabUsers.classList.toggle("active", mode === "users");
     tabBlorbos.classList.toggle("active", mode === "blorbos");

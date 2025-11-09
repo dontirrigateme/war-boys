@@ -1,7 +1,20 @@
 (async function () {
-  const DATA_VERSION = "2025-11-05-03";
-  const DATA_URL = "../data/claims.json?v=2025-11-05-03";
-  const data = await fetch(DATA_URL).then(r => r.json()).catch(() => ({users:[], blorbos:[]}));
+  const DATA_VERSION = String(Date.now()); // always bypasses cache (good for dev)
+  const DATA_URL = `../data/claims.json?v=${DATA_VERSION}`;
+  let data;
+  try {
+    const r = await fetch(DATA_URL, { cache: "no-store" });
+    if (!r.ok) throw new Error(`HTTP ${r.status}`);
+    data = await r.json();
+  } catch (err) {
+    console.error("Failed to load", DATA_URL, err);
+    const results = document.getElementById("results");
+    if (results) {
+      results.innerHTML =
+        `<div class="card"><p class="small">Couldn’t load ${DATA_URL}: ${err.message}</p></div>`;
+    }
+    data = { users: [], blorbos: [] };
+  }
   const stamp = document.getElementById("stamp");
   if (data.generated_at) stamp.textContent = `Last updated: ${new Date(data.generated_at).toLocaleString()}`;
 
@@ -26,11 +39,11 @@
         .map(u => ({ key: u.user_id, label: u.user_name }))
         .sort((a,b) => a.label.localeCompare(b.label));
     } else {
-      options = (data.blorbos || [])
+      options = data.blorbos
         .map(b => {
-          const disp = (b.display_name || b.command_name || "").trim();
-          const cmd  = (b.command_name || "").trim();
-          const same = disp.toLowerCase() === cmd.toLowerCase();
+          const disp = b.display_name || b.command_name;
+          const cmd  = b.command_name;
+          const same = disp.trim().toLowerCase() === cmd.trim().toLowerCase();
           return { key: cmd, label: same ? disp : `${disp} (${cmd})` };
         })
         .sort((a,b) => a.label.localeCompare(b.label));
@@ -57,7 +70,7 @@
     if (mode === "users") {
       const u = data.users.find(x => x.user_id === picker.value);
       if (!u) return;
-      ard = document.createElement("div");
+      const card = document.createElement("div");
       card.className = "card";
       card.innerHTML = `<h3>${u.user_name}</h3><div class="small">User ID: ${u.user_id}</div>`;
       const wrap = document.createElement("div");
@@ -65,13 +78,13 @@
       if (!u.claims?.length) {
         wrap.innerHTML = `<span class="small">No claims yet.</span>`;
       } else {
-        for (const c of (u.claims || [])) {
-          const chip = document.createElement("a");
-          chip.className = "chip";
-          chip.href = `../character/?c=${encodeURIComponent(c.command_name || "")}`;
-          chip.textContent = (c.display_name || c.command_name || "Unknown");
-          wrap.appendChild(chip);
-        }
+        for (const c of u.claims) {
+        const chip = document.createElement("a");
+        chip.className = "chip";
+        chip.href = `../character/?c=${encodeURIComponent(c.command_name)}`;
+        chip.textContent = c.display_name;  // pretty name
+        wrap.appendChild(chip);
+      }
       card.appendChild(wrap);
       results.appendChild(card);
     } else {
@@ -82,13 +95,13 @@
       card.innerHTML = `<h3>${b.display_name} <span class="small">(${b.command_name})</span></h3>`;
       const wrap = document.createElement("div");
       wrap.className = "kv";
-      if (!b.claimed_by || !b.claimed_by.length) {
+      if (!b.claimed_by?.length) {
         wrap.innerHTML = `<span class="small">No one has claimed this blorbo yet.</span>`;
       } else {
         for (const u of b.claimed_by) {
           const chip = document.createElement("span");
           chip.className = "chip";
-          chip.textContent = (u.user_name || u.user_id || "Unknown user");
+          chip.textContent = u.user_name || u.user_id;
           wrap.appendChild(chip);
         }
       }

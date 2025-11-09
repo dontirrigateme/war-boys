@@ -7,19 +7,36 @@
   <link rel="stylesheet" href="../style.css">
   <style>
     .page{max-width:900px;margin:32px auto;padding:0 16px}
+    .card{background:#151a23;border:1px solid #1f2a3d;border-radius:14px;padding:16px;color:#e7ecf3}
     .top{display:flex;gap:16px;align-items:center}
-    .portrait{width:160px;height:160px;border-radius:50%;object-fit:cover;border:1px solid #2a3344;background:#0b0f14}
     .aka{color:#9aa7b1;margin-top:6px}
     .facts{margin-top:12px;padding-left:18px}
-    .card{background:#151a23;border:1px solid #1f2a3d;border-radius:14px;padding:16px;margin-top:16px;color:#e7ecf3}
   </style>
 </head>
 <body>
   <main class="page">
     <a href="../claims/" style="color:#9aa7b1;text-decoration:none">← Back to Claims</a>
 
-    <section id="view" class="card">
-      <!-- JS fills this -->
+    <section class="card">
+      <div class="top">
+        <img id="portrait" class="portrait" alt="" width="160" height="160" />
+        <div>
+          <h2 id="name"></h2>
+          <div id="aka" class="aka"></div>
+        </div>
+      </div>
+
+      <p id="bio" style="margin-top:10px"></p>
+
+      <div class="card" style="margin-top:16px">
+        <h3>Facts</h3>
+        <ul id="facts" class="facts"></ul>
+      </div>
+
+      <div class="card" style="margin-top:16px">
+        <h3>Claimed by</h3>
+        <div id="claimers" class="kv"></div>
+      </div>
     </section>
   </main>
 

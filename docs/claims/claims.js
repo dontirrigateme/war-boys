@@ -180,12 +180,4 @@
   renderPicker("");
 })();
 
-.portrait{
-  width:120px;
-  height:120px;
-  border-radius:50%;
-  object-fit:cover;
-  border:1px solid #2a3344;
-  background:#0b0f14;
-}
 

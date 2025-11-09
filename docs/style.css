@@ -82,6 +82,17 @@ thead th{
   text-align:left; background:#0f1a34; color:#dbeafe;
   border-bottom:1px solid var(--card-border);
 }
+
+.portrait {
+  width: 120px; height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #2a3344;
+  background:#0b0f14;
+}
+
+img.className = "portrait";
+
 tbody tr{ background:#0c1428; border-bottom:1px solid var(--card-border); }
 tbody tr:nth-child(2n){ background:#0e1831; }
 tbody tr:hover{ background:#112041; }

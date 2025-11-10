@@ -48,23 +48,49 @@
   },
   {
     "command_name": "babe",
-    "title": "Skip Muck",
+    "title": "Edward Heffron",
     "show": "band_of_brothers",
-    "aka": ["Doc"],
+    "aka": ["Babe"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: Edward James Heffron",
+      "Nickname: Babe",
+      "Birthplace: South Philadelphia, PA",
+      "Birth date: 16 May 1923",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Robin Laing",
+      "Gravesite: Herron Playground, Philadelphia, PA. Heffron Memorial Statue."
     ],
     "image": "babe01.png"
   },
   {
     "command_name": "basilone",
-    "title": "Skip Muck",
+    "title": "John Basilone",
     "show": "the_pacific",
-    "aka": ["Doc"],
+    "aka": ["Manila John"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: John Francis Basilone",
+      "Nickname: Manila John",
+      "Birthplace: Buffalo, NY",
+      "Birth date: 04 November 1916",
+      "Age (at the Battle of Guadalcanal): 25",
+      "Rank (highest achieved): Gunnery Sergeant",
+      "Branch: USMC",
+      "Company: Charlie",
+      "Platoon: UNKOWN",
+      "Battalion: 1st",
+      "Regiment: 27th Marines",
+      "Division: 5th Marine Division",
+      "Portrayed by: Jon Seda",
+      "Gravesite: Arlington National Cemetary, Section 12, Grave 384"
     ],
     "image": "basilone01.png"
   },
@@ -72,10 +98,23 @@
     "command_name": "brady",
     "title": "John Brady",
     "show": "masters_of_the_air",
-    "aka": ["Doc"],
+    "aka": ["N/A"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: John Donnelly Brady",
+      "Nickname: None",
+      "Birthplace: Victor, NY",
+      "Birth date: 05 October 1918",
+      "Age (on first mission): 25",
+      "Rank (highest achieved): Captain",
+      "Branch: Army Air Force",
+      "Squadron: UNKNOWN",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Ben Radcliffe",
+      "Gravesite: St. Mary of the Mills Cemetary, Laurel, MD"
     ],
     "image": "brady01.png"
   },
@@ -85,8 +124,21 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "bucky01.png"
   },
@@ -96,8 +148,20 @@
     "show": "the_pacific",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "burgin01.png"
   },
@@ -107,8 +171,11 @@
     "show": "preacher",
     "aka": ["Cassidy", "Cass"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Preacher",
+      "Full name: Proinsias Cassidy",
+      "From: Ireland",
+      "Job: None",
+      "Attributes: Vampire"
     ],
     "image": "cassidy01.png"
   },
@@ -118,8 +185,21 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "cleven01.png"
   },
@@ -127,10 +207,21 @@
     "command_name": "colbert",
     "title": "Brad Colbert",
     "show": "generation_kill",
-    "aka": ["Doc"],
+    "aka": ["Iceman"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Generation Kill",
+      "Full name: Brad Colbert",
+      "Nickname: Iceman",
+      "Birthplace: UNKNOWN",
+      "Birth date: 25 July 1974",
+      "Age (on arrival in Iraq): 28",
+      "Rank (highest achieved): Master Sergeant",
+      "Branch: USMC",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Alexander Skarsgård",
     ],
     "image": "colbert01.png"
   },
@@ -140,8 +231,21 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "crosby01.png"
   },
@@ -151,8 +255,21 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "demarco01.png"
   },
@@ -173,41 +290,89 @@
     "show": "generation_kill",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Generation Kill",
+      "Full name: Robert Timothy Bryan",
+      "Nickname: Doc",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Hospital Corpsman 2 (HM2)",
+      "Branch: Navy",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Jonah Lotan",
     ],
     "image": "doc_bryan01.png"
   },
   {
     "command_name": "doc roe",
-    "title": "Skip Muck",
+    "title": "Eugene Roe",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: Eugene Gilbert Roe",
+      "Nickname: Doc, Gene",
+      "Birthplace: Bayou Chene, LA",
+      "Birth date: 17 October 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Technician 4th Grade",
+      "Branch: Army",
+      "Company: Easy",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Shane Taylor",
+      "Gravesite: Resthaven Garden of Memory and Masoleum, Baton Rouge, LA. Plot: Garden of Faith."
     ],
     "image": "doc_roe01.png"
   },
   {
     "command_name": "filthy 13",
-    "title": "Skip Muck",
+    "title": "Filthy 13",
     "show": "band_of_brothers",
-    "aka": ["Doc"],
+    "aka": ["Filthy 13"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: Filthy 13",
+      "Nickname: Filthy 13",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: 1st Demolition Section",
+      "Battalion: HQ",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Several",
+      "Gravesite: Several"
     ],
     "image": "filthy_1301.png"
   },
   {
     "command_name": "grant",
-    "title": "Skip Muck",
+    "title": "Chuck Grant",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "grant01.png"
   },
@@ -217,10 +382,23 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
-    "image": "grant01.png"
+    "image": "hambone01.png"
   },
   {
     "command_name": "hillbilly",
@@ -228,8 +406,20 @@
     "show": "the_pacific",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "hillbilly01.png"
   },
@@ -239,8 +429,19 @@
     "show": "generation_kill",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Generation Kill",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on arrival in Iraq): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
     ],
     "image": "fick01.png"
   },
@@ -250,41 +451,92 @@
     "show": "the_pacific",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "hoosier01.png"
   },
   {
     "command_name": "lemmons",
-    "title": "Skip Muck",
+    "title": "Ken Lemmons",
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "lemmons01.png"
   },
   {
     "command_name": "liebgott",
-    "title": "Skip Muck",
+    "title": "Joe Liebgott",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "liebgott01.png"
   },
   {
     "command_name": "luz",
-    "title": "Skip Muck",
+    "title": "George Luz",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "luz01.png"
   },
@@ -294,19 +546,44 @@
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "malarkey01.png"
   },
   {
     "command_name": "manny",
-    "title": "Skip Muck",
+    "title": "Manny Rodriguez",
     "show": "the_pacific",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "manny01.png"
   },
@@ -316,19 +593,45 @@
     "show": "band_of_brothers",
     "aka": ["McClung", "Earl"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "mcclung01.png"
   },
   {
     "command_name": "moose",
-    "title": "Skip Muck",
+    "title": "Moose Heyliger",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "moose01.png"
   },
@@ -338,19 +641,45 @@
     "show": "band_of_brothers",
     "aka": ["Lew"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "nixon01.png"
   },
   {
     "command_name": "peacock",
-    "title": "Skip Muck",
+    "title": "Thomas Peacock",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "peacock01.png"
   },
@@ -360,8 +689,21 @@
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "penkala01.png"
   },
@@ -371,19 +713,43 @@
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "popeye01.png"
   },
   {
     "command_name": "reyes",
-    "title": "Skip Muck",
+    "title": "Rudy Reyes",
     "show": "generation_kill",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Generation Kill",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on arrival in Iraq): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
     ],
     "image": "reyes01.png"
   },
@@ -393,8 +759,21 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "rosie01.png"
   },
@@ -404,19 +783,44 @@
     "show": "the_pacific",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "runner01.png"
   },
   {
     "command_name": "shifty",
-    "title": "Darrell Powers",
+    "title": "Shifty Powers",
     "show": "band_of_brothers",
     "aka": ["Shifty"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "shifty01.png"
   },
@@ -426,8 +830,21 @@
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "skinny01.png"
   },
@@ -437,8 +854,21 @@
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "skip01.png"
   },
@@ -448,41 +878,91 @@
     "show": "the_pacific",
     "aka": ["Sledgehammer"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "sledge01.png"
   },
   {
     "command_name": "snafu",
-    "title": "Skip Muck",
+    "title": "Snafu Shelton",
     "show": "the_pacific",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (at the Battle of Guadalcanal): ",
+      "Rank (highest achieved): ",
+      "Branch: USMC",
+      "Company: ",
+      "Battalion: ",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "snafu01.png"
   },
   {
     "command_name": "speirs",
-    "title": "Ronald Speirs",
+    "title": "Ron Speirs",
     "show": "band_of_brothers",
     "aka": ["Ron"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "speirs01.png"
   },
   {
     "command_name": "talbert",
-    "title": "Skip Muck",
+    "title": "Floyd Talbert",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "talbert01.png"
   },
@@ -492,19 +972,45 @@
     "show": "masters_of_the_air",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Masters of the Air",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on first mission): ",
+      "Rank (highest achieved): ",
+      "Branch: Army Air Force",
+      "Squadron: ",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "veal01.png"
   },
   {
     "command_name": "winters",
-    "title": "Skip Muck",
+    "title": "Dick Winters",
     "show": "band_of_brothers",
     "aka": ["Doc"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: ",
+      "Nickname: ",
+      "Birthplace: ",
+      "Birth date: ",
+      "Age (on D-Day): ",
+      "Rank (highest achieved): ",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: ",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: "
     ],
     "image": "winters01.png"
   }

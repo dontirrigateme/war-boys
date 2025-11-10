@@ -9,14 +9,15 @@
     masters_of_the_air: "Masters of the Air",
     generation_kill: "Generation Kill",
     preacher: "Preacher",
-    ncis: "NCIS",
+    ncis: "NCIS"
   };
   const SHOW_ORDER = [
     "band_of_brothers",
     "the_pacific",
     "masters_of_the_air",
     "generation_kill",
-    "preacher"
+    "preacher",
+    "ncis"
   ];
 
   const listEl = document.getElementById("list");

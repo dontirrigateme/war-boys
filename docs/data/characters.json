@@ -24,15 +24,27 @@
   },
   {
     "command_name": "alley",
-    "title": "Skip Muck",
+    "title": "James Alley",
     "show": "band_of_brothers",
-    "aka": ["Doc"],
-    "bio": "Irish vampire with a taste for trouble.",
+    "aka": ["Moe"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: Band of Brothers",
+      "Full name: James Henry Alley, Jr.",
+      "Nickname: Moe",
+      "Birthplace: Mount Ida, AR",
+      "Birth date: 20 July 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Staff Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: George Calil",
+      "Gravesite: Union Cemetary, Sedro-Woolley, WA. Niche Wall 1, East Side, Space 26"
     ],
-    "image": "cassidy.webp"
+    "image": "alley01.png"
   },
   {
     "command_name": "babe",

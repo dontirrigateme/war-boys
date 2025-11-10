@@ -1,13 +1,24 @@
 [
   {
     "command_name": "ack ack",
-    "title": "Ack Ack Haldane",
+    "title": "Andrew Haldane",
     "show": "the_pacific",
-    "aka": ["Doc"],
-    "bio": "Irish vampire with a taste for trouble.",
+    "aka": ["Ack Ack"],
     "facts": [
-      "Unit: Easy Company, 506th PIR",
-      "Specialty: Scout/Sniper"
+      "Show: The Pacific",
+      "Full name: Andrew Allison Haldane",
+      "Nickname: Ack Ack",
+      "Birthplace: Lawrence, MA",
+      "Birth date: 22 August 1917",
+      "Age (at the Battle of Guadalcanal): 24",
+      "Rank (highest achieved): Captain",
+      "Branch: USMC",
+      "Company: King",
+      "Battalion: 3rd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Scott Gibson",
+      "Gravesite: Arlington National Cemetary, Section 12, Site 5367",
     ],
     "image": "cassidy.webp"
   },

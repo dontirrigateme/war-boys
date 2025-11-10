@@ -1,6 +1,6 @@
 // /docs/character/character.js
 (async function () {
-  const DATA_VERSION = "2025-11-09-03"; // bump when data changes
+  const DATA_VERSION = "2025-11-09-04"; // bump when data changes
 
   function charImg(cmd, override) {
     const file = override || `${String(cmd).toLowerCase().replace(/\s+/g, "_")}.webp`;

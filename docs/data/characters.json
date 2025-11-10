@@ -1,9 +1,295 @@
 [
   {
+    "command_name": "ack ack",
+    "title": "Ack Ack Haldane",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "alley",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "babe",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "basilone",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "brady",
+    "title": "John Brady",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "bucky",
+    "title": "Bucky Egan",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "burgin",
+    "title": "RV Burgin",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "cassidy",
+    "title": "Proinsias Cassidy",
+    "aka": ["Cassidy", "Cass"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "cleven",
+    "title": "Buck Cleven",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "colbert",
+    "title": "Brad Colbert",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "crosby",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "demarco",
+    "title": "Bennie DeMarco",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "dinozzo",
+    "title": "DiNozzo",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "doc bryan",
+    "title": "Timothy Bryan",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "doc roe",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "filthy 13",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "grant",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "hambone",
+    "title": "Hambone Hamilton",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "hillbilly",
+    "title": "Hillbilly Jones",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "fick",
+    "title": "Nate Fick",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "hoosier",
+    "title": "Hoosier",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "lemmons",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "liebgott",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "luz",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "malarkey",
+    "title": "Don Malarkey",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "manny",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
     "command_name": "mcclung",
     "title": "Earl McClung",
     "aka": ["McClung", "Earl"],
-    "bio": "Quiet, deadly-accurate scout. Dry humor, steady hand.",
+    "bio": " ",
     "facts": [
       "Unit: Easy Company, 506th PIR",
       "Specialty: Scout/Sniper"
@@ -11,11 +297,190 @@
     "image": "mcclung.webp"
   },
   {
-    "command_name": "cassidy",
-    "title": "Proinsias Cassidy",
-    "aka": ["Cassidy", "Cass"],
+    "command_name": "moose",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
     "bio": "Irish vampire with a taste for trouble.",
-    "facts": ["Dublin-born", "Sunlight-averse"],
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "nixon",
+    "title": "Lewis Nixon",
+    "aka": ["Lew"],
+    "bio": " ",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "mcclung.webp"
+  },
+  {
+    "command_name": "peacock",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "penkala",
+    "title": "Alex Penkala",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "popeye",
+    "title": "Popeye Wynn",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "reyes",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "rosie",
+    "title": "Rosie Rosenthal",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "runner",
+    "title": "Runner Conley",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "shifty",
+    "title": "Darrell Powers",
+    "aka": ["Shifty"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "skinny",
+    "title": "Skinny Sisk",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "skip",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "sledge",
+    "title": "Eugene Sledge",
+    "aka": ["Sledgehammer"],
+    "bio": " ",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "mcclung.webp"
+  },
+  {
+    "command_name": "snafu",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "speirs",
+    "title": "Ronald Speirs",
+    "aka": ["Ron"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "talbert",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "veal",
+    "title": "Bill Veal",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
+    "image": "cassidy.webp"
+  },
+  {
+    "command_name": "winters",
+    "title": "Skip Muck",
+    "aka": ["Doc"],
+    "bio": "Irish vampire with a taste for trouble.",
+    "facts": [
+      "Unit: Easy Company, 506th PIR",
+      "Specialty: Scout/Sniper"
+    ],
     "image": "cassidy.webp"
   }
 ]

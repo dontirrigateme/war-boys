@@ -3,11 +3,13 @@ const DATA_URL = "../data/children.json?v=" + DATA_VERSION; // you’ll create t
 
 const results = document.getElementById("results");
 const fatherPicker = document.getElementById("fatherPicker");
+const userPicker = document.getElementById("userPicker");
 const sortPicker = document.getElementById("sortPicker");
 const search = document.getElementById("search");
 
 let children = [];
 let fathers = [];
+let users = [];
 
 init().catch(console.error);
 
@@ -16,6 +18,7 @@ async function init() {
   children = await res.json(); // array
   normalize();
   buildFatherPicker();
+  buildUserPicker();
   hookEvents();
   render();
 }
@@ -29,6 +32,11 @@ function normalize() {
     // convenient strings
     c._name = c.full_name || `${c.first_name || ""} ${c.last_name || ""}`.trim();
     c._fatherName = (c.father?.display_name || c.father?.command_name || "Unknown");
+    c._userName =
+      (c.adopted_out && (c.adopter_name || c.adopter_user_name ||
+      c.mother_user_name ||
+      c.mother_user_id ||
+      null;
   }
   fathers = Array.from(new Set(children.map(c => c._fatherName))).sort((a,b)=>a.localeCompare(b));
 }
@@ -48,8 +56,25 @@ function buildFatherPicker() {
   }
 }
 
+function buildUserPicker() {
+  if (!userPicker) return; // safe if HTML not updated yet
+  userPicker.innerHTML = "";
+  const ph = document.createElement("option");
+  ph.value = "";
+  ph.textContent = "— All users —";
+  ph.selected = true;
+  userPicker.appendChild(ph);
+  for (const u of users) {
+    const opt = document.createElement("option");
+    opt.value = u;
+    opt.textContent = u;
+    userPicker.appendChild(opt);
+  }
+}
+
 function hookEvents() {
   fatherPicker.addEventListener("change", render);
+  if (userPicker) userPicker.addEventListener("change", render);
   sortPicker.addEventListener("change", render);
   search.addEventListener("input", render);
 }
@@ -57,9 +82,11 @@ function hookEvents() {
 function render() {
   const term = search.value.trim().toLowerCase();
   const father = fatherPicker.value;
+  const user = userPicker ? userPicker.value;
 
   let rows = children.filter(c =>
     (!father || c._fatherName === father) &&
+    (!user || c._userName === user) &&
     (!term || c._name.toLowerCase().includes(term))
   );
 

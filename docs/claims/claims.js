@@ -1,7 +1,7 @@
 // /docs/claims/claims.js
 (async function () {
   // --- config + DOM ---
-  const DATA_VERSION = "2025-11-09-02"; // bump when JSON changes (prevents caching)
+  const DATA_VERSION = "2025-11-09-03"; // bump when JSON changes (prevents caching)
   const DATA_URL = `../data/claims.json?v=${DATA_VERSION}`;
 
   const tabUsers   = document.getElementById("tabUsers");

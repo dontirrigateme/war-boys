@@ -1,0 +1,12 @@
+[
+  {
+    "child_id": "bby_001",
+    "full_name": "Sunday Roe",
+    "sex": "F",
+    "birth_date": "2025-07-12",
+    "stage": "infant",
+    "mother_user_id": "123",
+    "mother_user_name": "Jill",
+    "father": { "command_name": "earl_mcclung", "display_name": "Earl McClung" }
+  }
+]

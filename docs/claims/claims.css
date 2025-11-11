@@ -26,7 +26,6 @@
   border: 1px solid #2a3344;
   background:#0b0f14;
 }
-img.className = "portrait";
 
 #claimers .chip + .chip::before {
   content: " • ";

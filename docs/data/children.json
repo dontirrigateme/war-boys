@@ -1,12 +1,852 @@
 [
   {
-    "child_id": "bby_001",
-    "full_name": "Sunday Roe",
+    "child_id": "bby_1",
+    "full_name": "Henry Telemachus Sledge",
+    "sex": "M",
+    "birth_date": "10 July 2025 @ 03:01",
+    "stage": "Child",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_2",
+    "full_name": "Hudson James Smith",
+    "sex": "M",
+    "birth_date": "10 July 2025 @ 03:31",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "hoosier", "display_name": "Bill Smith" }
+  },
+  {
+    "child_id": "bby_3",
+    "full_name": "James Patroclus Sledge",
+    "sex": "M",
+    "birth_date": "10 July 2025 @ 03:57",
+    "stage": "Child",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_4",
+    "full_name": "Thomas Bellerophone Sledge",
+    "sex": "M",
+    "birth_date": "10 July 2025 @ 03:57",
+    "stage": "Child",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_5",
+    "full_name": "Marina Onyx Wren Fick",
+    "sex": "f",
+    "birth_date": "11 July 2025 @ 00:44",
+    "stage": "Preteen",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "fick", "display_name": "Nate Fick" }
+  },
+  {
+    "child_id": "bby_6",
+    "full_name": "Avrey Lynn Penkala",
     "sex": "F",
-    "birth_date": "2025-07-12",
-    "stage": "infant",
-    "mother_user_id": "123",
-    "mother_user_name": "Jill",
-    "father": { "command_name": "earl_mcclung", "display_name": "Earl McClung" }
+    "birth_date": "11 July 2025 @ 01:50",
+    "stage": "Preteen",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "penkala", "display_name": "Alex Penkala" }
+  },
+  {
+    "child_id": "bby_7",
+    "full_name": "Volt Vincent Rowan McClung",
+    "sex": "M",
+    "birth_date": "11 July 2025 @ 03:12",
+    "stage": "Preteen",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_8",
+    "full_name": "Bronx Dillon Demarco",
+    "sex": "M",
+    "birth_date": "11 July 2025 @ 02:15",
+    "stage": "Young adult",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "demarco", "display_name": "Bennie Demarco" }
+  },
+  {
+    "child_id": "bby_9",
+    "full_name": "Fred Andrew Demarco",
+    "sex": "M",
+    "birth_date": "11 July 2025 @ 05:03",
+    "stage": "Young adult",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "demarco", "display_name": "Bennie Demarco" }
+  },
+  {
+    "child_id": "bby_10",
+    "full_name": "George Maddox Demarco",
+    "sex": "M",
+    "birth_date": "11 July 2025 @ 05:03",
+    "stage": "Young adult",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "demarco", "display_name": "Bennie Demarco" }
+  },
+  {
+    "child_id": "bby_11",
+    "full_name": "Anna Rosemary Speirs",
+    "sex": "F",
+    "birth_date": "11 July 2025 @ 16:16",
+    "stage": "Child",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_12",
+    "full_name": "June Sophie Speirs",
+    "sex": "F",
+    "birth_date": "11 July 2025 @ 16:18",
+    "stage": "Child",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_13",
+    "full_name": "Leo Harris Speirs",
+    "sex": "M",
+    "birth_date": "12 July 2025 @ 23:32",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_14",
+    "full_name": "Jack Oliver Speirs",
+    "sex": "M",
+    "birth_date": "12 July 2025 @ 23:32",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_15",
+    "full_name": "Savannah Mia Hamilton",
+    "sex": "F",
+    "birth_date": "13 July 2025 @ 23:30",
+    "stage": "Teenager",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "hambone", "display_name": "Hambone Hamilton" }
+  },
+  {
+    "child_id": "bby_16",
+    "full_name": "Willow Grace McClung",
+    "sex": "F",
+    "birth_date": "14 July 2025 @ 01:52",
+    "stage": "Toddler",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_17",
+    "full_name": "Sophia Willow Speirs",
+    "sex": "F",
+    "birth_date": "15 July 2025 @ 20:09",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_18",
+    "full_name": "Henry William Toye",
+    "sex": "M",
+    "birth_date": "15 July 2025 @ 20:39",
+    "stage": "Child",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "toye", "display_name": "Joe Toye" }
+  },
+  {
+    "child_id": "bby_19",
+    "full_name": "Blaise Zephyr John Talbert",
+    "sex": "M",
+    "birth_date": "16 July 2025 @ 02:10",
+    "stage": "Preteen",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "talbert", "display_name": "Floyd Talbert" }
+  },
+  {
+    "child_id": "bby_20",
+    "full_name": "Phoenix Arlow Roger Talbert",
+    "sex": "M",
+    "birth_date": "16 July 2025 @ 02:11",
+    "stage": "Preteen",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "talbert", "display_name": "Floyd Talbert" }
+  },
+  {
+    "child_id": "bby_21",
+    "full_name": "Clark Socrates Leckie",
+    "sex": "M",
+    "birth_date": "16 July 2025 @ 17:05",
+    "stage": "Child",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "leckie", "display_name": "Robert Leckie" }
+  },
+  {
+    "child_id": "bby_22",
+    "full_name": "Mateo Leo Hamilton",
+    "sex": "M",
+    "birth_date": "16 July 2025 @ 23:44",
+    "stage": "Teenager",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "hambone", "display_name": "Hambone Hamilton" }
+  },
+  {
+    "child_id": "bby_23",
+    "full_name": "Ruthie Quinn Penkala",
+    "sex": "F",
+    "birth_date": "17 July 2025 @ 03:13",
+    "stage": "Child",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "penkala", "display_name": "Alex Penkala" }
+  },
+  {
+    "child_id": "bby_24",
+    "full_name": "Freddie Dymphna Azure McClung",
+    "sex": "F",
+    "birth_date": "17 July 2025 @ 15:54",
+    "stage": "Child",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_25",
+    "full_name": "Helena Andromeda Guarnere",
+    "sex": "F",
+    "birth_date": "17 July 2025 @ 17:54",
+    "stage": "Toddler",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "guarnere", "display_name": "Bill Guarnere" }
+  },
+  {
+    "child_id": "bby_26",
+    "full_name": "Katarina Ada Speirs",
+    "sex": "F",
+    "birth_date": "17 July 2025 @ 17:57",
+    "stage": "Toddler",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_27",
+    "full_name": "Camila Scarlett Reyes",
+    "sex": "F",
+    "birth_date": "17 July 2025 @ 20:50",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "reyes", "display_name": "Rudy Reyes" }
+  },
+  {
+    "child_id": "bby_28",
+    "full_name": "Wyatt Beau Demarco",
+    "sex": "M",
+    "birth_date": "18 July 2025 @ 01:23",
+    "stage": "Teenager",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "demarco", "display_name": "Bennie Demarco" }
+  },
+  {
+    "child_id": "bby_29",
+    "full_name": "Chernobyl Ayahuasca McClung",
+    "sex": "F",
+    "birth_date": "18 July 2025 @ 07:11",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_30",
+    "full_name": "Kerosene Chupacabra McClung",
+    "sex": "F",
+    "birth_date": "18 July 2025 @ 07:11",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_31",
+    "full_name": "Velcro Snickersnee Alley",
+    "sex": "M",
+    "birth_date": "19 July 2025 @ 23:30",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "alley", "display_name": "James Alley" }
+  },
+  {
+    "child_id": "bby_32",
+    "full_name": "Sean Michael Brady",
+    "sex": "M",
+    "birth_date": "20 July 2025 @ 02:20",
+    "stage": "Teenager",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "brady", "display_name": "John Brady" }
+  },
+  {
+    "child_id": "bby_33",
+    "full_name": "Hazel Jean Haldane",
+    "sex": "F",
+    "birth_date": "20 July 2025 @ 05:03",
+    "stage": "Child",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "Ack Ack", "display_name": "Andrew Haldane" }
+  },
+  {
+    "child_id": "bby_34",
+    "full_name": "Nino Julien Reyes",
+    "sex": "M",
+    "birth_date": "20 July 2025 @ 12:44",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "reyes", "display_name": "Rudy Reyes" }
+  },
+  {
+    "child_id": "bby_35",
+    "full_name": "Daphne Antigone Powers",
+    "sex": "F",
+    "birth_date": "20 July 2025 @ 13:30",
+    "stage": "Toddler",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_36",
+    "full_name": "Lucy Dorothy Speirs",
+    "sex": "F",
+    "birth_date": "21 July 2025 @ 18:40",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_37",
+    "full_name": "Baylor Scout Sisk",
+    "sex": "F",
+    "birth_date": "22 July 2025 @ 00:21",
+    "stage": "Preteen",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "skinny", "display_name": "Skinny Sisk" }
+  },
+  {
+    "child_id": "bby_38",
+    "full_name": "Cyanide Sawbones Cassidy",
+    "sex": "F",
+    "birth_date": "22 July 2025 @ 03:59",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_39",
+    "full_name": "Amelie Georgette Burgin",
+    "sex": "F",
+    "birth_date": "22 July 2025 @ 15:51",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "burgin", "display_name": "RV Burgin" }
+  },
+  {
+    "child_id": "bby_40",
+    "full_name": "Amandine Suzanne Burgin",
+    "sex": "F",
+    "birth_date": "22 July 2025 @ 15:51",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "burgin", "display_name": "RV Burgin" }
+  },
+  {
+    "child_id": "bby_41",
+    "full_name": "Odette Eurydice Powers",
+    "sex": "F",
+    "birth_date": "22 July 2025 @ 16:14",
+    "stage": "Toddler",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_42",
+    "full_name": "Tempest Fae Marigold Heffron",
+    "sex": "F",
+    "birth_date": "23 July 2025 @ 02:08",
+    "stage": "Toddler",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "babe", "display_name": "Babe Heffron" }
+  },
+  {
+    "child_id": "bby_43",
+    "full_name": "Asher Samuel Muck",
+    "sex": "M",
+    "birth_date": "23 July 2025 @ 16:10",
+    "stage": "Toddler",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "skip", "display_name": "Skip Muck" }
+  },
+  {
+    "child_id": "bby_44",
+    "full_name": "Levi Alexander Muck",
+    "sex": "M",
+    "birth_date": "23 July 2025 @ 16:13",
+    "stage": "Toddler",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "skip", "display_name": "Skip Muck" }
+  },
+  {
+    "child_id": "bby_45",
+    "full_name": "Maria Carmela Cleven",
+    "sex": "F",
+    "birth_date": "23 July 2025 @ 16:26",
+    "stage": "Preteen",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "cleven", "display_name": "Buck Cleven" }
+  },
+  {
+    "child_id": "bby_46",
+    "full_name": "Sriracha Turpentine Person",
+    "sex": "F",
+    "birth_date": "23 July 2025 @ 19:22",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "person", "display_name": "Ray Person" }
+  },
+  {
+    "child_id": "bby_47",
+    "full_name": "Whiskey Cthulhu Person",
+    "sex": "F",
+    "birth_date": "23 July 2025 @ 19:22",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "person", "display_name": "Ray Person" }
+  },
+  {
+    "child_id": "bby_48",
+    "full_name": "Gina Sylvie Colbert",
+    "sex": "F",
+    "birth_date": "24 July 2025 @ 13:32",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_49",
+    "full_name": "Wednesday Krysta Colbert",
+    "sex": "F",
+    "birth_date": "24 July 2025 @ 13:33",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_50",
+    "full_name": "Morticia Bebe Colbert",
+    "sex": "F",
+    "birth_date": "24 July 2025 @ 13:33",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_51",
+    "full_name": "Aurora Faith Christenson",
+    "sex": "F",
+    "birth_date": "24 July 2025 @ 19:12",
+    "stage": "Preteen",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_52",
+    "full_name": "Ivy Winter Christenson",
+    "sex": "F",
+    "birth_date": "24 July 2025 @ 19:17",
+    "stage": "Preteen",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_53",
+    "full_name": "Robert Joseph Speirs",
+    "sex": "M",
+    "birth_date": "24 July 2025 @ 22:43",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_54",
+    "full_name": "Apricot Rodriguez-Basilone",
+    "sex": "F",
+    "birth_date": "25 July 2025 @ 00:02",
+    "stage": "Teenager",
+    "mother_user_id": "1241757256924532806",
+    "mother_user_name": "meatball",
+    "father": { "command_name": "basilone", "display_name": "John Basilone" }
+  },
+  {
+    "child_id": "bby_55",
+    "full_name": "Ricky Dixon Wynn",
+    "sex": "M",
+    "birth_date": "26 July 2025 @ 02:36",
+    "stage": "Preteen",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "popeye", "display_name": "Popeye Wynn" }
+  },
+  {
+    "child_id": "bby_56",
+    "full_name": "Napalm Guzzoline More",
+    "sex": "M",
+    "birth_date": "26 July 2025 @ 02:39",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "more", "display_name": "Alton More" }
+  },
+  {
+    "child_id": "bby_57",
+    "full_name": "Heather Violet Haldane",
+    "sex": "F",
+    "birth_date": "26 July 2025 @ 18:05",
+    "stage": "Toddler",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "Ack Ack", "display_name": "Andrew Haldane" }
+  },
+  {
+    "child_id": "bby_58",
+    "full_name": "Harper Eden Haldane",
+    "sex": "F",
+    "birth_date": "26 July 2025 @ 18:06",
+    "stage": "Toddler",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "Ack Ack", "display_name": "Andrew Haldane" }
+  },
+  {
+    "child_id": "bby_59",
+    "full_name": "Noctivagant Xenomorph Cassidy",
+    "sex": "M",
+    "birth_date": "27 July 2025 @ 05:14",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_60",
+    "full_name": "Anastasia Belle Brady",
+    "sex": "F",
+    "birth_date": "27 July 2025 @ 05:21",
+    "stage": "Child",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "brady", "display_name": "John Brady" }
+  },
+  {
+    "child_id": "bby_61",
+    "full_name": "Svetlana Kylie Brady",
+    "sex": "F",
+    "birth_date": "27 July 2025 @ 05:22",
+    "stage": "Child",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "brady", "display_name": "John Brady" }
+  },
+  {
+    "child_id": "bby_63",
+    "full_name": "Rafael Julien Colbert",
+    "sex": "M",
+    "birth_date": "27 July 2025 @ 14:47",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_64",
+    "full_name": "Gomez Nathan Colbert",
+    "sex": "M",
+    "birth_date": "27 July 2025 @ 14:47",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_65",
+    "full_name": "Nessie Ember Sage Speirs",
+    "sex": "F",
+    "birth_date": "27 July 2025 @ 20:33",
+    "stage": "Toddler",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_66",
+    "full_name": "Chimera Bourbon McClung",
+    "sex": "F",
+    "birth_date": "28 July 2025 @ 15:33",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_67",
+    "full_name": "Ozzy John Michael Wynn",
+    "sex": "M",
+    "birth_date": "28 July 2025 @ 15:49",
+    "stage": "Child",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "popeye", "display_name": "Popeye Wynn" }
+  },
+  {
+    "child_id": "bby_68",
+    "full_name": "Tessa Mae Jones",
+    "sex": "F",
+    "birth_date": "28 July 2025 @ 15:58",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "hillbilly", "display_name": "Hillbilly Jones" }
+  },
+  {
+    "child_id": "bby_69",
+    "full_name": "Patrick John Christenson",
+    "sex": "M",
+    "birth_date": "28 July 2025 @ 19:38",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_70",
+    "full_name": "Oscar Perseus Webster",
+    "sex": "M",
+    "birth_date": "28 July 2025 @ 20:03",
+    "stage": "Infant",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "webster", "display_name": "David Webster" }
+  },
+  {
+    "child_id": "bby_71",
+    "full_name": "Kai Bennett Veal",
+    "sex": "M",
+    "birth_date": "29 July 2025 @ 03:41",
+    "stage": "Child",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "veal", "display_name": "Bill Veal" }
+  },
+  {
+    "child_id": "bby_72",
+    "full_name": "BJ Alexander Burgin",
+    "sex": "M",
+    "birth_date": "29 July 2025 @ 15:29",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "burgin", "display_name": "RV Burgin" }
+  },
+  {
+    "child_id": "bby_73",
+    "full_name": "Adam Robert Burgin",
+    "sex": "M",
+    "birth_date": "29 July 2025 @ 15:30",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "burgin", "display_name": "RV Burgin" }
+  },
+  {
+    "child_id": "bby_74",
+    "full_name": "Indigo Mako Brian Winters",
+    "sex": "M",
+    "birth_date": "30 July 2025 @ 03:01",
+    "stage": "Toddler",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "winters", "display_name": "Dick Winters" }
+  },
+  {
+    "child_id": "bby_75",
+    "full_name": "Brielle Rae Sisk",
+    "sex": "F",
+    "birth_date": "30 July 2025 @ 03:42",
+    "stage": "Child",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "skinny", "display_name": "Skinny Sisk" }
+  },
+  {
+    "child_id": "bby_76",
+    "full_name": "Kennedy Ace Cleven",
+    "sex": "M",
+    "birth_date": "30 July 2025 @ 04:21",
+    "stage": "Child",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "cleven", "display_name": "Buck Cleven" }
+  },
+  {
+    "child_id": "bby_77",
+    "full_name": "Psilocybin Ricochet Alley",
+    "sex": "M",
+    "birth_date": "30 July 2025 @ 05:49",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "alley", "display_name": "James Alley" }
+  },
+  {
+    "child_id": "bby_78",
+    "full_name": "Emmett Jude Malarkey",
+    "sex": "M",
+    "birth_date": "30 July 2025 @ 21:56",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "malarkey", "display_name": "Don Malarkey" }
+  },
+  {
+    "child_id": "bby_79",
+    "full_name": "Ponyboy Brody Burgin",
+    "sex": "M",
+    "birth_date": "31 July 2025 @ 15:38",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "burgin", "display_name": "RV Burgin" }
+  },
+  {
+    "child_id": "bby_80",
+    "full_name": "Glycerin Oubliette Cassidy",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 04:46",
+    "stage": "Teenager",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_81",
+    "full_name": "Indigo Rodriguez-Basilone",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 05:00",
+    "stage": "Child",
+    "mother_user_id": "1241757256924532806",
+    "mother_user_name": "meatball",
+    "father": { "command_name": "manny", "display_name": "Manny Rodriguez" }
+  },
+  {
+    "child_id": "bby_82",
+    "full_name": "Norah Claire Muck",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 16:54",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "skip", "display_name": "Skip Muck" }
+  },
+  {
+    "child_id": "bby_83",
+    "full_name": "Addison Faith Muck",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 16:55",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "skip", "display_name": "Skip Muck" }
+  },
+  {
+    "child_id": "bby_84",
+    "full_name": "Lydia Sophia Lemmons",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 18:21",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
+  },
+  {
+    "child_id": "bby_85",
+    "full_name": "Barbara Kerry Lemmons",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 18:22",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
+  },
+  {
+    "child_id": "bby_88",
+    "full_name": "Sherri Emma Lemmons",
+    "sex": "F",
+    "birth_date": "01 August 2025 @ 18:23",
+    "stage": "Teenager",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
   }
 ]

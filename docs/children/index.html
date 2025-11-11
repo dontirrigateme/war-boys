@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Children</title>
+  <link rel="stylesheet" href="../style.css?v=1" />
+  <link rel="stylesheet" href="./children.css?v=1" />
+</head>
+<body class="wrap">
+  <a class="back" href="../">← Home</a>
+  <h1>CHILDREN</h1>
+
+  <div class="toolbar">
+    <select id="fatherPicker"></select>
+    <select id="sortPicker">
+      <option value="age_desc" selected>Sort: Age (old → young)</option>
+      <option value="age_asc">Sort: Age (young → old)</option>
+      <option value="name_asc">Sort: Name (A → Z)</option>
+      <option value="name_desc">Sort: Name (Z → A)</option>
+    </select>
+    <input id="search" placeholder="Search names…" />
+  </div>
+
+  <div id="results" class="grid"></div>
+
+  <script src="./children.js?v=2025-11-10-01"></script>
+</body>
+</html>

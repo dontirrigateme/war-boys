@@ -41,6 +41,11 @@
 
     const el = document.createElement("div");
     el.className = "card";
+    
+    const idLine = child.baby_id != null
+      ? `<p class="muted">ID: ${child.baby_id}</p>`
+      : "";
+    
     el.innerHTML = `
       <h3>${full || "(unnamed baby)"}</h3>
       <p class="muted">Born: ${birthStr} • Stage: ${child.stage || "—"}</p>

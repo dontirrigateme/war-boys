@@ -1,29 +1,40 @@
 <!doctype html>
 <html lang="en">
 <head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>Children</title>
-  <link rel="stylesheet" href="../style.css?v=1" />
-  <link rel="stylesheet" href="./children.css?v=1" />
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Children • War Boys</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .page{max-width:980px;margin:32px auto;padding:0 16px}
+    .toolbar{display:flex;gap:12px;align-items:center;margin:0 0 16px}
+    #userPicker{max-width:420px;padding:10px 12px;border-radius:10px;border:1px solid #243045;background:#151a23;color:#e7ecf3;width:100%}
+    .badge.note{display:inline-block;padding:.15rem .5rem;border-radius:999px;font-size:.82rem;background:#1f2632;border:1px solid #2a3344;color:#9aa7b1}
+    .row{display:grid;gap:12px;grid-template-columns:1fr}
+    @media (min-width:760px){ .row{grid-template-columns:1fr 1fr} }
+    .card h3{margin:.2rem 0}
+    .muted{color:#9aa7b1}
+    .kv{display:flex;gap:10px;flex-wrap:wrap;margin-top:8px}
+  </style>
 </head>
-<body class="wrap">
-  <a class="back" href="../">← Home</a>
-  <h1>CHILDREN</h1>
+<body>
+  <main class="page">
+    <a href="../" class="muted" style="text-decoration:none">← Home</a>
+    <h1>Children</h1>
+    <p class="muted">View kids by caregiver or birth parent. Use the picker or pass <code>?u=USER_ID</code> in the URL.</p>
 
-  <div class="toolbar">
-    <select id="fatherPicker"></select>
-    <select id="sortPicker">
-      <option value="age_desc" selected>Sort: Age (old → young)</option>
-      <option value="age_asc">Sort: Age (young → old)</option>
-      <option value="name_asc">Sort: Name (A → Z)</option>
-      <option value="name_desc">Sort: Name (Z → A)</option>
-    </select>
-    <input id="search" placeholder="Search names…" />
-  </div>
+    <div class="toolbar">
+      <select id="userPicker"></select>
+      <span id="stamp" class="muted"></span>
+    </div>
 
-  <div id="results" class="grid"></div>
+    <h2>Kids you’re raising</h2>
+    <div id="raising" class="row"></div>
 
-  <script src="./children.js?v=2025-11-10-01"></script>
+    <h2 style="margin-top:22px">Kids you gave birth to (adopted by others)</h2>
+    <div id="adoptedOut" class="row"></div>
+  </main>
+
+  <script src="./children.js" defer></script>
 </body>
 </html>

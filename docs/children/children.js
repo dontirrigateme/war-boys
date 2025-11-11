@@ -1,5 +1,5 @@
 const DATA_VERSION = "2025-11-10-01";
-const DATA_URL = "../children/children.json?v=" + DATA_VERSION; // you’ll create this export
+const DATA_URL = "../data/children.json?v=" + DATA_VERSION; // you’ll create this export
 
 const results = document.getElementById("results");
 const fatherPicker = document.getElementById("fatherPicker");

@@ -91,8 +91,6 @@ thead th{
   background:#0b0f14;
 }
 
-img.className = "portrait";
-
 #claimers .chip + .chip::before {
   content: " • ";
   margin: 0 .35em;

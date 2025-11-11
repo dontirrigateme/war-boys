@@ -1,7 +1,7 @@
 // /docs/claims/claims.js
 (async function () {
   // --- config + DOM ---
-  const DATA_VERSION = "2025-11-09-01"; // bump when JSON changes (prevents caching)
+  const DATA_VERSION = "2025-11-09-02"; // bump when JSON changes (prevents caching)
   const DATA_URL = `../data/claims.json?v=${DATA_VERSION}`;
 
   const tabUsers   = document.getElementById("tabUsers");
@@ -87,6 +87,55 @@
     results.innerHTML = "";
   }
 
+  function buildOptions() {
+  options = [];
+  if (mode === "users") {
+    for (const u of (data.users || [])) {
+      options.push({ value: u.user_id, label: u.user_name || u.user_id });
+    }
+  } else {
+    for (const b of (data.blorbos || [])) {
+      options.push({ value: b.command_name, label: b.display_name || b.command_name });
+    }
+  }
+  // ✅ ensure alphabetical
+  options.sort((a, b) => a.label.localeCompare(b.label));
+}
+
+  function renderPicker(q = "") {
+  const term = q.trim().toLowerCase();
+  const filtered = term ? options.filter(o => o.label.toLowerCase().includes(term)) : options;
+
+  picker.innerHTML = "";
+
+  // ✅ placeholder on top
+  const ph = document.createElement("option");
+  ph.value = "";
+  ph.textContent = "— make a selection —";   // or leave "" for a blank top row
+  ph.disabled = true;
+  ph.selected = true;
+  // ph.hidden = true; // uncomment if you want it to show in the collapsed view but not in the open list
+  picker.appendChild(ph);
+
+  if (filtered.length === 0) {
+    results.innerHTML = `<div class="card"><p class="small">
+      Nothing to show. If this isn’t expected, make sure <code>${DATA_URL}</code> exists and has users/blorbos.
+    </p></div>`;
+    return;
+  }
+
+  for (const o of filtered) {
+    const opt = document.createElement("option");
+    opt.value = o.value;
+    opt.textContent = o.label;
+    picker.appendChild(opt);
+  }
+
+  // make sure the placeholder is selected after rebuilding
+  picker.value = "";
+}
+
+
   function renderResult() {
     const val = picker.value;
     results.innerHTML = "";
@@ -160,6 +209,7 @@
           chip.className = "chip";
           chip.textContent = u.user_name || u.user_id;
           wrap.appendChild(chip);
+          wrap.append(" • ");
         }
       }
       card.appendChild(wrap);

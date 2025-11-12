@@ -14,44 +14,66 @@ let users = [];
 init().catch(console.error);
 
 async function init() {
-  const res = await fetch(DATA_URL);
-  children = await res.json(); // array
-  normalize();
-  buildFatherPicker();
-  buildUserPicker();
-  hookEvents();
-  render();
+  try {
+    console.log("[children] fetching", DATA_URL);
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    children = await res.json();
+    console.log("[children] loaded", children.length, "rows");
+    normalize();
+    console.log("[children] sample row", children[0]);
+    buildFatherPicker();
+    buildUserPicker?.();
+    hookEvents();
+    render();
+  } catch (e) {
+    console.error("[children] init failed:", e);
+    document.getElementById("results").innerHTML =
+      `<div class="child-card"><div class="meta">Couldn’t load children: ${escapeHtml(String(e))}</div></div>`;
+  }
 }
 
 function normalize() {
   for (const c of children) {
-    // derive age_days if missing
     if (!c.age_days && c.birth_date) {
       c.age_days = Math.max(0, Math.floor((Date.now() - Date.parse(c.birth_date)) / 86400000));
     }
-    // convenient strings
     c._name = c.full_name || `${c.first_name || ""} ${c.last_name || ""}`.trim();
-    c._fatherName = (c.father?.display_name || c.father?.command_name || "Unknown");
+
+    // Try multiple shapes for father (string or object)
+    const f = c.father;
+    c._fatherName =
+      (typeof f === "string" && f) ||
+      (f?.display_name) ||
+      (f?.command_name) ||
+      c.father_name ||               // if your export used a flat name
+      "Unknown";
+
+    // Prefer adopter if adopted_out, else birth parent fields
     c._userName =
-      (c.adopted_out && (c.adopter_name || c.adopter_user_name ||
+      (c.adopted_out && (c.adopter_name || c.adopter_user_name)) ||
       c.mother_user_name ||
       c.mother_user_id ||
       null;
   }
-  fathers = Array.from(new Set(children.map(c => c._fatherName))).sort((a,b)=>a.localeCompare(b));
+  fathers = Array.from(new Set(children.map(c => c._fatherName).filter(Boolean)))
+    .sort((a,b)=>a.localeCompare(b));
+  users = Array.from(new Set(children.map(c => c._userName).filter(Boolean)))
+    .sort((a,b)=>a.localeCompare(b));
+  console.log("[children] fathers:", fathers.length, fathers);
+  console.log("[children] users:", users.length, users);
 }
 
 function buildFatherPicker() {
   fatherPicker.innerHTML = "";
   const ph = document.createElement("option");
   ph.value = "";
-  ph.textContent = "— All fathers —";
+  ph.textContent = fathers.length ? "— All fathers —" : "No fathers found";
   ph.selected = true;
   fatherPicker.appendChild(ph);
   for (const f of fathers) {
     const opt = document.createElement("option");
-    opt.value = f;
-    opt.textContent = f;
+    opt.value = f; opt.textContent = f;
     fatherPicker.appendChild(opt);
   }
 }

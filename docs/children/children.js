@@ -48,6 +48,12 @@ function normalize() {
       c.father_name ||
       "Unknown";
 
+    c._birthMotherName = c.mother_user_name || c.mother_user_id || null;
+    c._adopterName     = c.adopter_user_name || c.adopter_name || null;
+    c._userName =
+      (c.adopted_out ? (c._adopterName || c._birthMotherName) : c._birthMotherName) || null;
+  }
+
     // “User” shown on card & for filtering: adopter if adopted_out, else mother
     c._userName =
       (c.adopted_out && (c.adopter_name || c.adopter_user_name)) ||

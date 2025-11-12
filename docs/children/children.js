@@ -1,75 +1,72 @@
-const DATA_VERSION = "2025-11-10-02";
-const DATA_URL = "../data/children.json?v=" + DATA_VERSION; // you’ll create this export
+const DATA_VERSION = "2025-11-12-01"; // bump when children.json changes
+const DATA_URL = "../data/children.json?v=" + DATA_VERSION;
 
 const results = document.getElementById("results");
 const fatherPicker = document.getElementById("fatherPicker");
-const userPicker = document.getElementById("userPicker");
-const sortPicker = document.getElementById("sortPicker");
-const search = document.getElementById("search");
+const userPicker   = document.getElementById("userPicker");
+const sortPicker   = document.getElementById("sortPicker");
+const search       = document.getElementById("search");
 
 let children = [];
-let fathers = [];
-let users = [];
+let fathers  = [];
+let users    = [];
 
-init().catch(console.error);
+init().catch(err => {
+  console.error(err);
+  results.innerHTML = `<div class="child-card"><div class="meta">Couldn’t load children: ${escapeHtml(String(err))}</div></div>`;
+});
 
 async function init() {
-  try {
-    console.log("[children] fetching", DATA_URL);
-    const res = await fetch(DATA_URL);
-    if (!res.ok) throw new Error("HTTP " + res.status);
-    children = await res.json();
-    console.log("[children] loaded", children.length, "rows");
-    normalize();
-    console.log("[children] sample row", children[0]);
-    buildFatherPicker();
-    buildUserPicker?.();
-    hookEvents();
-    render();
-  } catch (e) {
-    console.error("[children] init failed:", e);
-    document.getElementById("results").innerHTML =
-      `<div class="child-card"><div class="meta">Couldn’t load children: ${escapeHtml(String(e))}</div></div>`;
-  }
+  const res = await fetch(DATA_URL);
+  if (!res.ok) throw new Error("HTTP " + res.status);
+  children = await res.json(); // array
+  normalize();
+  buildFatherPicker();
+  buildUserPicker();
+  hookEvents();
+  render();
 }
 
 function normalize() {
   for (const c of children) {
+    // Derive age_days if possible
     if (!c.age_days && c.birth_date) {
-      c.age_days = Math.max(0, Math.floor((Date.now() - Date.parse(c.birth_date)) / 86400000));
+      const ts = parseBirthDate(c.birth_date);
+      if (!Number.isNaN(ts)) {
+        c.age_days = Math.max(0, Math.floor((Date.now() - ts) / 86400000));
+      }
     }
+    // Names
     c._name = c.full_name || `${c.first_name || ""} ${c.last_name || ""}`.trim();
 
-    // Try multiple shapes for father (string or object)
+    // Father may be an object {display_name, command_name}
     const f = c.father;
     c._fatherName =
       (typeof f === "string" && f) ||
-      (f?.display_name) ||
-      (f?.command_name) ||
-      c.father_name ||               // if your export used a flat name
+      (f && (f.display_name || f.command_name)) ||
+      c.father_name ||
       "Unknown";
 
-    // Prefer adopter if adopted_out, else birth parent fields
+    // “User” shown on card & for filtering: adopter if adopted_out, else mother
     c._userName =
       (c.adopted_out && (c.adopter_name || c.adopter_user_name)) ||
       c.mother_user_name ||
       c.mother_user_id ||
       null;
   }
+
   fathers = Array.from(new Set(children.map(c => c._fatherName).filter(Boolean)))
     .sort((a,b)=>a.localeCompare(b));
+
   users = Array.from(new Set(children.map(c => c._userName).filter(Boolean)))
     .sort((a,b)=>a.localeCompare(b));
-  console.log("[children] fathers:", fathers.length, fathers);
-  console.log("[children] users:", users.length, users);
 }
 
 function buildFatherPicker() {
   fatherPicker.innerHTML = "";
   const ph = document.createElement("option");
-  ph.value = "";
+  ph.value = ""; ph.selected = true;
   ph.textContent = fathers.length ? "— All fathers —" : "No fathers found";
-  ph.selected = true;
   fatherPicker.appendChild(ph);
   for (const f of fathers) {
     const opt = document.createElement("option");
@@ -79,55 +76,51 @@ function buildFatherPicker() {
 }
 
 function buildUserPicker() {
-  if (!userPicker) return; // safe if HTML not updated yet
   userPicker.innerHTML = "";
   const ph = document.createElement("option");
-  ph.value = "";
-  ph.textContent = "— All users —";
-  ph.selected = true;
+  ph.value = ""; ph.selected = true;
+  ph.textContent = users.length ? "— All users —" : "No users found";
   userPicker.appendChild(ph);
   for (const u of users) {
     const opt = document.createElement("option");
-    opt.value = u;
-    opt.textContent = u;
+    opt.value = u; opt.textContent = u;
     userPicker.appendChild(opt);
   }
 }
 
 function hookEvents() {
   fatherPicker.addEventListener("change", render);
-  if (userPicker) userPicker.addEventListener("change", render);
+  userPicker.addEventListener("change", render);
   sortPicker.addEventListener("change", render);
   search.addEventListener("input", render);
 }
 
 function render() {
-  const term = search.value.trim().toLowerCase();
+  const term   = search.value.trim().toLowerCase();
   const father = fatherPicker.value;
-  const user = userPicker ? userPicker.value;
+  const user   = userPicker.value;
 
   let rows = children.filter(c =>
     (!father || c._fatherName === father) &&
-    (!user || c._userName === user) &&
-    (!term || c._name.toLowerCase().includes(term))
+    (!user   || c._userName   === user) &&
+    (!term   || (c._name || "").toLowerCase().includes(term))
   );
 
-  // sorting
+  // sort
   const mode = sortPicker.value;
   rows.sort((a,b) => {
     if (mode === "age_desc") return (b.age_days||0) - (a.age_days||0);
     if (mode === "age_asc")  return (a.age_days||0) - (b.age_days||0);
-    if (mode === "name_desc") return b._name.localeCompare(a._name);
-    return a._name.localeCompare(b._name); // name_asc
+    if (mode === "name_desc") return (b._name||"").localeCompare(a._name||"");
+    return (a._name||"").localeCompare(b._name||""); // name_asc
   });
 
   // render
   results.innerHTML = "";
-  if (rows.length === 0) {
+  if (!rows.length) {
     results.innerHTML = `<div class="child-card"><div class="meta">No children match.</div></div>`;
     return;
   }
-
   for (const c of rows) {
     const div = document.createElement("div");
     div.className = "child-card";
@@ -140,17 +133,40 @@ function render() {
       <div class="meta" style="margin-top:6px">
         <strong>Age:</strong> ${formatAge(c)}<br/>
         <strong>Father:</strong> ${escapeHtml(c._fatherName)}<br/>
-        <strong>Mother:</strong> ${escapeHtml(c.mother_user_name || c.mother_user_id || "—")}
+        <strong>${c.adopted_out ? "Adopter" : "Mother"}:</strong> ${escapeHtml(c._userName || "—")}
       </div>
     `;
     results.appendChild(div);
   }
 }
 
-// helpers
-function escapeHtml(s){ return String(s||"").replace(/[&<>"']/g, m=>({ "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;" }[m])); }
+// --- helpers ---
+function escapeHtml(s){
+  return String(s ?? "").replace(/[&<>"']/g, m => ({
+    "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
+  }[m]));
+}
+
 function formatAge(c){
   if (typeof c.age_days === "number") return `${c.age_days} day${c.age_days===1?"":"s"}`;
-  if (c.birth_date) return new Date(c.birth_date).toLocaleDateString();
+  if (c.birth_date) {
+    const t = parseBirthDate(c.birth_date);
+    if (!Number.isNaN(t)) return new Date(t).toLocaleDateString();
+  }
   return "—";
+}
+
+// parse formats like “10 July 2025 @ 03:01”
+function parseBirthDate(s){
+  // try Date.parse first
+  const t = Date.parse(s);
+  if (!Number.isNaN(t)) return t;
+  // fallback for “DD Month YYYY @ HH:MM”
+  const m = String(s).match(/^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*@\s*(\d{1,2}):(\d{2})/);
+  if (!m) return NaN;
+  const [_, d, mon, y, hh, mm] = m;
+  const months = ["january","february","march","april","may","june","july","august","september","october","november","december"];
+  const idx = months.indexOf(mon.toLowerCase());
+  if (idx < 0) return NaN;
+  return Date.UTC(Number(y), idx, Number(d), Number(hh), Number(mm));
 }

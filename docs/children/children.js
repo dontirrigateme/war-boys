@@ -139,16 +139,22 @@ function render() {
   for (const c of rows) {
     const div = document.createElement("div");
     div.className = "child-card";
+    const motherLabel = c.adopted_out ? "Adoptive mother" : "Mother";
     div.innerHTML = `
       <div class="name">${escapeHtml(c._name || "Unnamed Baby")}</div>
       <div class="meta">
         <span class="badge">${escapeHtml(c.stage || "—")}</span>
         <span class="badge">${c.sex === "M" ? "Boy" : c.sex === "F" ? "Girl" : "—"}</span>
+        ${c.adopted_out ? '<span class="badge">Adopted</span>' : ''}
       </div>
       <div class="meta" style="margin-top:6px">
         <strong>Age:</strong> ${formatAge(c)}<br/>
+        <strong>Born:</strong> ${formatBorn(c)}<br/>
         <strong>Father:</strong> ${escapeHtml(c._fatherName)}<br/>
-        <strong>${c.adopted_out ? "Adopter" : "Mother"}:</strong> ${escapeHtml(c._userName || "—")}
+        <strong>${motherLabel}:</strong> ${escapeHtml(c._userName || "—")}
+        ${c.adopted_out && c._birthMotherName
+          ? `<br/><strong>Birth mother:</strong> ${escapeHtml(c._birthMotherName)}`
+          : ""}
       </div>
     `;
     results.appendChild(div);
@@ -184,4 +190,14 @@ function parseBirthDate(s){
   const idx = months.indexOf(mon.toLowerCase());
   if (idx < 0) return NaN;
   return Date.UTC(Number(y), idx, Number(d), Number(hh), Number(mm));
+}
+
+function formatBorn(c){
+  if (!c.birth_date) return "—";
+  const t = parseBirthDate(c.birth_date);
+  if (Number.isNaN(t)) return escapeHtml(c.birth_date);
+  const d = new Date(t);
+  const dateStr = d.toLocaleDateString(undefined, { year:"numeric", month:"short", day:"numeric" });
+  const timeStr = d.toLocaleTimeString(undefined, { hour:"2-digit", minute:"2-digit" });
+  return `${dateStr} · ${timeStr}`;
 }

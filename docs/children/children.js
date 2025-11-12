@@ -6,6 +6,7 @@ const fatherPicker = document.getElementById("fatherPicker");
 const userPicker   = document.getElementById("userPicker");
 const sortPicker   = document.getElementById("sortPicker");
 const search       = document.getElementById("search");
+const countLine   = document.getElementById("countLine");
 
 let children = [];
 let fathers  = [];
@@ -114,6 +115,14 @@ function render() {
     if (mode === "name_desc") return (b._name||"").localeCompare(a._name||"");
     return (a._name||"").localeCompare(b._name||""); // name_asc
   });
+
+  const total = children.length;
+  const shown = rows.length;
+  if (countLine) {
+    countLine.textContent =
+      `${shown} ${shown === 1 ? "child" : "children"} shown` +
+      (shown !== total ? ` (${total} total)` : "");
+  }
 
   // render
   results.innerHTML = "";

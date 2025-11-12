@@ -51,10 +51,8 @@ function normalize() {
       "Unknown";
 
     // user (adopter vs birth mother)
-    c._birthMotherName = c.mother_user_name || c.mother_user_id || null;
-    c._adopterName     = c.adopter_user_name || c.adopter_name || null;
-    c._userName =
-      (c.adopted_out ? (c._adopterName || c._birthMotherName) : c._birthMotherName) || null;
+    c._userName = c.mother_user_name || c.mother_user_id || null;
+    c._birthMotherName = c.birth_mother || null;
   }
 
   fathers = Array.from(new Set(children.map(c => c._fatherName).filter(Boolean)))
@@ -134,21 +132,20 @@ function render() {
   for (const c of rows) {
     const div = document.createElement("div");
     div.className = "child-card";
-    const motherLabel = c.adopted_out ? "Adoptive mother" : "Mother";
     div.innerHTML = `
       <div class="name">${escapeHtml(c._name || "Unnamed Baby")}</div>
       <div class="meta">
-        <span class="badge">${escapeHtml(c.stage || "—")}</span>
+        <span class="badge">${escapeHtml(c._stage || c.stage || "—")}</span>
         <span class="badge">${c.sex === "M" ? "Boy" : c.sex === "F" ? "Girl" : "—"}</span>
-        ${c.adopted_out ? '<span class="badge">Adopted</span>' : ''}
+        ${c.adopted_out ? '<span class="badge">Adopted</span>' : ''} 
       </div>
       <div class="meta" style="margin-top:6px">
         <strong>Age:</strong> ${formatAge(c)}<br/>
         <strong>Born:</strong> ${formatBorn(c)}<br/>
         <strong>Father:</strong> ${escapeHtml(c._fatherName)}<br/>
-        <strong>${motherLabel}:</strong> ${escapeHtml(c._userName || "—")}
-        ${c.adopted_out && c._birthMotherName
-          ? `<br/><strong>Birth mother:</strong> ${escapeHtml(c._birthMotherName)}`
+        <strong>Mother:</strong> ${escapeHtml(c._userName || "—")}
+        ${c._birthMotherName && c._birthMotherName !== c._userName
+          ? `<br/><strong>Biological mother:</strong> ${escapeHtml(c._birthMotherName)}`
           : ""}
       </div>
     `;

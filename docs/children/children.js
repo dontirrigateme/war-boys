@@ -1,12 +1,13 @@
+// ---------- children.js (clean) ----------
 const DATA_VERSION = "2025-11-12-01"; // bump when children.json changes
 const DATA_URL = "../data/children.json?v=" + DATA_VERSION;
 
-const results = document.getElementById("results");
-const fatherPicker = document.getElementById("fatherPicker");
-const userPicker   = document.getElementById("userPicker");
-const sortPicker   = document.getElementById("sortPicker");
-const search       = document.getElementById("search");
+const results     = document.getElementById("results");
 const countLine   = document.getElementById("countLine");
+const fatherPicker= document.getElementById("fatherPicker");
+const userPicker  = document.getElementById("userPicker");
+const sortPicker  = document.getElementById("sortPicker");
+const search      = document.getElementById("search");
 
 let children = [];
 let fathers  = [];
@@ -14,13 +15,15 @@ let users    = [];
 
 init().catch(err => {
   console.error(err);
-  results.innerHTML = `<div class="child-card"><div class="meta">Couldn’t load children: ${escapeHtml(String(err))}</div></div>`;
+  if (results) {
+    results.innerHTML = `<div class="child-card"><div class="meta">Couldn’t load children: ${escapeHtml(String(err))}</div></div>`;
+  }
 });
 
 async function init() {
   const res = await fetch(DATA_URL);
   if (!res.ok) throw new Error("HTTP " + res.status);
-  children = await res.json(); // array
+  children = await res.json();
   normalize();
   buildFatherPicker();
   buildUserPicker();
@@ -30,18 +33,16 @@ async function init() {
 
 function normalize() {
   for (const c of children) {
-    // Derive age_days if possible
+    // age
     if (!c.age_days && c.birth_date) {
       const ts = parseBirthDate(c.birth_date);
       if (!Number.isNaN(ts)) {
         c.age_days = Math.max(0, Math.floor((Date.now() - ts) / 86400000));
       }
     }
-
-    // Names
+    // names
     c._name = c.full_name || `${c.first_name || ""} ${c.last_name || ""}`.trim();
 
-    // Father may be an object {display_name, command_name}
     const f = c.father;
     c._fatherName =
       (typeof f === "string" && f) ||
@@ -49,7 +50,7 @@ function normalize() {
       c.father_name ||
       "Unknown";
 
-    // Mother / adopter
+    // user (adopter vs birth mother)
     c._birthMotherName = c.mother_user_name || c.mother_user_id || null;
     c._adopterName     = c.adopter_user_name || c.adopter_name || null;
     c._userName =
@@ -58,7 +59,6 @@ function normalize() {
 
   fathers = Array.from(new Set(children.map(c => c._fatherName).filter(Boolean)))
     .sort((a,b)=>a.localeCompare(b));
-
   users = Array.from(new Set(children.map(c => c._userName).filter(Boolean)))
     .sort((a,b)=>a.localeCompare(b));
 }
@@ -110,12 +110,13 @@ function render() {
   // sort
   const mode = sortPicker.value;
   rows.sort((a,b) => {
-    if (mode === "age_desc") return (b.age_days||0) - (a.age_days||0);
-    if (mode === "age_asc")  return (a.age_days||0) - (b.age_days||0);
+    if (mode === "age_desc")  return (b.age_days||0) - (a.age_days||0);
+    if (mode === "age_asc")   return (a.age_days||0) - (b.age_days||0);
     if (mode === "name_desc") return (b._name||"").localeCompare(a._name||"");
     return (a._name||"").localeCompare(b._name||""); // name_asc
   });
 
+  // count line
   const total = children.length;
   const shown = rows.length;
   if (countLine) {
@@ -124,7 +125,7 @@ function render() {
       (shown !== total ? ` (${total} total)` : "");
   }
 
-  // render
+  // render cards
   results.innerHTML = "";
   if (!rows.length) {
     results.innerHTML = `<div class="child-card"><div class="meta">No children match.</div></div>`;
@@ -155,7 +156,7 @@ function render() {
   }
 }
 
-// --- helpers ---
+// ----- helpers -----
 function escapeHtml(s){
   return String(s ?? "").replace(/[&<>"']/g, m => ({
     "&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"
@@ -171,12 +172,10 @@ function formatAge(c){
   return "—";
 }
 
-// parse formats like “10 July 2025 @ 03:01”
+// e.g., "10 July 2025 @ 03:01"
 function parseBirthDate(s){
-  // try Date.parse first
   const t = Date.parse(s);
   if (!Number.isNaN(t)) return t;
-  // fallback for “DD Month YYYY @ HH:MM”
   const m = String(s).match(/^(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})\s*@\s*(\d{1,2}):(\d{2})/);
   if (!m) return NaN;
   const [_, d, mon, y, hh, mm] = m;

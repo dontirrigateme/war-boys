@@ -243,7 +243,7 @@
     "mother_user_id": "774462595998416896",
     "mother_user_name": "Nate Fuck's Slutshine",
     "birth_mother": "clung wrap",
-    "adopted_out": trur,
+    "adopted_out": true,
     "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
   },
   {

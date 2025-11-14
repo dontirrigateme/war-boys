@@ -1044,6 +1044,8 @@
     "stage": "Toddler",
     "mother_user_id": "774462595998416896",
     "mother_user_name": "Nate Fuck's Slutshine",
+    "birth_mother": "meatball",
+    "adopted_out": true,
     "father": { "command_name": "fick", "display_name": "Nate Fick" }
   },
   {
@@ -1175,5 +1177,1287 @@
     "mother_user_id": "1252425325908852759",
     "mother_user_name": "sledgehamma",
     "father": { "command_name": "q-tip", "display_name": "Evan Stafford" }
+  },
+  {
+    "child_id": "bby_121",
+    "full_name": "Ariel Ryan Spina",
+    "sex": "F",
+    "birth_date": "15 August 2025 @ 14:06",
+    "stage": "Toddler",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "spina", "display_name": "Ralph Spina" }
+  },
+  {
+    "child_id": "bby_122",
+    "full_name": "Paprika Jacks",
+    "sex": "F",
+    "birth_date": "15 August 2025 @ 21:14",
+    "stage": "Infant",
+    "mother_user_id": "1241757256924532806",
+    "mother_user_name": "meatball",
+    "father": { "command_name": "manimal", "display_name": "Anthony Jacks" }
+  },
+  {
+    "child_id": "bby_123",
+    "full_name": "Alfred Colton Speirs",
+    "sex": "M",
+    "birth_date": "15 August 2025 @ 23:32",
+    "stage": "Toddler",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_124",
+    "full_name": "Vivian Irene Malarkey",
+    "sex": "F",
+    "birth_date": "16 August 2025 @ 16:27",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "malarkey", "display_name": "Don Malarkey" }
+  },
+  {
+    "child_id": "bby_125",
+    "full_name": "Mad Max Cassidy",
+    "sex": "M",
+    "birth_date": "17 August 2025 @ 00:34",
+    "stage": "Preteen",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_126",
+    "full_name": "Ash Deadite Cassidy",
+    "sex": "M",
+    "birth_date": "17 August 2025 @ 00:34",
+    "stage": "Preteen",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_127",
+    "full_name": "Anvil Delirium Cassidy",
+    "sex": "M",
+    "birth_date": "17 August 2025 @ 00:35",
+    "stage": "Preteen",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_128",
+    "full_name": "Monty Python Cassidy",
+    "sex": "M",
+    "birth_date": "17 August 2025 @ 00:35",
+    "stage": "Preteen",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_129",
+    "full_name": "Flux Bandicoot Cassidy",
+    "sex": "M",
+    "birth_date": "17 August 2025 @ 00:35",
+    "stage": "Preteen",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_130",
+    "full_name": "Simba Sven Payne",
+    "sex": "M",
+    "birth_date": "17 August 2025 @ 02:38",
+    "stage": "Toddler",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "bubbles", "display_name": "Bubbles Payne" }
+  },
+  {
+    "child_id": "bby_131",
+    "full_name": "Honeycomb Nola Juniper Roe",
+    "sex": "F",
+    "birth_date": "17 August 2025 @ 03:00",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "doc roe", "display_name": "Eugene Roe" }
+  },
+  {
+    "child_id": "bby_132",
+    "full_name": "Daffodil Lucy Jubilee Roe",
+    "sex": "F",
+    "birth_date": "17 August 2025 @ 03:01",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "doc roe", "display_name": "Eugene Roe" }
+  },
+  {
+    "child_id": "bby_133",
+    "full_name": "Seraphine Merry Ofelia Roe",
+    "sex": "F",
+    "birth_date": "17 August 2025 @ 03:01",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "doc roe", "display_name": "Eugene Roe" }
+  },
+  {
+    "child_id": "bby_134",
+    "full_name": "Cordelia Jetty Adelaide Roe",
+    "sex": "F",
+    "birth_date": "17 August 2025 @ 03:01",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "doc roe", "display_name": "Eugene Roe" }
+  },
+  {
+    "child_id": "bby_135",
+    "full_name": "Myrtle Sara Smith",
+    "sex": "F",
+    "birth_date": "17 August 2025 @ 03:05",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "hoosier", "display_name": "Bill Smith" }
+  },
+  {
+    "child_id": "bby_136",
+    "full_name": "Timber Cricket McClung",
+    "sex": "F",
+    "birth_date": "18 August 2025 @ 05:42",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_137",
+    "full_name": "Weevil Rakejaw McClung",
+    "sex": "F",
+    "birth_date": "18 August 2025 @ 05:42",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_138",
+    "full_name": "Cicada Rye McClung",
+    "sex": "F",
+    "birth_date": "18 August 2025 @ 05:43",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_139",
+    "full_name": "Loki Allen Welsh",
+    "sex": "M",
+    "birth_date": "18 August 2025 @ 17:19",
+    "stage": "Toddler",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "welsh", "display_name": "Harry Welsh" }
+  },
+  {
+    "child_id": "bby_140",
+    "full_name": "Kismet Florian Phelan Meehan",
+    "sex": "F",
+    "birth_date": "19 August 2025 @ 00:55",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "meehan", "display_name": "Thomas Meehan" }
+  },
+  {
+    "child_id": "bby_141",
+    "full_name": "Lozenge Rumspringa Petty",
+    "sex": "F",
+    "birth_date": "19 August 2025 @ 21:08",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "petty", "display_name": "Cleveland Petty" }
+  },
+  {
+    "child_id": "bby_142",
+    "full_name": "Corrine Thalassa Sledge",
+    "sex": "F",
+    "birth_date": "19 August 2025 @ 22:06",
+    "stage": "Infant",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_143",
+    "full_name": "Theodore William Speirs",
+    "sex": "M",
+    "birth_date": "20 August 2025 @ 03:35",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_144",
+    "full_name": "Hugo Michael Speirs",
+    "sex": "M",
+    "birth_date": "20 August 2025 @ 03:35",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_145",
+    "full_name": "Parker Joseph Speirs",
+    "sex": "M",
+    "birth_date": "20 August 2025 @ 03:35",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_146",
+    "full_name": "Lucifer Blaze Biddick",
+    "sex": "M",
+    "birth_date": "20 August 2025 @ 07:06",
+    "stage": "Toddler",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "biddick", "display_name": "Curtis Biddick" }
+  },
+  {
+    "child_id": "bby_147",
+    "full_name": "Minerva Marie Rosenthal",
+    "sex": "F",
+    "birth_date": "20 August 2025 @ 15:24",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "rosie", "display_name": "Rosie Rosenthal" }
+  },
+  {
+    "child_id": "bby_148",
+    "full_name": "Apricity Etna Wallaby Sledge",
+    "sex": "F",
+    "birth_date": "21 August 2025 @ 01:13",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_149",
+    "full_name": "Brynn Delphine Ferry Sledge",
+    "sex": "F",
+    "birth_date": "21 August 2025 @ 01:14",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_150",
+    "full_name": "Verity Magdalene Persica Sledge",
+    "sex": "F",
+    "birth_date": "21 August 2025 @ 01:14",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_151",
+    "full_name": "Lucia Poppy Aves Sledge",
+    "sex": "F",
+    "birth_date": "21 August 2025 @ 01:14",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_152",
+    "full_name": "Scutter Gobshite Cassidy",
+    "sex": "M",
+    "birth_date": "22 August 2025 @ 00:32",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_153",
+    "full_name": "Kaitlyn Ewe Smith",
+    "sex": "F",
+    "birth_date": "24 August 2025 @ 03:00",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "hoosier", "display_name": "Bill Smith" }
+  },
+  {
+    "child_id": "bby_154",
+    "full_name": "Sicario Moonshine McClung",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 05:06",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_155",
+    "full_name": "Petrichor Tetrodotoxin McClung",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 05:06",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_156",
+    "full_name": "Queequeg Platypus McClung",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 05:06",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_157",
+    "full_name": "Arson Toecutter McClung",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 05:07",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_158",
+    "full_name": "Buckshot Nails McClung",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 05:07",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_159",
+    "full_name": "Grasshopper Stumpjaw McClung",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 05:08",
+    "stage": "Child",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_160",
+    "full_name": "Paxton Jax Sisk",
+    "sex": "M",
+    "birth_date": "24 August 2025 @ 14:17",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "skinny", "display_name": "Skinny Sisk" }
+  },
+  {
+    "child_id": "bby_161",
+    "full_name": "Sonder Bay Minnow Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:25",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_162",
+    "full_name": "Catacomb Wilde Cypress Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:25",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_163",
+    "full_name": "Icthys Frivol Basil Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:26",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_164",
+    "full_name": "Vortex Arbor Gwyn Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:26",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_165",
+    "full_name": "Redame Enzo Granate Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:26",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_166",
+    "full_name": "Bonaventure Elias Agave Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:27",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_167",
+    "full_name": "Whimsey Casper Ewan Powers",
+    "sex": "M",
+    "birth_date": "25 August 2025 @ 02:26",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_168",
+    "full_name": "Rapunzel Moon Phillips",
+    "sex": "F",
+    "birth_date": "25 August 2025 @ 02:55",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "phillips", "display_name": "Sid Phillips" }
+  },
+  {
+    "child_id": "bby_169",
+    "full_name": "Olivia Jade Malarkey",
+    "sex": "F",
+    "birth_date": "25 August 2025 @ 15:59",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "malarkey", "display_name": "Don Malarkey" }
+  },
+  {
+    "child_id": "bby_170",
+    "full_name": "Tourniquet Knox Toye",
+    "sex": "F",
+    "birth_date": "26 August 2025 @ 14:52",
+    "stage": "Toddler",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "toye", "display_name": "Joe Toye" }
+  },
+  {
+    "child_id": "bby_171",
+    "full_name": "Brent Knox Hamilton",
+    "sex": "M",
+    "birth_date": "26 August 2025 @ 15:06",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "hambone", "display_name": "Hambone Hamilton" }
+  },
+  {
+    "child_id": "bby_172",
+    "full_name": "Benjamin Ajax Sledge",
+    "sex": "M",
+    "birth_date": "27 August 2025 @ 17:28",
+    "stage": "Infant",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "sledge", "display_name": "Eugene Sledge" }
+  },
+  {
+    "child_id": "bby_173",
+    "full_name": "Wendla Lea Lemmons",
+    "sex": "F",
+    "birth_date": "27 August 2025 @ 17:41",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
+  },
+  {
+    "child_id": "bby_174",
+    "full_name": "Quincunx Sawtooth Cassidy",
+    "sex": "F",
+    "birth_date": "28 August 2025 @ 23:54",
+    "stage": "Toddler",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "command_name", "display_name": "Display_Name" }
+  },
+  {
+    "child_id": "bby_175",
+    "full_name": "Jay Jeremy Colbert",
+    "sex": "M",
+    "birth_date": "29 August 2025 @ 18:27",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_176",
+    "full_name": "Eliza Evelyn Speirs",
+    "sex": "F",
+    "birth_date": "30 August 2025 @ 07:48",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "Speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_177",
+    "full_name": "Ruby Joanna Speirs",
+    "sex": "F",
+    "birth_date": "30 August 2025 @ 07:50",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "Speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_178",
+    "full_name": "Marjorie Lorraine Speirs",
+    "sex": "F",
+    "birth_date": "30 August 2025 @ 07:50",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "Speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_179",
+    "full_name": "Susanna Marilyn Speirs",
+    "sex": "F",
+    "birth_date": "30 August 2025 @ 07:51",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "Speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_180",
+    "full_name": "Lumberjack Crepuscular McClung",
+    "sex": "M",
+    "birth_date": "01 September 2025 @ 01:31",
+    "stage": "Toddler",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_181",
+    "full_name": "Anthony Rico Fidelis Speirs",
+    "sex": "M",
+    "birth_date": "01 September 2025 @ 15:42",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_182",
+    "full_name": "Nick Kevin Welsh",
+    "sex": "M",
+    "birth_date": "01 September 2025 @ 22:40",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "welsh", "display_name": "Harry Welsh" }
+  },
+  {
+    "child_id": "bby_183",
+    "full_name": "Hickory Carbine McClung",
+    "sex": "F",
+    "birth_date": "02 September 2025 @ 10:22",
+    "stage": "Toddler",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_184",
+    "full_name": "Robin Esther Fick",
+    "sex": "F",
+    "birth_date": "03 September 2025 @ 03:57",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "fick", "display_name": "Nate Fick" }
+  },
+  {
+    "child_id": "bby_185",
+    "full_name": "Rosetta Livia Speirs",
+    "sex": "F",
+    "birth_date": "05 September 2025 @ 11:14",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_186",
+    "full_name": "Cinder Sirocco Cassidy",
+    "sex": "F",
+    "birth_date": "05 September 2025 @ 20:31",
+    "stage": "Toddler",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_187",
+    "full_name": "Thea Eloise Fick",
+    "sex": "F",
+    "birth_date": "06 September 2025 @ 18:02",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "fick", "display_name": "Nate Fick" }
+  },
+  {
+    "child_id": "bby_188",
+    "full_name": "Dandelion Inari Antoinette Shelton",
+    "sex": "F",
+    "birth_date": "06 September 2025 @ 22:37",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "snafu", "display_name": "Snafu Shelton" }
+  },
+  {
+    "child_id": "bby_189",
+    "full_name": "Isabella Sofia Sisk",
+    "sex": "F",
+    "birth_date": "07 September 2025 @ 01:06",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "skinny", "display_name": "Skinny Sisk" }
+  },
+  {
+    "child_id": "bby_190",
+    "full_name": "Alex Mike Penkala III",
+    "sex": "M",
+    "birth_date": "09 September 2025 @ 19:16",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "penkala", "display_name": "Alex Penkala" }
+  },
+  {
+    "child_id": "bby_191",
+    "full_name": "Bean Errol Bliss Heffron",
+    "sex": "M",
+    "birth_date": "10 September 2025 @ 01:24",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "babe", "display_name": "Babe Heffron" }
+  },
+  {
+    "child_id": "bby_192",
+    "full_name": "Erinaceous Rapscallion Alley",
+    "sex": "F",
+    "birth_date": "10 September 2025 @ 01:35",
+    "stage": "Toddler",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "alley", "display_name": "James Alley" }
+  },
+  {
+    "child_id": "bby_193",
+    "full_name": "Edmund Fitzgerald Fick",
+    "sex": "M",
+    "birth_date": "10 September 2025 @ 06:00",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "fick", "display_name": "Nate Fick" }
+  },
+  {
+    "child_id": "bby_194",
+    "full_name": "Daniel Achilles Powers",
+    "sex": "M",
+    "birth_date": "10 September 2025 @ 16:13",
+    "stage": "Infant",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_195",
+    "full_name": "Haven Primrose Haldane",
+    "sex": "F",
+    "birth_date": "14 September 2025 @ 01:22",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "ack ack", "display_name": "Andrew Haldane" }
+  },
+  {
+    "child_id": "bby_196",
+    "full_name": "Zika Uyuni Shames",
+    "sex": "F",
+    "birth_date": "14 September 2025 @ 02:22",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "shames", "display_name": "Ed Shames" }
+  },
+  {
+    "child_id": "bby_197",
+    "full_name": "Nicholas Thomas Reyes",
+    "sex": "M",
+    "birth_date": "15 September 2025 @ 18:02",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "reyes", "display_name": "Rudy Reyes" }
+  },
+  {
+    "child_id": "bby_198",
+    "full_name": "Harvey Caesarian Powers",
+    "sex": "M",
+    "birth_date": "16 September 2025 @ 18:11",
+    "stage": "Infant",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_199",
+    "full_name": "Wyatt Oliver Jones",
+    "sex": "M",
+    "birth_date": "17 September 2025 @ 05:00",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "hillbilly", "display_name": "Hillbilly Jones" }
+  },
+  {
+    "child_id": "bby_200",
+    "full_name": "Caster Ohm Toye",
+    "sex": "M",
+    "birth_date": "17 September 2025 @ 16:17",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "toye", "display_name": "Joe Toye" }
+  },
+  {
+    "child_id": "bby_201",
+    "full_name": "Fiacre Cyprian Imola Crosby",
+    "sex": "M",
+    "birth_date": "18 September 2025 @ 00:20",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "crosby", "display_name": "Harry Crosby" }
+  },
+  {
+    "child_id": "bby_202",
+    "full_name": "Kendall Samantha Veal",
+    "sex": "F",
+    "birth_date": "18 September 2025 @ 02:29",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "veal", "display_name": "Bill Veal" }
+  },
+  {
+    "child_id": "bby_203",
+    "full_name": "Brock Ramsey Christenson",
+    "sex": "M",
+    "birth_date": "20 September 2025 @ 06:59",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_204",
+    "full_name": "Austin Miles Christenson",
+    "sex": "M",
+    "birth_date": "20 September 2025 @ 07:00",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_205",
+    "full_name": "Sebastian Jake Christenson",
+    "sex": "M",
+    "birth_date": "20 September 2025 @ 07:01",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_206",
+    "full_name": "Griffin Jake Christenson",
+    "sex": "M",
+    "birth_date": "20 September 2025 @ 07:02",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "christenson", "display_name": "Pat Christenson" }
+  },
+  {
+    "child_id": "bby_207",
+    "full_name": "Scarlett Hazel Demarco",
+    "sex": "F",
+    "birth_date": "20 September 2025 @ 08:56",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "demarco", "display_name": "Bennie Demarco" }
+  },
+  {
+    "child_id": "bby_208",
+    "full_name": "Julia Gabrielle Fick",
+    "sex": "F",
+    "birth_date": "20 September 2025 @ 12:15",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "fick", "display_name": "Nate Fick" }
+  },
+  {
+    "child_id": "bby_209",
+    "full_name": "Melchior Jonathan Speirs",
+    "sex": "M",
+    "birth_date": "20 September 2025 @ 12:23",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_210",
+    "full_name": "Kattegut Dumpster Cassidy",
+    "sex": "F",
+    "birth_date": "20 September 2025 @ 23:48",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_211",
+    "full_name": "Zelie Philomena Fresca Lemmons",
+    "sex": "F",
+    "birth_date": "21 September 2025 @ 01:22",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
+  },
+  {
+    "child_id": "bby_212",
+    "full_name": "Hunter Dallas Miller",
+    "sex": "M",
+    "birth_date": "21 September 2025 @ 21:28",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "miller", "display_name": "James Miller" }
+  },
+  {
+    "child_id": "bby_213",
+    "full_name": "Aerwyna Coral Eadaoin Talbert",
+    "sex": "F",
+    "birth_date": "22 September 2025 @ 18:15",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "talbert", "display_name": "Floyd Talbert" }
+  },
+  {
+    "child_id": "bby_214",
+    "full_name": "Kaleigh Ann Cleven",
+    "sex": "F",
+    "birth_date": "22 September 2025 @ 22:32",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "cleven", "display_name": "Buck Cleven" }
+  },
+  {
+    "child_id": "bby_215",
+    "full_name": "Amelia Lily Wynn",
+    "sex": "F",
+    "birth_date": "22 September 2025 @ 22:41",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "popeye", "display_name": "Popeye Wynn" }
+  },
+  {
+    "child_id": "bby_216",
+    "full_name": "Finn Rye Hashey",
+    "sex": "M",
+    "birth_date": "23 September 2025 @ 14:17",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "hashey", "display_name": "Lester Hashey" }
+  },
+  {
+    "child_id": "bby_217",
+    "full_name": "Moritz John Lemmons",
+    "sex": "M",
+    "birth_date": "23 September 2025 @ 16:53",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
+  },
+  {
+    "child_id": "bby_218",
+    "full_name": "Giselle Jade Gordon",
+    "sex": "F",
+    "birth_date": "24 September 2025 @ 05:47",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "username",
+    "father": { "command_name": "smokey", "display_name": "Smokey Gordon" }
+  },
+  {
+    "child_id": "bby_219",
+    "full_name": "Colby Drew Veal",
+    "sex": "F",
+    "birth_date": "24 September 2025 @ 06:00",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "veal", "display_name": "Bill Veal" }
+  },
+  {
+    "child_id": "bby_220",
+    "full_name": "Artemis Isabelle Penkala",
+    "sex": "F",
+    "birth_date": "25 September 2025 @ 02:13",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "penkala", "display_name": "Alex Penkala" }
+  },
+  {
+    "child_id": "bby_221",
+    "full_name": "Crash Gasket Thirteen",
+    "sex": "F",
+    "birth_date": "25 September 2025 @ 05:12",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "filthy 13", "display_name": "Filthy 13" }
+  },
+  {
+    "child_id": "bby_222",
+    "full_name": "Rakejaw Chrom Cassidy",
+    "sex": "M",
+    "birth_date": "30 September 2025 @ 19:57",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_223",
+    "full_name": "Clara Ember Speirs",
+    "sex": "F",
+    "birth_date": "10 October 2025 @ 04:49",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_224",
+    "full_name": "Appaloosa Yeti McClung",
+    "sex": "F",
+    "birth_date": "03 October 2025 @ 21:45",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_225",
+    "full_name": "Ilse Lauren Colbert",
+    "sex": "F",
+    "birth_date": "05 October 2025 @ 16:52",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_226",
+    "full_name": "Harrison Grant Speirs",
+    "sex": "M",
+    "birth_date": "07 October 2025 @ 03:08",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_227",
+    "full_name": "Bandit Piston Thirteen",
+    "sex": "M",
+    "birth_date": "07 October 2025 @ 23:05",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "filthy 13", "display_name": "Filthy 13" }
+  },
+  {
+    "child_id": "bby_228",
+    "full_name": "Nymph Ophelia Blair Fick",
+    "sex": "F",
+    "birth_date": "08 October 2025 @ 03:06",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "fick", "display_name": "Nate Fick" }
+  },
+  {
+    "child_id": "bby_229",
+    "full_name": "James Egan",
+    "sex": "M",
+    "birth_date": "10 October 2025 @ 14:02",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "bucky", "display_name": "Bucky Egan" }
+  },
+  {
+    "child_id": "bby_230",
+    "full_name": "Febreze K-Ration van Klinken",
+    "sex": "F",
+    "birth_date": "11 October 2025 @ 19:09",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "van klinken", "display_name": "Robert van Klinken" }
+  },
+  {
+    "child_id": "bby_231",
+    "full_name": "Winona Dido Powers",
+    "sex": "F",
+    "birth_date": "14 October 2025 @ 14:07",
+    "stage": "Infant",
+    "mother_user_id": "1252425325908852759",
+    "mother_user_name": "sledgehamma",
+    "father": { "command_name": "shifty", "display_name": "Shifty Powers" }
+  },
+  {
+    "child_id": "bby_232",
+    "full_name": "Wyatt Oliver Haney",
+    "sex": "M",
+    "birth_date": "15 October 2025 @ 04:26",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "gunny", "display_name": "Gunny Haney" }
+  },
+  {
+    "child_id": "bby_233",
+    "full_name": "Driftwood Greasecap McClung",
+    "sex": "M",
+    "birth_date": "15 October 2025 @ 07:17",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_234",
+    "full_name": "Tetanus Tugboat Cassidy",
+    "sex": "F",
+    "birth_date": "19 October 2025 @ 00:34",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "cassidy", "display_name": "Proinsias Cassidy" }
+  },
+  {
+    "child_id": "bby_235",
+    "full_name": "Raphael Kalos Sinnoh Grant",
+    "sex": "M",
+    "birth_date": "21 October 2025 @ 03:10",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "grant", "display_name": "Chuck Grant" }
+  },
+  {
+    "child_id": "bby_236",
+    "full_name": "Carlo Hoenn Kanto Bailey",
+    "sex": "M",
+    "birth_date": "22 October 2025 @ 13:02",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "birth_mother": "clung wrap",
+    "adopted_out": true,
+    "father": { "command_name": "bailey", "display_name": "Charles Bailey" }
+  },
+  {
+    "child_id": "bby_237",
+    "full_name": "Scott Tyler Tipper",
+    "sex": "M",
+    "birth_date": "24 October 2025 @ 13:52",
+    "stage": "Infant",
+    "mother_user_id": "887855737479520287",
+    "mother_user_name": "Boning Hambone",
+    "father": { "command_name": "tipper", "display_name": "Ed Tipper" }
+  },
+  {
+    "child_id": "bby_238",
+    "full_name": "Mudcat Ragjoint McClung",
+    "sex": "F",
+    "birth_date": "25 October 2025 @ 05:04",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_239",
+    "full_name": "Wilde Alasdair Colm Heyliger",
+    "sex": "M",
+    "birth_date": "26 October 2025 @ 21:56",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "moose", "display_name": "Moose Heyliger" }
+  },
+  {
+    "child_id": "bby_240",
+    "full_name": "Hudson Flynn Speirs",
+    "sex": "M",
+    "birth_date": "28 October 2025 @ 02:26",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_241",
+    "full_name": "Gila Bayonet McClung",
+    "sex": "F",
+    "birth_date": "29 October 2025 @ 05:36",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_242",
+    "full_name": "Billy Flynn Lemmons",
+    "sex": "M",
+    "birth_date": "30 October 2025 @ 12:03",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "lemmons", "display_name": "Ken Lemmons" }
+  },
+  {
+    "child_id": "bby_243",
+    "full_name": "Sawdust Gunbarrel McClung",
+    "sex": "M",
+    "birth_date": "01 November 2025 @ 17:27",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_244",
+    "full_name": "Ernest Christopher Smith",
+    "sex": "M",
+    "birth_date": "02 November 2025 @ 18:06",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "hoosier", "display_name": "Bill Smith" }
+  },
+  {
+    "child_id": "bby_245",
+    "full_name": "Harmony Therese Haldane",
+    "sex": "F",
+    "birth_date": "03 November 2025 @ 05:42",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "ack ack", "display_name": "Andrew Haldane" }
+  },
+  {
+    "child_id": "bby_246",
+    "full_name": "Orpheus Reeve Rosenthal",
+    "sex": "M",
+    "birth_date": "08 November 2025 @ 08:53",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "rosie", "display_name": "Rosie Rosenthal" }
+  },
+  {
+    "child_id": "bby_247",
+    "full_name": "Chainlink Burlap Thirteen",
+    "sex": "F",
+    "birth_date": "08 November 2025 @ 14:20",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "filthy 13", "display_name": "Filthy 13" }
+  },
+  {
+    "child_id": "bby_248",
+    "full_name": "Piper Lennon Conley",
+    "sex": "F",
+    "birth_date": "12 November 2025 @ 04:41",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "runner", "display_name": "Runner Conley" }
   }
 ]

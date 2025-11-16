@@ -143,6 +143,30 @@
     "image": "bucky01.png"
   },
   {
+    "command_name": "bull",
+    "title": "Bull Randleman",
+    "show": "band_of_brothers",
+    "aka": ["Bull"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Denver Randleman",
+      "Nickname(s): Bull",
+      "Birthplace: Rector, Arkansas",
+      "Birth date: 20 November 1920",
+      "Age (on D-Day): 23",
+      "Rank (highest achieved): Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Michael Cudlitz",
+      "Gravesite: East Memorial Gardens, Texarkana, Arkansas. Plot: Garden of the Oaks."
+    ],
+    "image": "bull01.png"
+  },
+  {
     "command_name": "burgin",
     "title": "RV Burgin",
     "show": "the_pacific",
@@ -180,6 +204,30 @@
       "Portrayed by: Joseph Gilgun"
     ],
     "image": "cassidy01.png"
+  },
+  {
+    "command_name": "christenson",
+    "title": "Pat Christenson",
+    "show": "band_of_brothers",
+    "aka": ["Pat"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Burton Paul Christenson",
+      "Nickname(s): Pat",
+      "Birthplace: Oakland, California",
+      "Birth date: 24 August 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Technical Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Michael Fassbender",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "christenson01.png"
   },
   {
     "command_name": "cleven",
@@ -226,6 +274,30 @@
       "Portrayed by: Alexander Skarsgård"
     ],
     "image": "colbert01.png"
+  },
+  {
+    "command_name": "compton",
+    "title": "Buck Compton",
+    "show": "band_of_brothers",
+    "aka": ["Buck"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Lynn Davis Compton",
+      "Nickname(s): Buck",
+      "Birthplace: Los Angeles, California",
+      "Birth date: 31 December 1921",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Neal McDonough",
+      "Gravesite: Cremated, ashes given to family or friend"
+    ],
+    "image": "christenson01.png"
   },
   {
     "command_name": "crosby",
@@ -338,6 +410,30 @@
     "image": "doc_roe01.png"
   },
   {
+    "command_name": "dukeman",
+    "title": "William Dukeman",
+    "show": "band_of_brothers",
+    "aka": ["Dukeman"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: William Heister Dukeman",
+      "Nickname(s): Buddy",
+      "Birthplace: Strasberg, Colorado",
+      "Birth date: 03 September 1921",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Corporal",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Mark Lawrence",
+      "Gravesite: Netherlands American Cemetary and Memorial, Margraten, Netherlands. Plot: G, Row 2, Grave 11."
+    ],
+    "image": "dukeman01.png"
+  },
+  {
     "command_name": "fick",
     "title": "Nate Fick",
     "show": "generation_kill",
@@ -405,6 +501,30 @@
       "Gravesite: Forest Lawn Memorial Park, Hollywood Hills, CA. Plot: Columbarium of Purity & Vigilance, Lot 0, Space 63262"
     ],
     "image": "grant01.png"
+  },
+  {
+    "command_name": "guarnere",
+    "title": "Bill Guarnere",
+    "show": "band_of_brothers",
+    "aka": ["Wild Bill"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: William Joseph Guarnere",
+      "Nickname(s): Wild Bill, Gonorrhea",
+      "Birthplace: Philadelphia, Pennsylvania",
+      "Birth date: 28 April 1923",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Staff Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Frank John Hughes",
+      "Gravesite: Saints Peter and Paul Cemetary, Springfield, Pennsylvania. Plot: Section 21, Range 23, Lot 84, East Grave."
+    ],
+    "image": "guarnere01.png"
   },
   {
     "command_name": "hambone",
@@ -596,6 +716,30 @@
     "image": "manny01.png"
   },
   {
+    "command_name": "martin",
+    "title": "Johnny Martin",
+    "show": "band_of_brothers",
+    "aka": ["Johnny"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: John William Martin",
+      "Nickname(s): Johnny",
+      "Birthplace: Columbus, Ohio",
+      "Birth date: 12 May 1922",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Staff Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Dexter Fletcher",
+      "Gravesite: National Memorial Cemetary of Arizona, Phoenix, Arizona. Plot: Section 60, Site 226."
+    ],
+    "image": "martin01.png"
+  },
+  {
     "command_name": "mcclung",
     "title": "Earl McClung",
     "show": "band_of_brothers",
@@ -642,6 +786,30 @@
       "Gravesite: Sleepy Hollow Cemetary, Concord, Massachusetts"
     ],
     "image": "moose01.png"
+  },
+  {
+    "command_name": "more",
+    "title": "Alton More",
+    "show": "band_of_brothers",
+    "aka": ["More"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Alton Merton More",
+      "Nickname(s): None",
+      "Birthplace: Casper, Wyoming",
+      "Birth date: 23 April 1920",
+      "Age (on D-Day): 24",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Doug Allen",
+      "Gravesite: Highland Cemetary, Casper, Wyoming"
+    ],
+    "image": "more01.png"
   },
   {
     "command_name": "nixon",
@@ -904,6 +1072,30 @@
     "image": "sledge01.png"
   },
   {
+    "command_name": "smokey",
+    "title": "Smokey Gordon",
+    "show": "band_of_brothers",
+    "aka": ["Smokey"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Walter Scott Gordon",
+      "Nickname(s): Smokey",
+      "Birthplace: Jackson, Mississippi",
+      "Birth date: 15 April 1920",
+      "Age (on D-Day): 24",
+      "Rank (highest achieved): Corporal",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Ben Caplan",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "smokey01.png"
+  },
+  {
     "command_name": "snafu",
     "title": "Snafu Shelton",
     "show": "the_pacific",
@@ -975,6 +1167,30 @@
     "image": "talbert01.png"
   },
   {
+    "command_name": "toye",
+    "title": "Joe Toye",
+    "show": "band_of_brothers",
+    "aka": ["Joe"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Joseph John Toye",
+      "Nickname(s): Joe",
+      "Birthplace: Hughestown, Pennsylvania",
+      "Birth date: 14 March 1919",
+      "Age (on D-Day): 25",
+      "Rank (highest achieved): Staff Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Kirk Acevedo",
+      "Gravesite: Gethsemane Cemetary, Laureldale, Pennsylvania. Plot: D-210-1."
+    ],
+    "image": "toye01.png"
+  },
+  {
     "command_name": "veal",
     "title": "Bill Veal",
     "show": "masters_of_the_air",
@@ -997,6 +1213,30 @@
       "Gravesite: Riverside National Cemetary, Riverside, California. Plot: Section 5, Site 1638."
     ],
     "image": "veal01.png"
+  },
+  {
+    "command_name": "webster",
+    "title": "David Webster",
+    "show": "band_of_brothers",
+    "aka": ["Web"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: David Kenyon Webster",
+      "Nickname(s): Web, Professor",
+      "Birthplace: New York, New York",
+      "Birth date: 02 June 1922",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st & 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Eion Bailey",
+      "Gravesite: Body lost at sea near Santa Monica"
+    ],
+    "image": "webster01.png"
   },
   {
     "command_name": "winters",

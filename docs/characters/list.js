@@ -1,5 +1,5 @@
 (function(){
-  const DATA_VERSION = "2025-11-09-04";
+  const DATA_VERSION = "2025-11-09-05";
   const DATA_URL = `../data/characters.json?v=${DATA_VERSION}`;
   const IMG_BASE = "../assets/images/";
 

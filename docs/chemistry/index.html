@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <title>Blorbo Lab • War Boys</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .page{max-width:1100px;margin:32px auto;padding:0 16px}
+    .layout{display:grid;grid-template-columns:280px 1fr;gap:20px;margin-top:16px}
+    .card{background:#151a23;border:1px solid #1f2a3d;border-radius:14px;padding:16px}
+    .portrait{width:240px;height:240px;border-radius:12px;object-fit:cover;background:#0b0f14}
+    .section-title{margin-top:0}
+    .two-col{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}
+    .list{margin:8px 0 0;padding-left:18px}
+    .xp-table{width:100%;border-collapse:collapse;margin-top:8px}
+    .xp-table th,.xp-table td{padding:6px 8px;border-bottom:1px solid #222}
+    #blorboSelect{width:100%;max-width:320px;padding:8px 10px;border-radius:8px;
+                  border:1px solid #243045;background:#151a23;color:#e7ecf3}
+  </style>
+</head>
+<body>
+  <main class="page">
+    <a href="../" class="muted" style="text-decoration:none">← Home</a>
+    <h1>Blorbo Chemistry Lab</h1>
+    <p class="muted">Pick a character to see their traits, preferred gifts, and relationship stats.</p>
+
+    <label for="blorboSelect" class="muted">Select a blorbo:</label><br>
+    <select id="blorboSelect">
+      <option value="">— Select a blorbo —</option>
+      <!-- options added by JS -->
+    </select>
+
+    <section id="blorboPanel" style="display:none">
+      <div class="layout">
+        <!-- Left: portrait + name -->
+        <div class="card">
+          <img id="blorboImg" class="portrait" alt="">
+          <h2 id="blorboName" style="margin-top:12px"></h2>
+        </div>
+
+        <!-- Right: traits + gifts + XP -->
+        <div class="card">
+          <div class="two-col">
+            <div>
+              <h3 class="section-title">Physical traits</h3>
+              <ul id="physicalList" class="list"></ul>
+            </div>
+            <div>
+              <h3 class="section-title">Personality traits</h3>
+              <ul id="personalityList" class="list"></ul>
+            </div>
+          </div>
+
+          <h3 style="margin-top:18px">Gift results</h3>
+          <div class="two-col">
+            <div>
+              <strong>+ Friendship XP</strong>
+              <ul id="fxpPos" class="list"></ul>
+              <strong style="display:block;margin-top:10px">− Friendship XP</strong>
+              <ul id="fxpNeg" class="list"></ul>
+            </div>
+            <div>
+              <strong>+ Romance XP</strong>
+              <ul id="rxpPos" class="list"></ul>
+              <strong style="display:block;margin-top:10px">− Romance XP</strong>
+              <ul id="rxpNeg" class="list"></ul>
+            </div>
+          </div>
+
+          <h3 style="margin-top:18px">Users & XP</h3>
+          <table class="xp-table" id="xpTable">
+            <thead>
+              <tr>
+                <th>User</th>
+                <th>Friendship</th>
+                <th>Romance</th>
+              </tr>
+            </thead>
+            <tbody></tbody>
+          </table>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <script src="./blorbo-lab.js" defer></script>
+</body>
+</html>

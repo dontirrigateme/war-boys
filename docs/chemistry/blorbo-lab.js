@@ -4,20 +4,17 @@ const BASE_PATH = ".."; // adjust if needed
 let characters = [];
 let gifts = [];
 let giftModifiers = [];
-let relationshipXp = [];
 
 async function loadData() {
-  const [charsRes, giftsRes, modsRes, xpRes] = await Promise.all([
+  const [charsRes, giftsRes, modsRes] = await Promise.all([
     fetch(`${BASE_PATH}/data/character_traits.json`),
     fetch(`${BASE_PATH}/data/gifts.json`),
-    fetch(`${BASE_PATH}/data/gift_modifiers.json`),
-    fetch(`${BASE_PATH}/data/relationship_xp.json`).catch(() => null)
+    fetch(`${BASE_PATH}/data/gift_modifiers.json`)
   ]);
-
+  
   characters = await charsRes.json();
   gifts = await giftsRes.json();
   giftModifiers = await modsRes.json();
-  relationshipXp = xpRes && xpRes.ok ? await xpRes.json() : [];
 
   populateSelect();
 }
@@ -78,10 +75,7 @@ function renderBlorbo(character) {
   fillGiftList("fxpPos", buckets.fxpPos);
   fillGiftList("fxpNeg", buckets.fxpNeg);
   fillGiftList("rxpPos", buckets.rxpPos);
-  fillGiftList("rxpNeg", buckets.rxpNeg);
 
-  // XP table
-  renderXpTable(character.command_name);
 }
 
 function fillList(id, items = []) {
@@ -141,34 +135,6 @@ function computeGiftResult(gift, character) {
     });
 
   return { fxp, rxp };
-}
-
-function renderXpTable(commandName) {
-  const tbody = document.querySelector("#xpTable tbody");
-  tbody.innerHTML = "";
-
-  const rows = relationshipXp.filter(r => r.character === commandName);
-  if (!rows.length) {
-    const tr = document.createElement("tr");
-    const td = document.createElement("td");
-    td.colSpan = 3;
-    td.textContent = "No relationship data yet.";
-    tbody.appendChild(tr);
-    tr.appendChild(td);
-    return;
-  }
-
-  rows.sort((a, b) => (b.friendship_xp + b.romance_xp) - (a.friendship_xp + a.romance_xp));
-
-  rows.forEach(r => {
-    const tr = document.createElement("tr");
-    tr.innerHTML = `
-      <td>${r.user_name}</td>
-      <td>${r.friendship_xp} (${r.friendship_level || "-"})</td>
-      <td>${r.romance_xp} (${r.romance_level || "-"})</td>
-    `;
-    tbody.appendChild(tr);
-  });
 }
 
 loadData().catch(err => {

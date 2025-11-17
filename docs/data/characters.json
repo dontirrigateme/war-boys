@@ -553,6 +553,27 @@
     "image": "dukeman01.png"
   },
   {
+    "command_name": "espera",
+    "title": "ESPERA, ANTONIO",
+    "show": "generation_kill",
+    "aka": ["Poke"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Antonio Espera",
+      "Nickname(s): Poke",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Rank (highest achieved): Sergeant",
+      "Branch: USMC",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Jon Huertas"
+    ],
+    "image": "espera01.png"
+  },
+  {
     "command_name": "evans",
     "title": "EVANS, WILLIAM",
     "show": "band_of_brothers",
@@ -1490,6 +1511,29 @@
       "Gravesite: Riverside National Cemetary, Riverside, California. Plot: Section 5, Site 1638."
     ],
     "image": "veal01.png"
+  },
+  {
+    "command_name": "vest",
+    "title": "VEST, ALLEN",
+    "show": "band_of_brothers",
+    "aka": ["Jaws"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Allen Emmett Vest",
+      "Nickname(s): Jaws",
+      "Birthplace: Walnut Grove, Missouri",
+      "Birth date: 10 August 1924",
+      "Age (on D-Day): 19",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Kieren O'Brien",
+      "Gravesite: Bona Cemetary, Bona, Missouri"
+    ],
+    "image": "vest01.png"
   },
   {
     "command_name": "webster",

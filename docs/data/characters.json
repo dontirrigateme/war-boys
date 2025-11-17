@@ -18,7 +18,7 @@
       "Regiment: 5th Marines",
       "Division: 1st Marine Division",
       "Portrayed by: Scott Gibson",
-      "Gravesite: Arlington National Cemetary, Section 12, Site 5367"
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 12, Site 5367."
     ],
     "image": "ack_ack01.png"
   },
@@ -90,9 +90,57 @@
       "Regiment: 27th Marines",
       "Division: 5th Marine Division",
       "Portrayed by: Jon Seda",
-      "Gravesite: Arlington National Cemetary, Section 12, Grave 384"
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 12, Grave 384."
     ],
     "image": "basilone01.png"
+  },
+  {
+    "command_name": "blithe",
+    "title": "Albert Blithe",
+    "show": "band_of_brothers",
+    "aka": ["Al"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Albert Blithe",
+      "Nickname(s): Al",
+      "Birthplace: Philadelphia, Pennsylvania",
+      "Birth date: 25 June 1923",
+      "Age (on D-Day): 20",
+      "Rank (highest achieved): Master Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Marc Warren",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 31, Site 7672."
+    ],
+    "image": "blithe01.png"
+  },
+  {
+    "command_name": "boyle",
+    "title": "Leo Boyle",
+    "show": "band_of_brothers",
+    "aka": ["Fearless Phosgene"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Leo Delaine Boyle",
+      "Nickname(s): Fearless Phosgene",
+      "Birthplace: Roseburg,  Oregon",
+      "Birth date: 06 October 1913",
+      "Age (on D-Day): 30",
+      "Rank (highest achieved): Staff Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Nigel Hoyle",
+      "Gravesite: Restlawn Memory Gardens, West Salem, Oregon. Plot: Garden of Protection."
+    ],
+    "image": "boyle01.png"
   },
   {
     "command_name": "brady",
@@ -119,6 +167,30 @@
     "image": "brady01.png"
   },
   {
+    "command_name": "brewer",
+    "title": "Bob Brewer",
+    "show": "band_of_brothers",
+    "aka": ["Bob"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Robert Burnham Brewer",
+      "Nickname(s): Bob",
+      "Birthplace: Fresno, California",
+      "Birth date: 31 January 1924",
+      "Age (on D-Day): 20",
+      "Rank (highest achieved): Colonel",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Brandon Firla",
+      "Gravesite: Cremated"
+    ],
+    "image": "brewer01.png"
+  },
+  {
     "command_name": "bucky",
     "title": "Bucky Egan",
     "show": "masters_of_the_air",
@@ -138,7 +210,7 @@
       "Division: 3rd Bombardment Division",
       "Command: 8th Air Force",
       "Portrayed by: Callum Turner",
-      "Gravesite: Arlington National Cemetary, Section 8, Site 6437-A"
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 8, Site 6437-A."
     ],
     "image": "bucky01.png"
   },
@@ -254,6 +326,30 @@
     "image": "cleven01.png"
   },
   {
+    "command_name": "cobb",
+    "title": "Roy Cobb",
+    "show": "band_of_brothers",
+    "aka": ["Cobb"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Roy William Cobb",
+      "Nickname(s): None",
+      "Birthplace: Harlan County, Kentucky",
+      "Birth date: 04 March 1922",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Craig Heaney",
+      "Gravesite: Presumed in Kentucky."
+    ],
+    "image": "cobb01.png"
+  },
+  {
     "command_name": "colbert",
     "title": "Brad Colbert",
     "show": "generation_kill",
@@ -348,6 +444,29 @@
     "image": "demarco01.png"
   },
   {
+    "command_name": "dike",
+    "title": "Norman Dike",
+    "show": "band_of_brothers",
+    "aka": ["Foxhole Norman"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Norman Staunton Dike, Jr.",
+      "Nickname(s): Foxhole Norman",
+      "Birthplace: Brooklyn, New York",
+      "Birth date: 19 May 1918",
+      "Age (on D-Day): 26",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army",
+      "Company: Easy",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Peter O'Meara",
+      "Gravesite: West Thompson Cemetary, Thompson, Connecticut"
+    ],
+    "image": "dike01.png"
+  },
+  {
     "command_name": "dinozzo",
     "title": "Tony DiNozzo",
     "show": "ncis",
@@ -434,6 +553,29 @@
     "image": "dukeman01.png"
   },
   {
+    "command_name": "evans",
+    "title": "Bill Evans",
+    "show": "band_of_brothers",
+    "aka": ["Evans"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: William Stanton Evans",
+      "Nickname(s): Bill",
+      "Birthplace: San Antonio, Texas",
+      "Birth date: 16 July 1910",
+      "Age (on D-Day): 33",
+      "Rank (highest achieved): 1st Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Simon Pegg",
+      "Gravesite: Jefferson Barracks National Cemetary, Lemay Township,  Missouri. Plot: Section 84, Site 25-31."
+    ],
+    "image": "evans01.png"
+  },
+  {
     "command_name": "fick",
     "title": "Nate Fick",
     "show": "generation_kill",
@@ -477,6 +619,30 @@
       "Gravesite: Several"
     ],
     "image": "filthy_1301.png"
+  },
+  {
+    "command_name": "foley",
+    "title": "Jack Foley",
+    "show": "band_of_brothers",
+    "aka": ["Foley"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Jack Edward Foley",
+      "Nickname(s): None",
+      "Birthplace: Pittsburgh, Pennsylvania",
+      "Birth date: 18 August 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Captain",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st & 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Jamie Bamber",
+      "Gravesite: Mount Hope Cemetary, Penn Hills, Pennsylvania. Plot: Section 5A."
+    ],
+    "image": "foley01.png"
   },
   {
     "command_name": "grant",
@@ -546,7 +712,7 @@
       "Division: 3rd Bombardment Division",
       "Command: 8th Air Force",
       "Portrayed by: Jordan Coulson",
-      "Gravesite: Arlington National Cemetary, Section 66, Site 3629"
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 66, Site 3629."
     ],
     "image": "hambone01.png"
   },
@@ -882,6 +1048,28 @@
       "Gravesite: Luxembourg American Cemetary & Memorial, Hamm, Luxembourg. Plot: Plot I, Row 9, Grave 5."
     ],
     "image": "penkala01.png"
+  },
+  {
+    "command_name": "person",
+    "title": "Ray Person",
+    "show": "generation_kill",
+    "aka": ["Ray"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Josh Ray Person",
+      "Nickname(s): Ray",
+      "Birthplace: Nevada",
+      "Birth date: 1981",
+      "Age (on arrival in Iraq): 22",
+      "Rank (highest achieved): Corporal",
+      "Branch: USMC",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: James Ransone"
+    ],
+    "image": "person01.png"
   },
   {
     "command_name": "popeye",

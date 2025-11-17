@@ -1,16 +1,912 @@
 [
   {
-    "gift_name": "box_of_chocolates",
+    "gift_name": "airsick_bag",
     "modifier_type": "trait",
-    "target": "Sarcastic",
-    "fxp_modifier": 5,
-    "rxp_modifier": 0
+    "target": "Anxious",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
   },
   {
-    "gift_name": "bonetown_ticket",
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Cautious",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "character",
+    "target": "crosby",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Flippant",
+    "fxp_modifier": -10,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Messy",
+    "fxp_modifier": -10,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Neat Freak",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Overthinker",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Slob",
+    "fxp_modifier": -10,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Unlucky",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "airsick_bag",
+    "modifier_type": "trait",
+    "target": "Organized",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Aloof",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Anxious",
+    "fxp_modifier": -34,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Apathetic",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Babey",
+    "fxp_modifier": -34,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Handy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Hunter",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Icy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Intense",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Naive",
+    "fxp_modifier": -34,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Sardonic",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Sentimental",
+    "fxp_modifier": -34,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "ammo-crate",
+    "modifier_type": "trait",
+    "target": "Spiteful",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "Unskilled",
+    "fxp_modifier": -34,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "ammo_crate",
+    "modifier_type": "trait",
+    "target": "World-weary",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "crass",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "demanding",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "easy-going",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "flexible",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "flippant",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "funny",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "himbo",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "misfit",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "naive",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "neat freak",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "optimistic",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "pessimistic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "sarcastic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "sardonic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "serious",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "suave",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "army_noodles_with_katchup",
+    "modifier_type": "trait",
+    "target": "unadaptable",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "bacon_sandwich",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": 20,
+    "rxp_modifier": 20
+  },
+  {
+    "gift_name": "bacon_sandwich",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
     "modifier_type": "character",
     "target": "alley",
-    "fxp_modifier": -5,
-    "rxp_modifier": 10
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "babe",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "boyle",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "brewer",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "bull",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "christenson",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "cobb",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "compton",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "considerate",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "curious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "dike",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "doc roe",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "dukeman",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "evans",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "foley",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "garcia",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "grant",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "halls",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "hashey",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "hester",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "inconsiderate",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "jackson",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "janovec",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "jones",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "kiehn",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "lemaire",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "lesniewski",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "liebgott",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "lipton",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "lorraine",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "luz",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "malarkey",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "martin",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "mcclung",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "mcgrath",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "meehan",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "miller",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "moose",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "more",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "okeefe",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "peacock",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "penkala",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "personte",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "petty",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "popeye",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "ramirez",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "ranney",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "sentimental",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "shifty",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "skinny",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "skip",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "smith",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "smokey",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "sobel",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "speirs",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "spina",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "strayer",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "sympathetic",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "talbert",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "tipper",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "trait",
+    "target": "uninterested",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "van klinken",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "vest",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "webb",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "webster",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "welsh",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "zielinski",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "chiwy",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "dinozzo",
+    "fxp_modifier": 12,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "modifier_type": "character",
+    "target": "filthy 13",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
   }
 ]

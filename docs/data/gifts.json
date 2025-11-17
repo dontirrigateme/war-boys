@@ -1,0 +1,14 @@
+[
+  {
+    "gift_name": "box_of_chocolates",
+    "display_name": "Box of Chocolates",
+    "base_fxp": 10,
+    "base_rxp": 5
+  },
+  {
+    "gift_name": "bonetown_ticket",
+    "display_name": "Bonetown Ticket",
+    "base_fxp": 0,
+    "base_rxp": 25
+  }
+]

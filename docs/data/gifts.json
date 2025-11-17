@@ -1,14 +1,452 @@
 [
   {
+    "gift_name": "airsick_bag",
+    "display_name": "Airsick Bag",
+    "base_fxp": 7,
+    "base_rxp": 5
+  },
+  {
+    "gift_name": "ammo_crate",
+    "display_name": "Ammo Crate",
+    "base_fxp": 19,
+    "base_rxp": 15
+  },
+  {
+    "gift_name": "army_noodles_with_ketchup",
+    "display_name": "Army Noodles With Ketchup",
+    "base_fxp": 9,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "bacon_sandwich",
+    "display_name": "Bacon Sandwich",
+    "base_fxp": 5,
+    "base_rxp": 3
+  },
+  {
+    "gift_name": "band_of_brothers_box_set",
+    "display_name": "Band of Brothers Box Set",
+    "base_fxp": 18,
+    "base_rxp": 14
+  },
+  {
+    "gift_name": "beefaroni",
+    "display_name": "Beefaroni",
+    "base_fxp": 10,
+    "base_rxp": 8
+  },
+  {
+    "gift_name": "binoculars",
+    "display_name": "Binoculars",
+    "base_fxp": 20,
+    "base_rxp": 18
+  },
+  {
+    "gift_name": "blood_bag",
+    "display_name": "Blood Bag",
+    "base_fxp": 15,
+    "base_rxp": 13
+  },
+  {
+    "gift_name": "boots",
+    "display_name": "Boots",
+    "base_fxp": 20,
+    "base_rxp": 15
+  },
+  {
     "gift_name": "box_of_chocolates",
     "display_name": "Box of Chocolates",
+    "base_fxp": 17,
+    "base_rxp": 19
+  },
+  {
+    "gift_name": "box_of_cigars",
+    "display_name": "Box of Cigars",
+    "base_fxp": 22,
+    "base_rxp": 19
+  },
+  {
+    "gift_name": "camels",
+    "display_name": "Camels",
+    "base_fxp": 13,
+    "base_rxp": 9
+  },
+  {
+    "gift_name": "canned_peaches",
+    "display_name": "Canned Peaches",
+    "base_fxp": 8,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "carton_of_camels",
+    "display_name": "Carton of Camels",
+    "base_fxp": 30,
+    "base_rxp": 25
+  },
+  {
+    "gift_name": "carton_of_lucky_strikes",
+    "display_name": "Carton of Lucky Strikes",
+    "base_fxp": 30,
+    "base_rxp": 25
+  },
+  {
+    "gift_name": "charms",
+    "display_name": "Charms",
+    "base_fxp": 8,
+    "base_rxp": 5
+  },
+  {
+    "gift_name": "cigar",
+    "display_name": "Cigar",
+    "base_fxp": 12,
+    "base_rxp": 7
+  },
+  {
+    "gift_name": "coffee_can",
+    "display_name": "Coffee Can",
+    "base_fxp": 16,
+    "base_rxp": 11
+  },
+  {
+    "gift_name": "compass",
+    "display_name": "Compass",
+    "base_fxp": 15,
+    "base_rxp": 13
+  },
+  {
+    "gift_name": "copenhagen",
+    "display_name": "Copenhagen",
+    "base_fxp": 13,
+    "base_rxp": 9
+  },
+  {
+    "gift_name": "darts",
+    "display_name": "Darts",
+    "base_fxp": 8,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "desert_camo",
+    "display_name": "Desert Camo",
+    "base_fxp": 25,
+    "base_rxp": 20
+  },
+  {
+    "gift_name": "dick_tracy_comic",
+    "display_name": "Dick Tracy Comic",
+    "base_fxp": 7,
+    "base_rxp": 5
+  },
+  {
+    "gift_name": "drawing_supplies",
+    "display_name": "Drawing Supplies",
+    "base_fxp": 13,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "easy_company_helmet",
+    "display_name": "Easy Company Helmet",
+    "base_fxp": 20,
+    "base_rxp": 15
+  },
+  {
+    "gift_name": "espresso_machine",
+    "display_name": "Espresso Machine",
+    "base_fxp": 50,
+    "base_rxp": 50
+  },
+  {
+    "gift_name": "fancy_soap",
+    "display_name": "Fancy Soap",
+    "base_fxp": 15,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "flash_gordon_comic",
+    "display_name": "Flash Gordon Comic",
+    "base_fxp": 7,
+    "base_rxp": 5
+  },
+  {
+    "gift_name": "gas_mask",
+    "display_name": "Gas Mask",
+    "base_fxp": 18,
+    "base_rxp": 15
+  },
+  {
+    "gift_name": "gay_porn",
+    "display_name": "Gay Porn",
+    "base_fxp": 10,
+    "base_rxp": 15
+  },
+  {
+    "gift_name": "generation_kill_box_set",
+    "display_name": "Generation Kill Box Set",
+    "base_fxp": 18,
+    "base_rxp": 14
+  },
+  {
+    "gift_name": "gold_teeth",
+    "display_name": "Gold Teeth",
+    "base_fxp": 28,
+    "base_rxp": 24
+  },
+  {
+    "gift_name": "helmet_coffee",
+    "display_name": "Helmet Coffee",
+    "base_fxp": 15,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "hershey_bar",
+    "display_name": "Hershey Bar",
+    "base_fxp": 10,
+    "base_rxp": 7
+  },
+  {
+    "gift_name": "hip_flask",
+    "display_name": "Hip Flask",
+    "base_fxp": 19,
+    "base_rxp": 14
+  },
+  {
+    "gift_name": "j.lo_cd",
+    "display_name": "J.Lo CD",
+    "base_fxp": 8,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "juggs_magazine",
+    "display_name": "Juggs Magazine",
+    "base_fxp": 10,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "jump_bag",
+    "display_name": "Jump Bag",
+    "base_fxp": 18,
+    "base_rxp": 15
+  },
+  {
+    "gift_name": "knit_scarf",
+    "display_name": "Knit Scarf",
+    "base_fxp": 20,
+    "base_rxp": 18
+  },
+  {
+    "gift_name": "kraut_bandage",
+    "display_name": "Kraut Bandage",
+    "base_fxp": 10,
+    "base_rxp": 8
+  },
+  {
+    "gift_name": "life_preserver",
+    "display_name": "Life Preserver",
+    "base_fxp": 13,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "lucky_strikes",
+    "display_name": "Lucky Strikes",
+    "base_fxp": 13,
+    "base_rxp": 9
+  },
+  {
+    "gift_name": "luger",
+    "display_name": "Luger",
+    "base_fxp": 20,
+    "base_rxp": 18
+  },
+  {
+    "gift_name": "maid_dress",
+    "display_name": "Maid Dress",
+    "base_fxp": 18,
+    "base_rxp": 18
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "display_name": "Masters of the Air Box Set",
+    "base_fxp": 18,
+    "base_rxp": 14
+  },
+  {
+    "gift_name": "medical_scissors",
+    "display_name": "Medical Scissors",
+    "base_fxp": 10,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "mystery_meat",
+    "display_name": "Mystery Meat",
     "base_fxp": 10,
     "base_rxp": 5
   },
   {
-    "gift_name": "bonetown_ticket",
-    "display_name": "Bonetown Ticket",
-    "base_fxp": 0,
+    "gift_name": "near_beer",
+    "display_name": "Near Beer",
+    "base_fxp": 17,
+    "base_rxp": 12
+  },
+  {
+    "gift_name": "no_doz",
+    "display_name": "No Doz",
+    "base_fxp": 12,
+    "base_rxp": 7
+  },
+  {
+    "gift_name": "pants",
+    "display_name": "Pants",
+    "base_fxp": 17,
+    "base_rxp": 12
+  },
+  {
+    "gift_name": "pipe",
+    "display_name": "Pipe",
+    "base_fxp": 14,
+    "base_rxp": 9
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "display_name": "Pitcher of Lemonade",
+    "base_fxp": 10,
+    "base_rxp": 8
+  },
+  {
+    "gift_name": "playing_cards",
+    "display_name": "Playing Cards",
+    "base_fxp": 6,
+    "base_rxp": 4
+  },
+  {
+    "gift_name": "pocket_knife",
+    "display_name": "Pocket Knife",
+    "base_fxp": 26,
+    "base_rxp": 22
+  },
+  {
+    "gift_name": "radio",
+    "display_name": "Radio",
+    "base_fxp": 16,
+    "base_rxp": 11
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "display_name": "Rancis-Ass Beans",
+    "base_fxp": 9,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "display_name": "Refillable Lighter",
+    "base_fxp": 17,
+    "base_rxp": 11
+  },
+  {
+    "gift_name": "rice",
+    "display_name": "Rice",
+    "base_fxp": 10,
+    "base_rxp": 7
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "display_name": "Roll of Copenhagen",
+    "base_fxp": 30,
     "base_rxp": 25
+  },
+  {
+    "gift_name": "ross_of_skoal ",
+    "display_name": "Roll of Skoal",
+    "base_fxp": 24,
+    "base_rxp": 20
+  },
+  {
+    "gift_name": "rosary",
+    "display_name": "Rosary",
+    "base_fxp": 14,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "shock_absorber",
+    "display_name": "Shock Absorber",
+    "base_fxp": 16,
+    "base_rxp": 11
+  },
+  {
+    "gift_name": "silk_map",
+    "display_name": "Silk Map",
+    "base_fxp": 20,
+    "base_rxp": 15
+  },
+  {
+    "gift_name": "skoal",
+    "display_name": "Skoal",
+    "base_fxp": 12,
+    "base_rxp": 7
+  },
+  {
+    "gift_name": "sleep_mask",
+    "display_name": "Sleep Mask",
+    "base_fxp": 10,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "smelling_salts",
+    "display_name": "Smelling Salts",
+    "base_fxp": 9,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "spotted_dick",
+    "display_name": "Spotted Dick",
+    "base_fxp": 8,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "display_name": "Subway Sandwich",
+    "base_fxp": 5,
+    "base_rxp": 3
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "display_name": "The Pacific Box Set",
+    "base_fxp": 18,
+    "base_rxp": 14
+  },
+  {
+    "gift_name": "titter_magazine",
+    "display_name": "Titter Magazine",
+    "base_fxp": 10,
+    "base_rxp": 10
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "display_name": "Toccoa Scrapbook",
+    "base_fxp": 18,
+    "base_rxp": 18
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "display_name": "Toothbrush Kit",
+    "base_fxp": 6,
+    "base_rxp": 4
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "display_name": "Umbrella Hat",
+    "base_fxp": 8,
+    "base_rxp": 6
+  },
+  {
+    "gift_name": "vat_69",
+    "display_name": "Vat 69",
+    "base_fxp": 25,
+    "base_rxp": 21
+  },
+  {
+    "gift_name": "war_bond",
+    "display_name": "War Bond",
+    "base_fxp": 24,
+    "base_rxp": 20
   }
 ]

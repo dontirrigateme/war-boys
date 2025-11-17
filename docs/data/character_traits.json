@@ -1,0 +1,16 @@
+[
+  {
+    "command_name": "alley",
+    "display_name": "James Alley",
+    "image": "alley01.png",
+    "physical_traits": [
+      "Average height",
+      "Brown hair"
+    ],
+    "personality_traits": [
+      "Sarcastic",
+      "Loyal",
+      "Quietly observant"
+    ]
+  }
+]

@@ -740,4 +740,796 @@
       "Respectful"
     ]
   },
+  {
+    "command_name": "liebgott",
+    "display_name": "Joe Liebgott",
+    "image": "liebgott01.png",
+    "physical_traits": [
+      "Skinny",
+      "Brown eyes",
+      "Light brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height",
+      "Crooked smile"
+    ],
+    "personality_traits": [
+      "Annoyed",
+      "Blunt",
+      "Chaotic",
+      "Feral",
+      "Impatient",
+      "Impertinent",
+      "Impulsive",
+      "Provocable",
+      "Sarcastic",
+      "Intense"
+    ]
+  },
+  {
+    "command_name": "luz",
+    "display_name": "George Luz",
+    "image": "luz01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Amiable",
+      "Chaotic",
+      "Charismatic",
+      "Clever",
+      "Creative",
+      "Easy-going",
+      "Expressive",
+      "Extroverted",
+      "Friendly",
+      "Funny",
+      "Silly",
+      "Kind",
+      "Punny",
+      "ADHD"
+    ]
+  },
+  {
+    "command_name": "malarkey",
+    "display_name": "Don Malarkey",
+    "image": "malarkey01.png",
+    "physical_traits": [
+      "Stocky",
+      "Brown eyes",
+      "Red hair",
+      "Wavy hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Caretaker",
+      "Charismatic",
+      "Clever",
+      "Easy-going",
+      "Expressive",
+      "Extroverted",
+      "Friendly",
+      "Funny",
+      "Humble",
+      "Kind",
+      "Silly",
+      "Social",
+      "Babey"
+    ]
+  },
+  {
+    "command_name": "manny",
+    "display_name": "Manny Rodriguez",
+    "image": "manny01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Average physique",
+      "Brown eyes",
+      "Dark brown hair",
+      "Curly hair",
+      "Fair-skinned",
+      "Average height",
+      "Crooked smile"
+    ],
+    "personality_traits": [
+      "Anxious",
+      "Caretaker",
+      "Generous",
+      "Oblivious",
+      "Gut feeling",
+      "Active"
+    ]
+  },
+  {
+    "command_name": "martin",
+    "display_name": "Johnny Martin",
+    "image": "martin01.png",
+    "physical_traits": [
+      "Average physique",
+      "Dimples",
+      "Resting bitch face",
+      "Hazel eyes",
+      "Black hair",
+      "Curly hair",
+      "Fair-skinned",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Annoyed",
+      "Blunt",
+      "Direct",
+      "Disciplined",
+      "Icy",
+      "Impatient",
+      "Intimidating",
+      "Observant",
+      "Provocable",
+      "Wary",
+      "Bitchy"
+    ]
+  },
+  {
+    "command_name": "mcclung",
+    "display_name": "Earl McClung",
+    "image": "mcclung01.png",
+    "physical_traits": [
+      "Skinny",
+      "Gray eyes",
+      "Black hair",
+      "Curly hair",
+      "Tan",
+      "Tall height",
+      "Perpetually dirty"
+    ],
+    "personality_traits": [
+      "Active",
+      "Blunt",
+      "Daring",
+      "Emotionally-constipated",
+      "Feral",
+      "Indifferent",
+      "Messy",
+      "Observant",
+      "Reserved",
+      "Independent",
+      "Intense",
+      "Hunter"
+    ]
+  },
+  {
+    "command_name": "moose",
+    "display_name": "Moose Heyliger",
+    "image": "moose01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Large physique",
+      "Green eyes",
+      "Dark blond hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Agreeable",
+      "Amiable",
+      "Caretaker",
+      "Considerate",
+      "Daring",
+      "Easy-going",
+      "Friendly",
+      "Genuine",
+      "Kind",
+      "Observant",
+      "Planful",
+      "Respectful",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "more",
+    "display_name": "Alton More",
+    "image": "more01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Slim",
+      "Brown eyes",
+      "Resting bitch face",
+      "Brown hair",
+      "Wavy hair",
+      "Fair-skinned",
+      "Tall height",
+      "Crooked smile"
+    ],
+    "personality_traits": [
+      "Aloof",
+      "Amiable",
+      "Arrogant",
+      "Clever",
+      "Confident",
+      "Daring",
+      "Flippant",
+      "Impertinent",
+      "Observant",
+      "Reserved",
+      "Sarcastic",
+      "Unbothered",
+      "Bitchy",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "nixon",
+    "display_name": "Lewis Nixon",
+    "image": "nixon01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Black hair",
+      "Straight hair",
+      "Average height",
+      "Pale",
+      "Bedhead",
+      "Facial asymmetry"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Clever",
+      "Impertinent",
+      "Impulsive",
+      "Loquacious",
+      "Night owl",
+      "Messy",
+      "Proud",
+      "Sarcastic",
+      "Sardonic",
+      "Worldly",
+      "Intelligent",
+      "Social"
+    ]
+  },
+  {
+    "command_name": "peacock",
+    "display_name": "Thomas Peacock",
+    "image": "peacock01.png",
+    "physical_traits": [
+      "Slim",
+      "Blue eyes",
+      "Dark brown hair",
+      "Wavy hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Boring",
+      "Cautious",
+      "Demanding",
+      "Early bird",
+      "Neat freak",
+      "Oblivious",
+      "Organized",
+      "Planful",
+      "Respectful",
+      "Serious",
+      "Unimaginitive",
+      "Overthinker"
+    ]
+  },
+  {
+    "command_name": "penkala",
+    "display_name": "Alex Penkala",
+    "image": "penkala01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Stocky",
+      "Brown eyes",
+      "Brown hair",
+      "Wavy hair",
+      "Tan",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Annoyed",
+      "Blunt",
+      "Crass",
+      "Friendly",
+      "Funny",
+      "Impatient",
+      "Provocable",
+      "Sarcastic",
+      "Bitchy",
+      "Babey",
+      "Dramatic"
+    ]
+  },
+  {
+    "command_name": "popeye",
+    "display_name": "Popeye Wynn",
+    "image": "popeye01.png",
+    "physical_traits": [
+      "Average physique",
+      "Dimples",
+      "Blue eyes",
+      "Dark blond hair",
+      "Straight hair",
+      "Pale",
+      "Short height",
+      "Crooked smile"
+    ],
+    "personality_traits": [
+      "Chaotic",
+      "Clever",
+      "Confident",
+      "Easy-going",
+      "Extroverted",
+      "Feral",
+      "Friendly",
+      "Funny",
+      "Impertinent",
+      "Impulsive",
+      "ADHD",
+      "Misfit",
+      "Outgoing",
+      "Active"
+    ]
+  },
+  {
+    "command_name": "reyes",
+    "display_name": "Rudy Reyes",
+    "image": "reyes01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Large physique",
+      "Brown eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Tan",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Affectionate",
+      "Calm",
+      "Clever",
+      "Confident",
+      "Disciplined",
+      "Expressive",
+      "Genuine",
+      "Humble",
+      "Kind",
+      "Optimistic",
+      "Intelligent",
+      "Proud",
+      "Healthy habits"
+    ]
+  },
+  {
+    "command_name": "rosie",
+    "display_name": "Rosie Rosenthal",
+    "image": "rosie01.png",
+    "physical_traits": [
+      "Slim",
+      "Blue eyes",
+      "Black hair",
+      "Curly hair",
+      "Pale",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Clever",
+      "Confident",
+      "Funny",
+      "Suave",
+      "Intelligent",
+      "Reserved"
+    ]
+  },
+  {
+    "command_name": "runner",
+    "display_name": "Runner Conley",
+    "image": "runner01.png",
+    "physical_traits": [
+      "Skinny",
+      "Dimples",
+      "Brown eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Tan",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Caretaker",
+      "Sarcastic",
+      "Silly",
+      "Funny",
+      "Clever",
+      "Observant",
+      "Unbothered",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "shifty",
+    "display_name": "Shifty Powers",
+    "image": "shifty01.png",
+    "physical_traits": [
+      "Slim",
+      "Brown eyes",
+      "Light brown hair",
+      "Straight hair",
+      "Tan",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Caretaker",
+      "Clever",
+      "Friendly",
+      "Handy",
+      "Humble",
+      "Introverted",
+      "Kind",
+      "Optimistic",
+      "Shy",
+      "Babey",
+      "Respectful",
+      "Patient",
+      "Hunter"
+    ]
+  },
+  {
+    "command_name": "skinny",
+    "display_name": "Skinny Sisk",
+    "image": "skinny01.png",
+    "physical_traits": [
+      "Skinny",
+      "Hazel eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Annoyed",
+      "Blunt",
+      "Friendly",
+      "Funny",
+      "Introverted",
+      "Daring",
+      "Observant",
+      "Reserved",
+      "Sarcastic",
+      "Bitchy",
+      "Impatient"
+    ]
+  },
+  {
+    "command_name": "skip",
+    "display_name": "Skip Muck",
+    "image": "skip01.png",
+    "physical_traits": [
+      "Slim",
+      "Dimples",
+      "Hazel eyes",
+      "Light brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height",
+      "Overbite"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Charismatic",
+      "Clever",
+      "Easy-going",
+      "Expressive",
+      "Extroverted",
+      "Friendly",
+      "Funny",
+      "Patient",
+      "Silly",
+      "Social",
+      "Sympathetic",
+      "Caretaker",
+      "Optimistic"
+    ]
+  },
+  {
+    "command_name": "sledge",
+    "display_name": "Eugene Sledge",
+    "image": "sledge01.png",
+    "physical_traits": [
+      "Skinny",
+      "Brown eyes",
+      "Resting bitch face",
+      "Red hair",
+      "Straight hair",
+      "Pale",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Annoyed",
+      "Introverted",
+      "Serious",
+      "Shy",
+      "Babey",
+      "Bitchy",
+      "Hunter",
+      "Sensitive"
+    ]
+  },
+  {
+    "command_name": "smokey",
+    "display_name": "Smokey Gordon",
+    "image": "smokey01.png",
+    "physical_traits": [
+      "Average physique",
+      "Dimples",
+      "Blue eyes",
+      "Dark brown hair",
+      "Curly hair",
+      "Fair-skinned",
+      "Tall height",
+      "Color blind",
+      "Broad-shouldered"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Caretaker",
+      "Clever",
+      "Confident",
+      "Creative",
+      "Easy-going",
+      "Extroverted",
+      "Friendly",
+      "Funny",
+      "Generous",
+      "Retentive",
+      "Loquacious",
+      "Patient",
+      "Intelligent",
+      "Teetotaler"
+    ]
+  },
+  {
+    "command_name": "snafu",
+    "display_name": "Snafu Shelton",
+    "image": "snafu01.png",
+    "physical_traits": [
+      "Skinny",
+      "Blue eyes",
+      "Black hair",
+      "Curly hair",
+      "Tan",
+      "Average height",
+      "Resting bitch face",
+      "Overbite",
+      "Crooked smile",
+      "Perpetually dirty"
+    ],
+    "personality_traits": [
+      "Blunt",
+      "Chaotic",
+      "Feral",
+      "Gut feeling",
+      "Impertinent",
+      "Loquacious",
+      "Provocable",
+      "Sardonic",
+      "Superstitious",
+      "Misfit",
+      "Intense"
+    ]
+  },
+  {
+    "command_name": "speirs",
+    "display_name": "Ron Speirs",
+    "image": "speirs01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Slim",
+      "Green eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Blunt",
+      "Confident",
+      "Daring",
+      "Direct",
+      "Introverted",
+      "Self-control",
+      "Taciturn",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "talbert",
+    "display_name": "Floyd Talbert",
+    "image": "talbert01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Slim",
+      "Hazel eyes",
+      "Blond hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Easy-going",
+      "Friendly",
+      "Impulsive",
+      "Kind",
+      "Provocable",
+      "Social",
+      "Himbo",
+      "Sympathetic"
+    ]
+  },
+  {
+    "command_name": "toye",
+    "display_name": "Joe Toye",
+    "image": "toye01.png",
+    "physical_traits": [
+      "Slim",
+      "Brown eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height",
+      "Crooked smile"
+    ],
+    "personality_traits": [
+      "Annoyed",
+      "Aloof",
+      "Blunt",
+      "Calm",
+      "Feral",
+      "Humble",
+      "Intimidating",
+      "Introverted",
+      "Provocable",
+      "Reserved",
+      "Taciturn",
+      "Independent",
+      "Intelligent",
+      "Daring"
+    ]
+  },
+  {
+    "command_name": "veal",
+    "display_name": "Bill Veal",
+    "image": "veal01.png",
+    "physical_traits": [
+      "Average physique",
+      "Square jaw",
+      "Brown eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Analytical",
+      "Confident",
+      "Daring",
+      "Disciplined",
+      "Observant",
+      "Planful",
+      "Self-control",
+      "Serious",
+      "Flexible",
+      "Independent",
+      "Intelligent",
+      "Clever"
+    ]
+  },
+  {
+    "command_name": "webster",
+    "display_name": "David Webster",
+    "image": "webster01.png",
+    "physical_traits": [
+      "Average physique",
+      "Dimples",
+      "Blue eyes",
+      "Resting bitch face",
+      "Dark brown hair",
+      "Wavy hair",
+      "Pale",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Arrogant",
+      "Creative",
+      "Curious",
+      "Expressive",
+      "Familiar",
+      "Nonthreatening",
+      "Oblivious",
+      "Sensitive",
+      "Verbose",
+      "Awkward",
+      "Intelligent",
+      "Sentimental"
+    ]
+  },
+  {
+    "command_name": "welsh",
+    "display_name": "Harry Welsh",
+    "image": "welsh01.png",
+    "physical_traits": [
+      "Smol",
+      "Blue eyes",
+      "Light brown hair",
+      "Curly hair",
+      "Fair-skinned",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Amiable",
+      "Amused",
+      "Chaotic",
+      "Curious",
+      "Easy-going",
+      "Expressive",
+      "Foolish",
+      "Gut feeling",
+      "Kind",
+      "Optimistic",
+      "Provocable",
+      "Sarcastic",
+      "Unbothered",
+      "Sentimental"
+    ]
+  },
+  {
+    "command_name": "winters",
+    "display_name": "Dick Winters",
+    "image": "winters01.png",
+    "physical_traits": [
+      "Slim",
+      "Green eyes",
+      "Resting bitch face",
+      "Red hair",
+      "Straight hair",
+      "Pale",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Cautious",
+      "Confident",
+      "Early bird",
+      "Introverted",
+      "Organized",
+      "Reserved",
+      "Serious",
+      "Sympathetic",
+      "Intelligent",
+      "Coordinated",
+      "Planful",
+      "Healthy habits",
+      "Teetotaler"
+    ]
+  }
 ]

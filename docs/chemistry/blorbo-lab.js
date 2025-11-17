@@ -1,6 +1,6 @@
 // blorbo-lab.js
 const BASE_PATH = ".."; // adjust if needed
-const DATA_VERSION = "20251116b"; // bump this when JSON changes
+const DATA_VERSION = "20251116c"; // bump this when JSON changes
 
 let characters = [];
 let gifts = [];

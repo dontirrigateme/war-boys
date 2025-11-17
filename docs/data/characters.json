@@ -645,6 +645,30 @@
     "image": "foley01.png"
   },
   {
+    "command_name": "garcia",
+    "title": "GARCIA, ANTONIO",
+    "show": "band_of_brothers",
+    "aka": ["Tony"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Antonio C. Garcia",
+      "Nickname(s): Tony",
+      "Birthplace: Inez, Texas",
+      "Birth date: 15 October 1924",
+      "Age (on D-Day): 19",
+      "Rank (highest achieved): Technician 5th Grade",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Douglas Spain",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "garcia01.png"
+  },
+  {
     "command_name": "grant",
     "title": "GRANT, CHARLES",
     "show": "band_of_brothers",
@@ -761,6 +785,29 @@
       "Gravesite: St. John's Cemetary, Loogootee, Indiana. Section & Lot: E-U001, Stone: 01."
     ],
     "image": "hoosier01.png"
+  },
+  {
+    "command_name": "jefferson",
+    "title": "JEFFERSON, ALEXANDER",
+    "show": "masters_of_the_air",
+    "aka": ["Jefferson"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Alexander Jefferson",
+      "Nickname(s): None",
+      "Birthplace: Detroit, Michigan",
+      "Birth date: 15 November 1921",
+      "Age (on first mission): 22",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army Air Force",
+      "Squadron: 301st Fighter Squadron",
+      "Group: 332nd Fighter Group",
+      "Wing: Fighter escort",
+      "Command: 15th Air Force",
+      "Portrayed by: Branden Cook",
+      "Gravesite: Great Lakes National Cemetary, Holly, Michigan. Plot: Section CW45, Row A, Site 50."
+    ],
+    "image": "jefferson01.png"
   },
   {
     "command_name": "lemmons",

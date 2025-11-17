@@ -1,11 +1,14 @@
 // blorbo-lab.js
 const BASE_PATH = ".."; // adjust if needed
+const DATA_VERSION = "20251116a"; // bump this when JSON changes
 
 let characters = [];
 let gifts = [];
 let giftModifiers = [];
 
 async function loadData() {
+  const v = `?v=${DATA_VERSION}`;
+  
   const [charsRes, giftsRes, modsRes] = await Promise.all([
     fetch(`${BASE_PATH}/data/character_traits.json`),
     fetch(`${BASE_PATH}/data/gifts.json`),

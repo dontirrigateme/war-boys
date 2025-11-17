@@ -278,6 +278,25 @@
     "image": "cassidy01.png"
   },
   {
+    "command_name": "chiwy",
+    "title": "CHIWY, AUGUSTA",
+    "show": "band_of_brothers",
+    "aka": ["Chiwy"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Augusta Marie Chiwy",
+      "Nickname(s): None",
+      "Birthplace: Belgian Congo",
+      "Birth date: 04 June 1921",
+      "Age (on D-Day): 23",
+      "Rank (highest achieved): Civilian",
+      "Service: Bastogne",
+      "Portrayed by: Rebecca Okot",
+      "Gravesite: Bastogne Communal Cemetary, Bastogne, Belgium"
+    ],
+    "image": "chiwy01.png"
+  },
+  {
     "command_name": "christenson",
     "title": "CHRISTENSON, BURTON",
     "show": "band_of_brothers",
@@ -853,6 +872,29 @@
       "Gravesite: Scandinavian Cemetary, Rockford, Illinois"
     ],
     "image": "lemmons01.png"
+  },
+  {
+    "command_name": "leyden",
+    "title": "LEYDEN, WILLIAM",
+    "show": "the_pacific",
+    "aka": ["Bill"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: William James Leyden",
+      "Nickname(s): Bill, Ball-Peen Hammer",
+      "Birthplace: Long Island, New York",
+      "Birth date: 27 May 1926",
+      "Age (at the Battle of Guadalcanal): 16",
+      "Rank (highest achieved): Private First Class",
+      "Branch: USMC",
+      "Company: King",
+      "Battalion: 3rd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Brendan Fletcher",
+      "Gravesite: Cremated"
+    ],
+    "image": "leyden01.png"
   },
   {
     "command_name": "liebgott",

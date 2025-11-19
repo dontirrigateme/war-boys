@@ -2459,5 +2459,15 @@
     "mother_user_id": "990759232045473862",
     "mother_user_name": "Private Bullshit's Babe",
     "father": { "command_name": "runner", "display_name": "Runner Conley" }
+  },
+  {
+    "child_id": "bby_249",
+    "full_name": "Hoenn Lee Galar Peacock",
+    "sex": "M",
+    "birth_date": "18 November 2025 @ 23:31",
+    "stage": "Infant",
+    "mother_user_id": "774462595998416896",
+    "mother_user_name": "Nate Fuck's Slutshine",
+    "father": { "command_name": "peacock", "display_name": "Thomas Peacock" }
   }
 ]

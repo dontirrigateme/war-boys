@@ -485,6 +485,30 @@
     "image": "ack_ack01.png"
   },
   {
+    "command_name": "claytor",
+    "title": "CLAYTOR, ROY",
+    "show": "masters_of_the_air",
+    "aka": ["Claytor"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Roy Frank Claytor",
+      "Nickname(s): None",
+      "Birthplace: Bessemer, Alabama",
+      "Birth date: 21 January 1917",
+      "Age (on first mission): 26",
+      "Rank (highest achieved): Colonel",
+      "Branch: Army Air Force",
+      "Squadron: 349th & 350th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Sawyer Spielberg",
+      "Gravesite: Maple Hill Cemetary, Huntsville, Alabama. Plot: Block MI, Lot 803, Space 3."
+    ],
+    "image": "claytor01.png"
+  },
+  {
     "command_name": "cleven",
     "title": "CLEVEN, GALE",
     "show": "masters_of_the_air",
@@ -603,6 +627,52 @@
     "image": "crosby01.png"
   },
   {
+    "command_name": "cruikshank",
+    "title": "CRUIKSHANK, CHARLES",
+    "show": "masters_of_the_air",
+    "aka": ["Chuck"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Charles Cruikshank",
+      "Nickname(s): Chuck",
+      "Birthplace: Medford, Massachusetts",
+      "Birth date: 12 February 1917",
+      "Age (on first mission): 26",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Matt Gavan",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "cruikshank01.png"
+  },
+  {
+    "command_name": "daniels",
+    "title": "DANIELS, ROBERT",
+    "show": "masters_of_the_air",
+    "aka": ["Bob"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Robert H. Daniels, Jr.",
+      "Nickname(s): Bob",
+      "Birthplace: Memphis, Tennessee",
+      "Birth date: 13 November 1917",
+      "Age (on first mission): 26",
+      "Rank (highest achieved): 1st Lieutenant",
+      "Branch: Army Air Force",
+      "Squadron: 99th Pursuit Squadron",
+      "Group: 332nd Fighter Group",
+      "Wing: 13th Combat Wing",
+      "Portrayed by: Ncuti Gatwa",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "daniels01.png"
+  },
+  {
     "command_name": "demarco",
     "title": "DEMARCO, BERNARD",
     "show": "masters_of_the_air",
@@ -710,6 +780,30 @@
       "Gravesite: Resthaven Garden of Memory and Masoleum, Baton Rouge, LA. Plot: Garden of Faith."
     ],
     "image": "doc_roe01.png"
+  },
+  {
+    "command_name": "douglass",
+    "title": "DOUGLASS, JAMES",
+    "show": "masters_of_the_air",
+    "aka": ["Douglass"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: James Douglass",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on first mission): UNKNOWN",
+      "Rank (highest achieved): Captain",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Elliot Warren",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "douglass01.png"
   },
   {
     "command_name": "dukeman",

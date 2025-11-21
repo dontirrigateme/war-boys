@@ -71,6 +71,30 @@
     "image": "babe01.png"
   },
   {
+    "command_name": "bailey",
+    "title": "BAILEY, CHARLES",
+    "show": "masters_of_the_air",
+    "aka": ["Kenny"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Charles Kenneth Bailey",
+      "Nickname(s): Kenny",
+      "Birthplace: Wynnewood, Oklahoma",
+      "Birth date: 07 February 1919",
+      "Age (on first mission): 24",
+      "Rank (highest achieved): Technical Sergeant",
+      "Branch: Army Air Force",
+      "Squadron: 349th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Bailey Brook",
+      "Gravesite: Hillcrest Memorial Park, Ardmore, Oklahoma. Plot: Chapel Garden."
+    ],
+    "image": "bailey01.png"
+  },
+  {
     "command_name": "basilone",
     "title": "BASILONE, JOHN",
     "show": "the_pacific",
@@ -93,6 +117,54 @@
       "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 12, Grave 384."
     ],
     "image": "basilone01.png"
+  },
+  {
+    "command_name": "biddick",
+    "title": "BIDDICK, CURTIS",
+    "show": "masters_of_the_air",
+    "aka": ["Biddick"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Curtis Rundle Biddick",
+      "Nickname(s): None",
+      "Birthplace: Livingston, Wisconsin",
+      "Birth date: 20 April 1915",
+      "Age (on first mission): 28",
+      "Rank (highest achieved): 1st Lieutenant",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Barry Keoghan",
+      "Gravesite: Jefferson Barracks National Cemetary, Lemay Township, Missouri. Plot: Section 84, Site 290-292."
+    ],
+    "image": "biddick01.png"
+  },
+  {
+    "command_name": "blakely",
+    "title": "BLAKELY, EVERETT",
+    "show": "masters_of_the_air",
+    "aka": ["Gopher"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Everett Ernest Blakely",
+      "Nickname(s): Gopher",
+      "Birthplace: Elgin, Illinois",
+      "Birth date: 01 July 1919",
+      "Age (on first mission): 24",
+      "Rank (highest achieved): Major",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: David Shields",
+      "Gravesite: Old Mission Cemetary, San Luis Obispo, California"
+    ],
+    "image": "blakely01.png"
   },
   {
     "command_name": "blithe",
@@ -191,6 +263,30 @@
     "image": "brewer01.png"
   },
   {
+    "command_name": "bubbles",
+    "title": "PAYNE, JR, JOSEPH",
+    "show": "masters_of_the_air",
+    "aka": ["Bubbles"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Joseph Houston Payne, Jr.",
+      "Nickname(s): Bubbles",
+      "Birthplace: Koblenz, Germany",
+      "Birth date: 01 February 1921",
+      "Age (on first mission): 22",
+      "Rank (highest achieved): Captain",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Louis Greatorex",
+      "Gravesite: Normandy American Cemetary & Memorial, Colleville-sur-Mer, France. Plot: Plot F, Row 11, Grave 26."
+    ],
+    "image": "bubbles01.png"
+  },
+  {
     "command_name": "bucky",
     "title": "EGAN, JOHN",
     "show": "masters_of_the_air",
@@ -278,6 +374,51 @@
     "image": "cassidy01.png"
   },
   {
+    "command_name": "chesty",
+    "title": "PULLER, LEWIS",
+    "show": "the_pacific",
+    "aka": ["Chesty"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: Lewis Burwell Puller",
+      "Nickname(s): Chesty",
+      "Birthplace: West Point, Virginia",
+      "Birth date: 26 June 1898",
+      "Age (at the Battle of Guadalcanal): 44",
+      "Rank (highest achieved): Lieutenant General",
+      "Branch: USMC",
+      "Battalion: 1st",
+      "Regiment: 7th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: William Sadler",
+      "Gravesite: Christ Church Cemetary, Christchurch, Virginia. Plot: 2."
+    ],
+    "image": "chesty01.png"
+  },
+  {
+    "command_name": "chick",
+    "title": "HARDING, NEIL",
+    "show": "masters_of_the_air",
+    "aka": ["Chick"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Neil Bosworth Harding",
+      "Nickname(s): Chick",
+      "Birthplace: Beverly, West Virginia",
+      "Birth date: 03 February 1905",
+      "Age (on first mission): 38",
+      "Rank (highest achieved): Colonel",
+      "Branch: Army Air Force",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: James Murray",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 60, Site 2599."
+    ],
+    "image": "chick01.png"
+  },
+  {
     "command_name": "chiwy",
     "title": "CHIWY, AUGUSTA",
     "show": "band_of_brothers",
@@ -319,6 +460,29 @@
       "Gravesite: Burial details unknown"
     ],
     "image": "christenson01.png"
+  },
+  {
+    "command_name": "chuckler",
+    "title": "JUERGENS, LEWIS",
+    "show": "the_pacific",
+    "aka": ["Chuckler"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: Lewis Reuben Juergens",
+      "Nickname(s): Chuckler",
+      "Birthplace: Cook County, Illinois",
+      "Birth date: 22 October 1918",
+      "Age (at the Battle of Guadalcanal): 23",
+      "Rank (highest achieved): Private First Class",
+      "Branch: USMC",
+      "Company: How",
+      "Battalion: 2nd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Josh Helman",
+      "Gravesite: Queen of Heaven Catholic Cemetary, Hillside, Illinois. Plot: Crucifixion Garden Masoleum, Crypt 7457, Tier 3."
+    ],
+    "image": "ack_ack01.png"
   },
   {
     "command_name": "cleven",

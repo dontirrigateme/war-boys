@@ -2469,5 +2469,15 @@
     "mother_user_id": "774462595998416896",
     "mother_user_name": "Nate Fuck's Slutshine",
     "father": { "command_name": "peacock", "display_name": "Thomas Peacock" }
+  },
+  {
+    "child_id": "bby_250",
+    "full_name": "Axle Lugnut McClung",
+    "sex": "M",
+    "birth_date": "21 November 2025 @ 01:50",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
   }
 ]

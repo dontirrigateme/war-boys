@@ -842,6 +842,29 @@
     "image": "dukeman01.png"
   },
   {
+    "command_name": "encino_man",
+    "title": "SCHWETJE, CRAIG",
+    "show": "generation_kill",
+    "aka": ["Encino_Man"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Craig Schwetje",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Captain",
+      "Branch: USMC",
+      "Position: Company Commander",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Brian Wade"
+    ],
+    "image": "encino_man01.png"
+  },
+  {
     "command_name": "espera",
     "title": "ESPERA, ANTONIO",
     "show": "generation_kill",
@@ -988,6 +1011,56 @@
       "Gravesite: Burial details unknown"
     ],
     "image": "garcia01.png"
+  },
+  {
+    "command_name": "garza",
+    "title": "GARZA, GABRIEL",
+    "show": "generation_kill",
+    "aka": ["Gabe"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Gabriel Garza",
+      "Nickname(s): Gabe",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Corporal",
+      "Branch: USMC",
+      "MOS: Reconnaissance Marine (0321)",
+      "Position: Turret",
+      "Vehicle Position: Turret Position",
+      "Vehicle: V-02",
+      "Team: 1",
+      "Platoon: 2nd",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Rey Valentin"
+    ],
+    "image": "garza01.png"
+  },
+  {
+    "command_name": "godfather",
+    "title": "FERRANDO, STEPHEN",
+    "show": "generation_kill",
+    "aka": ["Godfather"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Stephen Ferrando",
+      "Nickname(s): Godfather",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: USMC",
+      "Position: Battalion Commander",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Chance Kelly"
+    ],
+    "image": "godfather01.png"
   },
   {
     "command_name": "grant",
@@ -1202,6 +1275,34 @@
     "image": "liebgott01.png"
   },
   {
+    "command_name": "lilley",
+    "title": "LILLEY, JASON",
+    "show": "generation_kill",
+    "aka": ["Lilley"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Jason Lilley",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Corporal",
+      "Branch: USMC",
+      "MOS: Reconnaissance Marine (0321)",
+      "Position: Driver",
+      "Vehicle Position: Driver",
+      "Vehicle: V-02",
+      "Team: 1",
+      "Platoon: 2nd",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Kellan Lutz"
+    ],
+    "image": "lilley01.png"
+  },
+  {
     "command_name": "luz",
     "title": "LUZ, GEORGE",
     "show": "band_of_brothers",
@@ -1348,6 +1449,32 @@
     "image": "mcclung01.png"
   },
   {
+    "command_name": "mcgraw",
+    "title": "MCGRAW, DAVE",
+    "show": "generation_kill",
+    "aka": ["Captain_America"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Dave McGraw",
+      "Nickname(s): Captain America",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Captain",
+      "Branch: USMC",
+      "Position: Platoon Commander",
+      "Vehicle Position: Passenger",
+      "Vehicle: Command Vehicle",
+      "Platoon: 3rd",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Eric Nenninger"
+    ],
+    "image": "mcgraw01.png"
+  },
+  {
     "command_name": "moose",
     "title": "HEYLIGER, FREDERICK",
     "show": "band_of_brothers",
@@ -1418,6 +1545,57 @@
       "Gravesite: Forest Lawn Memorial Park, Hollywood Hills, California. Plot: Blessed Assurance Section, Map #F61, Lot 1050, Single-Ground Interment Space 1."
     ],
     "image": "nixon01.png"
+  },
+  {
+    "command_name": "pappy",
+    "title": "PATRICK, LARRY",
+    "show": "generation_kill",
+    "aka": ["Pappy"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Larry Shawn Patrick",
+      "Nickname(s): Pappy",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Staff Sergeant",
+      "Branch: USMC",
+      "MOS: Reconnaissance Marine (0321)",
+      "Position: Team Leader/Platoon Scout Sniper",
+      "Vehicle Position: Passenger",
+      "Vehicle: V-03",
+      "Team: 2",
+      "Platoon: 2nd",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Josh Barrett"
+    ],
+    "image": "pappy01.png"
+  },
+  {
+    "command_name": "patterson",
+    "title": "PATTERSON, BRYAN",
+    "show": "generation_kill",
+    "aka": ["Patterson"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Bryan Patterson",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Captain",
+      "Branch: USMC",
+      "Position: Company Commander",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Michael Kelly"
+    ],
+    "image": "patterson01.png"
   },
   {
     "command_name": "peacock",
@@ -1547,6 +1725,34 @@
     "image": "qtip01.png"
   },
   {
+    "command_name": "reporter",
+    "title": "WRIGHT, EVAN",
+    "show": "generation_kill",
+    "aka": ["Reporter"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Evan Wright",
+      "Nickname(s): Reporter, Rolling Stone",
+      "Birthplace: Cleveland, Ohio",
+      "Birth date: 12 December 1964",
+      "Age (on arrival in Iraq): 38",
+      "Rank (highest achieved): Civilian",
+      "Branch: USMC",
+      "MOS: Reconnaissance Marine (0321)",
+      "Position: Civilian Journalist",
+      "Vehicle Position: Passenger Rear",
+      "Vehicle: V-02",
+      "Team: 1",
+      "Platoon: 2nd",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Lee Tergesen"
+    ],
+    "image": "reporter01.png"
+  },
+  {
     "command_name": "reyes",
     "title": "REYES, RUDY",
     "show": "generation_kill",
@@ -1644,6 +1850,30 @@
       "Gravesite: Temple Hill Memorial Park, Castlewood, Virginia"
     ],
     "image": "shifty01.png"
+  },
+  {
+    "command_name": "sixta",
+    "title": "SIXTA, JOHN",
+    "show": "generation_kill",
+    "aka": ["Sixta"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: John Sixta",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Sergeant Major",
+      "Branch: USMC",
+      "MOS: Reconnaissance Marine (0321)",
+      "Position: Battalion Sergeant Major",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Neal Jones"
+    ],
+    "image": "sixta01.png"
   },
   {
     "command_name": "skinny",
@@ -1834,6 +2064,34 @@
       "Gravesite: Gethsemane Cemetary, Laureldale, Pennsylvania. Plot: D-210-1."
     ],
     "image": "toye01.png"
+  },
+  {
+    "command_name": "trombley",
+    "title": "TROMBLEY, JAMES",
+    "show": "generation_kill",
+    "aka": ["Trombley"],
+    "facts": [
+      "Show: Generation Kill",
+      "Full name: Harold James Trombley",
+      "Nickname(s): James",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on arrival in Iraq): UNKNOWN",
+      "Rank (highest achieved): Lance Corporal",
+      "Branch: USMC",
+      "MOS: Reconnaissance Marine (0321)",
+      "Position: Driver",
+      "Vehicle Position: Driver Rear",
+      "Vehicle: V-01",
+      "Team: 1",
+      "Platoon: 2nd",
+      "Company: Bravo",
+      "Battalion: 1st Reconnaissance Battalion",
+      "Regiment: None",
+      "Division: 1st Marine Division",
+      "Portrayed by: Billy Lush"
+    ],
+    "image": "trombley01.png"
   },
   {
     "command_name": "veal",

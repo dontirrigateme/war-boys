@@ -2113,6 +2113,53 @@
     "image": "snafu01.png"
   },
   {
+    "command_name": "snyder",
+    "title": "SNYDER, RICHARD",
+    "show": "masters_of_the_air",
+    "aka": ["Dickie"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Richard Lee Snyder",
+      "Nickname(s): Dickie",
+      "Birthplace: Kansas City, Missouri",
+      "Birth date: 23 August 1922",
+      "Age (on first mission): 21",
+      "Rank (highest achieved): Flight Officer",
+      "Branch: Army Air Force",
+      "Squadron: 418th & 350th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Dean Ridge",
+      "Gravesite: Memorial Park Cemetary, Kansas City, Missouri"
+    ],
+    "image": "snyder01.png"
+  },
+  {
+    "command_name": "solomon",
+    "title": "SOLOMON, DAVID",
+    "show": "masters_of_the_air",
+    "aka": ["Solomon"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: David Solomon",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: 05 March 1925",
+      "Age (on first mission): 18",
+      "Rank (highest achieved): Corporal",
+      "Branch: Army Air Force",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Adam Silver",
+      "Gravesite: Houston National Cemetary, Houston, Texas. Plot: Section 62, Site 3456."
+    ],
+    "image": "solomon01.png"
+  },
+  {
     "command_name": "speirs",
     "title": "SPEIRS, RONALD",
     "show": "band_of_brothers",

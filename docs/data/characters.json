@@ -679,6 +679,29 @@
     "image": "daniels01.png"
   },
   {
+    "command_name": "de_leau",
+    "title": "DE L'EAU, JAY",
+    "show": "the_pacific",
+    "aka": ["de leau"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: Jay Porter de l'Eau",
+      "Nickname(s): None",
+      "Birthplace: Los Angeles, California",
+      "Birth date: 29 July 1923",
+      "Age (at the Battle of Guadalcanal): 19",
+      "Rank (highest achieved): Corporal",
+      "Branch: USMC",
+      "Company: King",
+      "Battalion: 3rd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Dylan Young",
+      "Gravesite: Golden Gate National Cemetary, San Bruno, California. Plot: CB, 1172-E."
+    ],
+    "image": "de_leau01.png"
+  },
+  {
     "command_name": "demarco",
     "title": "DEMARCO, BERNARD",
     "show": "masters_of_the_air",
@@ -1135,6 +1158,29 @@
     "image": "guarnere01.png"
   },
   {
+    "command_name": "halls",
+    "title": "HALLS, JOHN",
+    "show": "band_of_brothers",
+    "aka": ["Cowboy"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: John Derrick Halls",
+      "Nickname(s): Cowboy",
+      "Birthplace: Mancos, California",
+      "Birth date: 24 March 1922",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Able",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Andrew Scott",
+      "Gravesite: Normandy American Cemetary & Memorial, Colleville-sur-Mer, France. Plot: C, Row 10, Grave 32."
+    ],
+    "image": "halls01.png"
+  },
+  {
     "command_name": "hambone",
     "title": "HAMILTON, HOWARD",
     "show": "masters_of_the_air",
@@ -1157,6 +1203,52 @@
       "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 66, Site 3629."
     ],
     "image": "hambone01.png"
+  },
+  {
+    "command_name": "hashey",
+    "title": "HASHEY, LESTER",
+    "show": "band_of_brothers",
+    "aka": ["Les"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Lester Anthony Hashey",
+      "Nickname(s): Les",
+      "Birthplace: Scarborough, Maine",
+      "Birth date: 23 February 1925",
+      "Age (on D-Day): 19",
+      "Rank (highest achieved): Technical Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Mark Huberman",
+      "Gravesite: Southern Maine Veterans Cemetary, Springvale, Maine. Plot: Section I, Row 17, Site 6."
+    ],
+    "image": "hashey01.png"
+  },
+  {
+    "command_name": "hester",
+    "title": "HESTER, CLARENCE",
+    "show": "band_of_brothers",
+    "aka": ["Hester"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Clarence R. Hester",
+      "Nickname(s): None",
+      "Birthplace: Shasta, California",
+      "Birth date: 08 February 1916",
+      "Age (on D-Day): 28",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Andrew Howard",
+      "Gravesite: Cremated"
+    ],
+    "image": "hester01.png"
   },
   {
     "command_name": "hillbilly",
@@ -1182,6 +1274,30 @@
     "image": "hillbilly01.png"
   },
   {
+    "command_name": "hoobler",
+    "title": "HOOBLER, DON",
+    "show": "band_of_brothers",
+    "aka": ["Hoob"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Donald Brenton Hoobler",
+      "Nickname(s): Hoob",
+      "Birthplace: Manchester, Ohio",
+      "Birth date: 28 June 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Corporal",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Peter McCabe",
+      "Gravesite: Manchester IOOF Cemetary, Manchester, Ohio"
+    ],
+    "image": "hoobler01.png"
+  },
+  {
     "command_name": "hoosier",
     "title": "SMITH, WILLIAM",
     "show": "the_pacific",
@@ -1203,6 +1319,54 @@
       "Gravesite: St. John's Cemetary, Loogootee, Indiana. Section & Lot: E-U001, Stone: 01."
     ],
     "image": "hoosier01.png"
+  },
+  {
+    "command_name": "jackson",
+    "title": "JACKSON, EUGENE",
+    "show": "band_of_brothers",
+    "aka": ["Jackson"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Eugene Edward Jackson",
+      "Nickname(s): None",
+      "Birthplace: Arnold, Pennsylvania",
+      "Birth date: 29 July 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: ",
+      "Gravesite: Greenwood Memorial Park, Lower Burrell, Pennsylvania. Plot: Section O 168, Space 3."
+    ],
+    "image": "jackson01.png"
+  },
+  {
+    "command_name": "janovec",
+    "title": "JANOVEC, JOHN",
+    "show": "band_of_brothers",
+    "aka": ["Janovec"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: John Anthony Janovec",
+      "Nickname(s): None",
+      "Birthplace: Chicago, Illinois",
+      "Birth date: 09 July 1925",
+      "Age (on D-Day): 18",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Tom Hardy",
+      "Gravesite: Woodlawn Cemetary, Forest Park, Illinois. Plot: Laurel Section, S'9 673, Part 6, Grave 2."
+    ],
+    "image": "janovec01.png"
   },
   {
     "command_name": "jefferson",
@@ -1228,6 +1392,94 @@
     "image": "jefferson01.png"
   },
   {
+    "command_name": "jones",
+    "title": "JONES, HENRY",
+    "show": "band_of_brothers",
+    "aka": ["Jones"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Henry Sweet Jones, Jr.",
+      "Nickname(s): None",
+      "Birthplace: Buffalo, New York",
+      "Birth date: 27 April 1924",
+      "Age (on D-Day): 20",
+      "Rank (highest achieved): 1st Lieutenant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Colin Hanks",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 11, Site 44-LH"
+    ],
+    "image": "jones01.png"
+  },
+  {
+    "command_name": "kiehn",
+    "title": "KIEHN, WILLIAM",
+    "show": "band_of_brothers",
+    "aka": ["Bill"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: William Francis Kiehn",
+      "Nickname(s): Bill",
+      "Birthplace: Olmsted County, Minnesota",
+      "Birth date: 10 October 1921",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UNKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: UNCREDITED",
+      "Gravesite: Epinal American Cemetary & Memorial, Epinal, France. Plot: A, Row 19, Grave 14."
+    ],
+    "image": "kiehn01.png"
+  },
+  {
+    "command_name": "leckie",
+    "title": "LECKIE, BOB",
+    "show": "the_pacific",
+    "aka": ["Lucky"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: Robert Hugh Leckie",
+      "Nickname(s): Lucky",
+      "Birthplace: Philadelphia, Pennsylvania",
+      "Birth date: 18 December 1920",
+      "Age (at the Battle of Guadalcanal): 21",
+      "Rank (highest achieved): Private First Class",
+      "Branch: USMC",
+      "Company: How",
+      "Battalion: 2nd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: James Badge Dale",
+      "Gravesite: Saint Joseph Cemetary, Newton, New Jersey"
+    ],
+    "image": "leckie01.png"
+  },
+  {
+    "command_name": "lemaire",
+    "title": "LEMAIRE, RENÉE",
+    "show": "band_of_brothers",
+    "aka": ["Lemaire"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Renée Bernadette Émilie LeMaire",
+      "Nickname(s): None",
+      "Birthplace: Belgium",
+      "Birth date: 10 April 1914",
+      "Age (on D-Day): 30",
+      "Portrayed by: Lucie Jeanne",
+      "Gravesite: Bastogne Communal Cemetary, Bastogne, Belgium"
+    ],
+    "image": "lemaire01.png"
+  },
+  {
     "command_name": "lemmons",
     "title": "LEMMONS, KENNETH",
     "show": "masters_of_the_air",
@@ -1250,6 +1502,30 @@
       "Gravesite: Scandinavian Cemetary, Rockford, Illinois"
     ],
     "image": "lemmons01.png"
+  },
+  {
+    "command_name": "lesniewski",
+    "title": "LESNIEWSKI, JOE",
+    "show": "band_of_brothers",
+    "aka": ["Lesniewski"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Joseph Anthony Lesniewski",
+      "Nickname(s): Joe",
+      "Birthplace: Erie, Pennsylvania",
+      "Birth date: 29 August 1920",
+      "Age (on D-Day): 23",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UNKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Simon Schatzberger",
+      "Gravesite: Wintergreen Gorge Cemetary, Harborcreek Township, Pennsylvania. Plot: Section 11, Lot 482, Grave 1."
+    ],
+    "image": "lesniewski01.png"
   },
   {
     "command_name": "leyden",
@@ -1325,6 +1601,54 @@
       "Portrayed by: Kellan Lutz"
     ],
     "image": "lilley01.png"
+  },
+  {
+    "command_name": "lipton",
+    "title": "LIPTON, CARWOOD",
+    "show": "band_of_brothers",
+    "aka": ["Lip"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Clifford Carwood Lipton",
+      "Nickname(s): Lip",
+      "Birthplace: Huntington, West Virginia",
+      "Birth date: 30 January 1920",
+      "Age (on D-Day): 24",
+      "Rank (highest achieved): 1st Lieutenant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Donnie Wahlberg",
+      "Gravesite: Woodmere Memorial Park, Huntington, West Virginia. Plot: Section M"
+    ],
+    "image": "lipton01.png"
+  },
+  {
+    "command_name": "lorraine",
+    "title": "LORRAINE, GERALD",
+    "show": "band_of_brothers",
+    "aka": ["Lorraine"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Gerald Joseph Lorraine",
+      "Nickname(s): None",
+      "Birthplace: Alameda, California",
+      "Birth date: 27 March 1913",
+      "Age (on D-Day): 31",
+      "Rank (highest achieved): Technician 5th Grade",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UKKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Simon Fenton",
+      "Gravesite: Chapel of the Chimes Memorial Park, Hayward, California"
+    ],
+    "image": "lorraine01.png"
   },
   {
     "command_name": "luz",
@@ -1496,6 +1820,30 @@
     "image": "mcclung01.png"
   },
   {
+    "command_name": "mcgrath",
+    "title": "MCGRATH, JACK",
+    "show": "band_of_brothers",
+    "aka": ["John"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: John McGrath",
+      "Nickname(s): Jack",
+      "Birthplace: Carlstadt, New Jersey",
+      "Birth date: 16 February 1920",
+      "Age (on D-Day): 24",
+      "Rank (highest achieved): Technician 5th Grade",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Stephen Walters",
+      "Gravesite: George Washington Memorial Park, Paramus, New Jersey"
+    ],
+    "image": "mcgrath01.png"
+  },
+  {
     "command_name": "mcgraw",
     "title": "MCGRAW, DAVE",
     "show": "generation_kill",
@@ -1520,6 +1868,53 @@
       "Portrayed by: Eric Nenninger"
     ],
     "image": "mcgraw01.png"
+  },
+  {
+    "command_name": "meehan",
+    "title": "MEEHAN, THOMAS",
+    "show": "band_of_brothers",
+    "aka": ["Meehan"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Thomas Meehan III",
+      "Nickname(s): None",
+      "Birthplace: Philadelphia, Pennsylvania",
+      "Birth date: 08 July 1921",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): 1st Lieutenant",
+      "Branch: Army",
+      "Company: Easy",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Jason O'Mara",
+      "Gravesite: Jefferson Barracks National Cemetary, Lemay Township, Missouri. Plot: 84, 0, 25-31."
+    ],
+    "image": "meehan01.png"
+  },
+  {
+    "command_name": "miller",
+    "title": "MILLER, JAMES",
+    "show": "band_of_brothers",
+    "aka": ["Miller"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: James W. Miller",
+      "Nickname(s): Outlaw",
+      "Birthplace: Wabash, Indiana",
+      "Birth date: 11 April 1924",
+      "Age (on D-Day): 20",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: James McAvoy",
+      "Gravesite: Falls Cemetary, Wabash, Indiana. Plot: Section N, Lot 71, Space 6."
+    ],
+    "image": "miller01.png"
   },
   {
     "command_name": "moose",
@@ -1570,6 +1965,23 @@
     "image": "more01.png"
   },
   {
+    "command_name": "morgan",
+    "title": "MORGAN, JP",
+    "show": "the_pacific",
+    "aka": ["James"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: James Paul Morgan",
+      "Nickname(s): JP",
+      "Rank (highest achieved): Sergeant",
+      "Branch: USMC",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Joshua Bitton",
+    ],
+    "image": "morgan01.png"
+  },
+  {
     "command_name": "murphy",
     "title": "MURPHY, FRANK",
     "show": "masters_of_the_air",
@@ -1616,6 +2028,30 @@
       "Gravesite: Forest Lawn Memorial Park, Hollywood Hills, California. Plot: Blessed Assurance Section, Map #F61, Lot 1050, Single-Ground Interment Space 1."
     ],
     "image": "nixon01.png"
+  },
+  {
+    "command_name": "okeefe",
+    "title": "O'KEEFE, PATRICK",
+    "show": "band_of_brothers",
+    "aka": ["Paddy"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Patrick Sarsfield O'Keefe",
+      "Nickname(s): Paddy",
+      "Birthplace: Northampton, Massachusetts",
+      "Birth date: 03 April 1926",
+      "Age (on D-Day): 18",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UNKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Matt Hickey",
+      "Gravesite: Gate of Heaven Cemetary, Silver Spring, Maryland. Plot: Between sections 15-6 & 15-5, Grave Marker 276."
+    ],
+    "image": "okeefe01.png"
   },
   {
     "command_name": "pappy",
@@ -1741,6 +2177,30 @@
     "image": "penkala01.png"
   },
   {
+    "command_name": "perconte",
+    "title": "PERCONTE, FRANK",
+    "show": "band_of_brothers",
+    "aka": ["Perco"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Frank Joseph Perconte",
+      "Nickname(s): Perco",
+      "Birthplace: Joliet, Illinois",
+      "Birth date: 10 March 1917",
+      "Age (on D-Day): 27",
+      "Rank (highest achieved): Technician 4th Grade",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: James Madio",
+      "Gravesite: Resurrection Cemetary, Romeoville, Illinois. Plot: Masoleum."
+    ],
+    "image": "perconte01.png"
+  },
+  {
     "command_name": "person",
     "title": "PERSON, JOSH",
     "show": "generation_kill",
@@ -1767,6 +2227,53 @@
       "Portrayed by: James Ransone"
     ],
     "image": "person01.png"
+  },
+  {
+    "command_name": "petty",
+    "title": "PETTY, CLEVELAND",
+    "show": "band_of_brothers",
+    "aka": ["Petty"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Cleveland O'Neill Petty",
+      "Nickname(s): None",
+      "Birthplace: Tennessee",
+      "Birth date: 19 May 1922",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Private",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UNKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Adam James",
+      "Gravesite: Rose Hill Cemetary, Humboldt, Tennessee"
+    ],
+    "image": "petty01.png"
+  },
+  {
+    "command_name": "phillips",
+    "title": "PHILLIPS, SID",
+    "show": "the_pacific",
+    "aka": ["Sid"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: Sidney Clarke Phillips, Jr.",
+      "Nickname(s): Sid",
+      "Birthplace: Mobile, Alabama",
+      "Birth date: 02 Sewptember 1924",
+      "Age (at the Battle of Guadalcanal): 17",
+      "Rank (highest achieved): Corporal",
+      "Branch: USMC",
+      "Company: How",
+      "Battalion: 2nd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Ashton Holmes",
+      "Gravesite: Pine Crest Cemetary, Mobile, Alabama. Plot: Section 12 (2nd row from NW corner), Lot 0565."
+    ],
+    "image": "phillips01.png"
   },
   {
     "command_name": "popeye",
@@ -1844,6 +2351,54 @@
     "image": "quinn01.png"
   },
   {
+    "command_name": "ramirez",
+    "title": "RAMIREZ, JOE",
+    "show": "band_of_brothers",
+    "aka": ["Joseph"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Joseph Ramirez",
+      "Nickname(s): None",
+      "Birthplace: Mexico City, Mexico",
+      "Birth date: 12 January 1913",
+      "Age (on D-Day): 31",
+      "Rank (highest achieved): Technician 5th Grade",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Rene L. Moreno",
+      "Gravesite: Holy Cross Catholic Cemetary, Colma, California"
+    ],
+    "image": "ramirez01.png"
+  },
+  {
+    "command_name": "ranney",
+    "title": "RANNEY, MYRON",
+    "show": "band_of_brothers",
+    "aka": ["Mike"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Myron N. Ranney",
+      "Nickname(s): Mike",
+      "Birthplace: Kensal, North Dakota",
+      "Birth date: 21 November 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Sergeant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UNKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Stephen Graham",
+      "Gravesite: Golden Gate National Cemetary, San Bruno, California. Plot: CB, 940."
+    ],
+    "image": "ranney01.png"
+  },
+  {
     "command_name": "reporter",
     "title": "WRIGHT, EVAN",
     "show": "generation_kill",
@@ -1900,6 +2455,25 @@
     "image": "reyes01.png"
   },
   {
+    "command_name": "riggi",
+    "title": "BASILONE, LENA",
+    "show": "the_pacific",
+    "aka": ["Riggi"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: Lena Basilone, née Riggi",
+      "Nickname(s): None",
+      "Birthplace: Portland, Oregon",
+      "Birth date: 07 March 1913",
+      "Age (at the Battle of Guadalcanal): 29",
+      "Rank (highest achieved): Sergeant",
+      "Branch: Marine Corps Women's Reserve",
+      "Portrayed by: Annie Parisse",
+      "Gravesite: Riverside National Cemetary, Riverside, California. Plot: Section 50, Site 5557."
+    ],
+    "image": "riggi01.png"
+  },
+  {
     "command_name": "rosie",
     "title": "ROSENTHAL, ROBERT",
     "show": "masters_of_the_air",
@@ -1947,6 +2521,30 @@
     "image": "runner01.png"
   },
   {
+    "command_name": "shames",
+    "title": "SHAMES, ED",
+    "show": "band_of_brothers",
+    "aka": ["Edward"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Edward David Shames",
+      "Nickname(s): Ed",
+      "Birthplace: Norfolk, Virginia",
+      "Birth date: 13 June 1922",
+      "Age (on D-Day): 21",
+      "Rank (highest achieved): Colonel",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Joseph May",
+      "Gravesite: Forest Lawn Cemetary, Norfolk, Virginia. Plot: Tree of Life IV, Block B, Lot 100."
+    ],
+    "image": "shames01.png"
+  },
+  {
     "command_name": "shifty",
     "title": "POWERS, DARRELL",
     "show": "band_of_brothers",
@@ -1969,6 +2567,27 @@
       "Gravesite: Temple Hill Memorial Park, Castlewood, Virginia"
     ],
     "image": "shifty01.png"
+  },
+  {
+    "command_name": "sink",
+    "title": "SINK, BOB",
+    "show": "band_of_brothers",
+    "aka": ["Robert"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Robert Frederick Sink",
+      "Nickname(s): Bob",
+      "Birthplace: Lexington, North Carolina",
+      "Birth date: 03 April 1905",
+      "Age (on D-Day): 39",
+      "Rank (highest achieved): Colonel",
+      "Branch: Army",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Dale Dye",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 1, Site 320-A."
+    ],
+    "image": "sink01.png"
   },
   {
     "command_name": "sixta",
@@ -2066,6 +2685,30 @@
     "image": "sledge01.png"
   },
   {
+    "command_name": "smith",
+    "title": "SMITH, GEORGE",
+    "show": "band_of_brothers",
+    "aka": ["Smith"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: George Headly Smith, Jr.",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: 06 March 1922",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Iain Robertson",
+      "Gravesite: Locustwood Memorial Park, Cherry Hill, New Jersey"
+    ],
+    "image": "smith01.png"
+  },
+  {
     "command_name": "smokey",
     "title": "GORDON, WALTER",
     "show": "band_of_brothers",
@@ -2137,6 +2780,29 @@
     "image": "snyder01.png"
   },
   {
+    "command_name": "sobel",
+    "title": "SOBEL, HERBERT",
+    "show": "band_of_brothers",
+    "aka": ["Sobel"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Herbert Maxwell Sobel",
+      "Nickname(s): None",
+      "Birthplace: Chicago, Illinois",
+      "Birth date: 26 January 1912",
+      "Age (on D-Day): 32",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army",
+      "Company: Easy",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: David Schwimmer",
+      "Gravesite: Montrose Cemetary, Chicago, Illinois"
+    ],
+    "image": "sobel01.png"
+  },
+  {
     "command_name": "solomon",
     "title": "SOLOMON, DAVID",
     "show": "masters_of_the_air",
@@ -2184,6 +2850,52 @@
     "image": "speirs01.png"
   },
   {
+    "command_name": "spina",
+    "title": "SPINA, RALPH",
+    "show": "band_of_brothers",
+    "aka": ["Doc"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Ralph Francis Spina",
+      "Nickname(s): Doc",
+      "Birthplace: Philadelphia, Pennsylvania",
+      "Birth date: 05 October 1919",
+      "Age (on D-Day): 24",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: UNKNOWN",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Tony Devlin",
+      "Gravesite: Bluebonnet Hills Memorial Park, Colleyville, Texas"
+    ],
+    "image": "spina01.png"
+  },
+  {
+    "command_name": "strayer",
+    "title": "STRAYER, BOB",
+    "show": "band_of_brothers",
+    "aka": ["Robert"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Robert Lytle Strayer",
+      "Nickname(s): Bob",
+      "Birthplace: Rutledge, Pennsylvania",
+      "Birth date: 02 March 1912",
+      "Age (on D-Day): 32",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Phil McKee",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 54, Plot 5817."
+    ],
+    "image": "strayer01.png"
+  },
+  {
     "command_name": "talbert",
     "title": "TALBERT, FLOYD",
     "show": "band_of_brothers",
@@ -2206,6 +2918,30 @@
       "Gravesite: Greenlawn Cemetary, Greentown, Indiana"
     ],
     "image": "talbert01.png"
+  },
+  {
+    "command_name": "tipper",
+    "title": "TIPPER, ED",
+    "show": "band_of_brothers",
+    "aka": ["Edward"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Edward Joseph Tipper, Jr.",
+      "Nickname(s): Ed",
+      "Birthplace: Detroit, Michigan",
+      "Birth date: 03 August 1921",
+      "Age (on D-Day): 22",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 2nd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Bart Ruspoli",
+      "Gravesite: Fort Logan National Cemetary, Denver, Colorado. Plot: Section 57, Site 665."
+    ],
+    "image": "tipper01.png"
   },
   {
     "command_name": "toye",
@@ -2260,6 +2996,30 @@
     "image": "trombley01.png"
   },
   {
+    "command_name": "van_klinken",
+    "title": "VAN KLINKEN, ROBERT",
+    "show": "band_of_brothers",
+    "aka": ["Bob"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Robert van Klinken",
+      "Nickname(s): Bob",
+      "Birthplace: Loomis, Washington",
+      "Birth date: 31 October 1919",
+      "Age (on D-Day): 24",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Ezra Godden",
+      "Gravesite: Netherlands American Cemetary & Memorial, Margraten, Netherlands. Plot: C, Row 8, Grave 32."
+    ],
+    "image": "van_klinken01.png"
+  },
+  {
     "command_name": "veal",
     "title": "VEAL, WILLIAM",
     "show": "masters_of_the_air",
@@ -2307,6 +3067,30 @@
     "image": "vest01.png"
   },
   {
+    "command_name": "webb",
+    "title": "WEBB, KEN",
+    "show": "band_of_brothers",
+    "aka": ["Kenneth"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Kenneth Jay Webb",
+      "Nickname(s): Ken",
+      "Birthplace: Binghamton, New York",
+      "Birth date: 15 August 1920",
+      "Age (on D-Day): 23",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 1st",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Jordan Frieda",
+      "Gravesite: Luxembourg American Cemetary & Memorial, Hamm, Luxembourg. Plot: G, Row 4, Grave 20."
+    ],
+    "image": "webb01.png"
+  },
+  {
     "command_name": "webster",
     "title": "WEBSTER, DAVID",
     "show": "band_of_brothers",
@@ -2331,6 +3115,30 @@
     "image": "webster01.png"
   },
   {
+    "command_name": "welsh",
+    "title": "WELSH, HARRY",
+    "show": "band_of_brothers",
+    "aka": ["Welshy"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: Harry Francis Welsh",
+      "Nickname(s): None",
+      "Birthplace: Luzerne County, Pennsylvania",
+      "Birth date: 27 September 1918",
+      "Age (on D-Day): 25",
+      "Rank (highest achieved): 1st Lieutenant",
+      "Branch: Army",
+      "Company: Easy",
+      "Platoon: 3rd",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Rick Warden",
+      "Gravesite: Saint Mary's Cemetary, Hanover Township, Pennsylvania. Plot: 26G/7"
+    ],
+    "image": "welsh01.png"
+  },
+  {
     "command_name": "winters",
     "title": "WINTERS, RICHARD",
     "show": "band_of_brothers",
@@ -2353,5 +3161,27 @@
       "Gravesite: Bergstrasse Cemetary, Ephrata Township, Pennsylvania"
     ],
     "image": "winters01.png"
+  },
+  {
+    "command_name": "zielinski",
+    "title": "ZIELINSKI, JOHN",
+    "show": "band_of_brothers",
+    "aka": ["Zielinski"],
+    "facts": [
+      "Show: Band of Brothers",
+      "Full name: John S. Zielinski",
+      "Nickname(s): None",
+      "Birthplace: Pennsylvania",
+      "Birth date: 01 January 1925",
+      "Age (on D-Day): 19",
+      "Rank (highest achieved): Private First Class",
+      "Branch: Army",
+      "Battalion: 2nd",
+      "Regiment: 506th Parachute Infantry Regiment",
+      "Division: 101st Airborne",
+      "Portrayed by: Adam Sims",
+      "Gravesite: Queen of Heaven Catholic Cemetary, Hillside, Illinois. Plot: Section 40, Block 432, Lot 19, Grave 8."
+    ],
+    "image": "zielinski01.png"
   }
 ]

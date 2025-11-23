@@ -1063,6 +1063,30 @@
     "image": "godfather01.png"
   },
   {
+    "command_name": "graham",
+    "title": "GRAHAM, GLENN",
+    "show": "masters_of_the_air",
+    "aka": ["Graham"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Glenn Edward Graham",
+      "Nickname(s): None",
+      "Birthplace: UNKNOWN",
+      "Birth date: 13 December 1918",
+      "Age (on first mission): 24",
+      "Rank (highest achieved): Major",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Darragh Cowley",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 46, Site 807."
+    ],
+    "image": "graham01.png"
+  },
+  {
     "command_name": "grant",
     "title": "GRANT, CHARLES",
     "show": "band_of_brothers",
@@ -1327,6 +1351,29 @@
     "image": "luz01.png"
   },
   {
+    "command_name": "macon",
+    "title": "MACON, RICHARD",
+    "show": "masters_of_the_air",
+    "aka": ["Macon"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Richard Macon",
+      "Nickname(s): None",
+      "Birthplace: Birmingham, Alabama",
+      "Birth date: 21 August 1921",
+      "Age (on first mission): 22",
+      "Rank (highest achieved): Captain",
+      "Branch: Army Air Force",
+      "Squadron: 301st Fighter Squadron",
+      "Group: 332nd Fighter Group",
+      "Wing: Fighter Escort",
+      "Command: 15th Air Force",
+      "Portrayed by: Josiah Cross",
+      "Gravesite: Arlington National Cemetary, Arlington, Virginia. Plot: Section 54, Site 886."
+    ],
+    "image": "macon01.png"
+  },
+  {
     "command_name": "malarkey",
     "title": "MALARKEY, DONALD",
     "show": "band_of_brothers",
@@ -1523,6 +1570,30 @@
     "image": "more01.png"
   },
   {
+    "command_name": "murphy",
+    "title": "MURPHY, FRANK",
+    "show": "masters_of_the_air",
+    "aka": ["Murphy"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Frank Desales Murphy",
+      "Nickname(s): None",
+      "Birthplace: New York, New York",
+      "Birth date: 01 December 1921",
+      "Age (on first mission): 21",
+      "Rank (highest achieved): Lieutenant Colonel",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Jonas Moore",
+      "Gravesite: United States Military Academy Post Cemetary, West Point, New York. Plot: Section XXI, Row E, Site 89."
+    ],
+    "image": "murphy01.png"
+  },
+  {
     "command_name": "nixon",
     "title": "NIXON, LEWIS",
     "show": "band_of_brothers",
@@ -1573,6 +1644,30 @@
       "Portrayed by: Josh Barrett"
     ],
     "image": "pappy01.png"
+  },
+  {
+    "command_name": "pappy_lewis",
+    "title": "LEWIS, WINIFRED",
+    "show": "masters_of_the_air",
+    "aka": ["Pappy"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: Winifred Lewis",
+      "Nickname(s): Pappy",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on first mission): UNKNOWN",
+      "Rank (highest achieved): UNKNOWN",
+      "Branch: Army Air Force",
+      "Squadron: 418th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Josh Bolt",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "pappy_lewis01.png"
   },
   {
     "command_name": "patterson",
@@ -1723,6 +1818,30 @@
       "Portrayed by: Wilson Bethel"
     ],
     "image": "qtip01.png"
+  },
+  {
+    "command_name": "quinn",
+    "title": "QUINN, WILLIAM",
+    "show": "masters_of_the_air",
+    "aka": ["Bill"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: William McAdoo Quinn",
+      "Nickname(s): Bill",
+      "Birthplace: UNKNOWN",
+      "Birth date: UNKNOWN",
+      "Age (on first mission): UNKNOWN",
+      "Rank (highest achieved): Technical Sergeant",
+      "Branch: Army Air Force",
+      "Squadron: 350th Bombardment Squadron",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Kai Alexander",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "quinn01.png"
   },
   {
     "command_name": "reporter",

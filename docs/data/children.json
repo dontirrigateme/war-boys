@@ -2479,5 +2479,15 @@
     "mother_user_id": "1103766553222201374",
     "mother_user_name": "clung wrap",
     "father": { "command_name": "mcclung", "display_name": "Earl McClung" }
+  },
+  {
+    "child_id": "bby_251",
+    "full_name": "Theodore Grant Conley",
+    "sex": "M",
+    "birth_date": "22 November 2025 @ 20:28",
+    "stage": "Infant",
+    "mother_user_id": "990759232045473862",
+    "mother_user_name": "Private Bullshit's Babe",
+    "father": { "command_name": "runner", "display_name": "Runner Conley" }
   }
 ]

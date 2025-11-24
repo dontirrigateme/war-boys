@@ -1416,6 +1416,29 @@
     "image": "jones01.png"
   },
   {
+    "command_name": "kidd",
+    "title": "KIDD, JOHN",
+    "show": "masters_of_the_air",
+    "aka": ["Jack"],
+    "facts": [
+      "Show: Masters of the Air",
+      "Full name: John Burns Kidd",
+      "Nickname(s): Jack",
+      "Birthplace: New Rochelle, New York",
+      "Birth date: UNKNOWN",
+      "Age (on first mission): UNKNOWN",
+      "Rank (highest achieved): Major",
+      "Branch: Army Air Force",
+      "Group: 100th Bombardment Group",
+      "Wing: 13th Combat Wing",
+      "Division: 3rd Bombardment Division",
+      "Command: 8th Air Force",
+      "Portrayed by: Edward Ashley",
+      "Gravesite: Burial details unknown"
+    ],
+    "image": "kidd01.png"
+  },
+  {
     "command_name": "kiehn",
     "title": "KIEHN, WILLIAM",
     "show": "band_of_brothers",

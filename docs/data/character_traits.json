@@ -87,6 +87,32 @@
     ]
   },
   {
+    "command_name": "bailey",
+    "display_name": "Charles Bailey",
+    "image": "bailey01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Anxious",
+      "Cautious",
+      "Daring",
+      "Disciplined",
+      "Genuine",
+      "Humble",
+      "Patient",
+      "Planful",
+      "Self-control",
+      "Awkward",
+      "Overthinker"
+    ]
+  },
+  {
     "command_name": "basilone",
     "display_name": "John Basilone",
     "image": "basilone01.png",
@@ -106,6 +132,114 @@
       "Oblivious",
       "Himbo",
       "Humble"
+    ]
+  },
+  {
+    "command_name": "biddick",
+    "display_name": "Curtis Biddick",
+    "image": "biddick01.png",
+    "physical_traits": [
+      "Average physique",
+      "Dimples",
+      "Blue eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Agreeable",
+      "Amiable",
+      "Clever",
+      "Curious",
+      "Daring",
+      "Easy-going",
+      "Flexible",
+      "Friendly",
+      "Genuine",
+      "Impulsive",
+      "Proud",
+      "Selfless",
+      "Social",
+      "Independent",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "blakely",
+    "display_name": "Everett Blakely",
+    "image": "blakely01.png",
+    "physical_traits": [
+      "Slim",
+      "Brown eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Agreeable",
+      "Amiable",
+      "Clever",
+      "Daring",
+      "Disciplined",
+      "Flexible",
+      "Gut feeling",
+      "Proud",
+      "Social",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "blithe",
+    "display_name": "Albert Blithe",
+    "image": "blithe01.png",
+    "physical_traits": [
+      "Skinny",
+      "Blue eyes",
+      "Light blond hair",
+      "Straight hair",
+      "Pale",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Aloof",
+      "Anxious",
+      "Avoidant",
+      "Cautious",
+      "Introverted",
+      "Kind",
+      "Nonthreatening",
+      "Quiet",
+      "Respectful",
+      "Sensitive",
+      "Overthinker"
+    ]
+  },
+  {
+    "command_name": "boyle",
+    "display_name": "Leo Boyle",
+    "image": "boyle01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Affectionate",
+      "Amiable",
+      "Caretaker",
+      "Considerate",
+      "Generous",
+      "Genuine",
+      "Humble",
+      "Kind",
+      "Quiet",
+      "Selfless",
+      "Intelligent"
     ]
   },
   {

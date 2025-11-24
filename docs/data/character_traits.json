@@ -271,6 +271,62 @@
     ]
   },
   {
+    "command_name": "brewer",
+    "display_name": "Bob Brewer",
+    "image": "brewer01.png",
+    "physical_traits": [
+      "Average physique",
+      "Hazel eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Pale",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Agreeable",
+      "Cautious",
+      "Coordinated",
+      "Curious",
+      "Disciplined",
+      "Handy",
+      "Oblivious",
+      "Organized",
+      "Planful",
+      "Quiet",
+      "Healthy habits",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "bubbles",
+    "display_name": "Bubbles Payne",
+    "image": "bubbles01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Agreeable",
+      "Amiable",
+      "Analytical",
+      "Considerate",
+      "Daring",
+      "Easy-going",
+      "Energized",
+      "Friendly",
+      "Genuine",
+      "Kind",
+      "Observant",
+      "Organized",
+      "Social",
+      "Intelligent"
+    ]
+  },
+  {
     "command_name": "bucky",
     "display_name": "Bucky Egan",
     "image": "bucky01.png",
@@ -383,6 +439,90 @@
     ]
   },
   {
+    "command_name": "chesty",
+    "display_name": "Chesty Puller",
+    "image": "chesty01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Dark blond hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Blunt",
+      "Demanding",
+      "Disciplined",
+      "Emotionally-constipated",
+      "Intimidating",
+      "Observant",
+      "Organized",
+      "Serious",
+      "Thick-skinned",
+      "Intelligent",
+      "Intense"
+    ]
+  },
+  {
+    "command_name": "chick",
+    "display_name": "Chick Harding",
+    "image": "chick01.png",
+    "physical_traits": [
+      "Stocky",
+      "Blue eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Blunt",
+      "Caretaker",
+      "Charismatic",
+      "Considerate",
+      "Daring",
+      "Disciplined",
+      "Familiar",
+      "Friendly",
+      "Genuine",
+      "Patient",
+      "Big picture",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "chiwy",
+    "display_name": "Augusta Chiwy",
+    "image": "chiwy01.png",
+    "physical_traits": [
+      "Smol",
+      "Brown eyes",
+      "Black hair",
+      "Curly hair",
+      "Dark-skinned",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Calm",
+      "Caretaker",
+      "Disciplined",
+      "Flexible",
+      "Generous",
+      "Genuine",
+      "Handy",
+      "Humble",
+      "Patient",
+      "Reserved",
+      "Selfless",
+      "Sympathetic",
+      "Warm",
+      "Intelligent",
+      "Kind"
+    ]
+  },
+  {
     "command_name": "christenson",
     "display_name": "Pat Christenson",
     "image": "christenson01.png",
@@ -407,6 +547,59 @@
       "Awkward",
       "Avoidant",
       "Healthy habits"
+    ]
+  },
+  {
+    "command_name": "chuckler",
+    "display_name": "Chuckler Juergens",
+    "image": "chuckler01.png",
+    "physical_traits": [
+      "Broad-shouldered",
+      "Average physique",
+      "Dimples",
+      "Blue eyes",
+      "Dark brown hair",
+      "Wavy hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Caretaker",
+      "Charismatic",
+      "Easy-going",
+      "Expressive",
+      "Funny",
+      "Sensitive",
+      "Sympathetic",
+      "Warm",
+      "Amused"
+    ]
+  },
+  {
+    "command_name": "claytor",
+    "display_name": "Roy Claytor",
+    "image": "claytor01.png",
+    "physical_traits": [
+      "Average physique",
+      "Hazel eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Charismatic",
+      "Clever",
+      "Confident",
+      "Daring",
+      "Disciplined",
+      "Organized",
+      "Planful",
+      "Reserved",
+      "Self-control",
+      "Intelligent"
     ]
   },
   {
@@ -437,6 +630,35 @@
       "Self-control",
       "Suave",
       "Intelligent"
+    ]
+  },
+  {
+    "command_name": "cobb",
+    "display_name": "Roy Cobb",
+    "image": "cobb01.png",
+    "physical_traits": [
+      "Slim",
+      "Blue eyes",
+      "Light brown hair",
+      "Straight hair",
+      "Pale",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Aloof",
+      "Blunt",
+      "Contrarian",
+      "Emotionally-constipated",
+      "Foolish",
+      "Impertinent",
+      "Impulsive",
+      "Pessimistic",
+      "Provocable",
+      "Rude",
+      "Sardonic",
+      "Unadaptable",
+      "World-weary",
+      "Bitchy"
     ]
   },
   {
@@ -527,6 +749,60 @@
     ]
   },
   {
+    "command_name": "cruikshank",
+    "display_name": "Charles Cruikshank",
+    "image": "cruikshank01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Dark blond hair",
+      "Curly hair",
+      "Pale",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Amiable",
+      "Amused",
+      "Coordinated",
+      "Daring",
+      "Easy-going",
+      "Friendly",
+      "Funny",
+      "Optimistic",
+      "Outgoing",
+      "Silly",
+      "Social",
+      "Unbothered",
+      "Independent"
+    ]
+  },
+  {
+    "command_name": "daniels",
+    "display_name": "Robert Daniels",
+    "image": "daniels01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Black hair",
+      "Curly hair",
+      "Dark-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Clever",
+      "Daring",
+      "Disciplined",
+      "Flexible",
+      "Observant",
+      "Organized",
+      "Proud"
+      "Serious",
+      "Somber",
+      "Independent",
+      "Intelligent"
+    ]
+  },
+  {
     "command_name": "demarco",
     "display_name": "Bennie Demarco",
     "image": "demarco01.png",
@@ -551,6 +827,35 @@
       "Energized",
       "Observant",
       "Intelligent"
+    ]
+  },
+  {
+    "command_name": "dike",
+    "display_name": "Norman Dike",
+    "image": "dike01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Dark brown hair",
+      "Wavy hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Aloof",
+      "Arrogant",
+      "Confident",
+      "Demanding",
+      "Flippant",
+      "Insecure",
+      "Naive",
+      "Proud",
+      "Rude",
+      "Serious",
+      "Unadaptable",
+      "Unimaginitive",
+      "Bitchy",
+      "Dramatic"
     ]
   },
   {
@@ -665,6 +970,62 @@
     ]
   },
   {
+    "command_name": "espera",
+    "display_name": "Antonio Espera",
+    "image": "espera01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Black hair",
+      "Curly hair",
+      "Tan"
+      "Average height"
+    ],
+    "personality_traits": [
+      "Aloof",
+      "Analytical",
+      "Curious",
+      "Daring",
+      "Direct",
+      "Familiar",
+      "Intimidating",
+      "Loquacious",
+      "Observant",
+      "Worldly",
+      "Big picture",
+      "Intelligent"
+    ]
+  },
+  {
+    "command_name": "evans",
+    "display_name": "Bill Evans",
+    "image": "evans01.png",
+    "physical_traits": [
+      "Slim",
+      "Dimples",
+      "Green eyes",
+      "Resting bitch face",
+      "Red hair",
+      "Straight hair",
+      "Pale",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Annoyed",
+      "Demanding",
+      "Indifferent",
+      "Neat freak",
+      "Observant",
+      "Organized",
+      "Planful",
+      "Quiet",
+      "Reserved",
+      "Serious",
+      "Bitchy"
+    ]
+  },
+  {
     "command_name": "fick",
     "display_name": "Nate Fick",
     "image": "fick01.png",
@@ -718,6 +1079,82 @@
       "Slob",
       "Independent",
       "Misfit"
+    ]
+  },
+  {
+    "command_name": "foley",
+    "display_name": "Jack Foley",
+    "image": "foley01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Blunt",
+      "Coordinated",
+      "Daring",
+      "Direct",
+      "Impatient",
+      "Observant",
+      "Provocable",
+      "Reserved",
+      "Sarcastic",
+      "Independent"
+    ]
+  },
+  {
+    "command_name": "garcia",
+    "display_name": "Antonio Garcia",
+    "image": "garcia01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Black hair",
+      "Straight hair",
+      "Tan",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Agreeable",
+      "Calm",
+      "Considerate",
+      "Curious",
+      "Friendly",
+      "Humble",
+      "Introverted",
+      "Quiet",
+      "Reserved",
+      "Taciturn"
+    ]
+  },
+  {
+    "command_name": "graham",
+    "display_name": "Glenn Graham",
+    "image": "graham01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Dark blond hair",
+      "Curly hair",
+      "Fair-skinned",
+      "Average height:
+    ],
+    "personality_traits": [
+      "Active",
+      "Analytical",
+      "Calm",
+      "Daring",
+      "Disciplined",
+      "Observant",
+      "Organized",
+      "Planful",
+      "Serious",
+      "Intelligent"
     ]
   },
   {
@@ -776,6 +1213,61 @@
     ]
   },
   {
+    "command_name": "gunny",
+    "display_name": "Gunny Haney",
+    "image": "gunny01.png",
+    "physical_traits": [
+      "Average physique",
+      "Blue eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Averahe height
+    ],
+    "personality_traits": [
+      "Active",
+      "Blunt",
+      "Demanding",
+      "Disciplined",
+      "Gut feeling",
+      "Intimidating",
+      "Observant",
+      "Serious",
+      "Thick-skinned",
+      "Intense"
+    ]
+  },
+  {
+    "command_name": "halls",
+    "display_name": "John Halls",
+    "image": "halls01.png",
+    "physical_traits": [
+      "Smol",
+      "Brown eyes",
+      "Black hair",
+      "Straight hair",
+      "Pale",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Agreeable",
+      "Anxious",
+      "Clumsy",
+      "Daring",
+      "Energized",
+      "Friendly",
+      "Humble",
+      "Naive",
+      "Patient",
+      "Quiet",
+      "Respectful",
+      "Sensitive",
+      "Awkward",
+      "Babey",
+      "Nail-biter"
+    ]
+  },
+  {
     "command_name": "hambone",
     "display_name": "Hambone Hamilton",
     "image": "hambone01.png",
@@ -800,6 +1292,62 @@
       "Bitchy",
       "Intelligent",
       "Misfit"
+    ]
+  },
+  {
+    "command_name": "hashey",
+    "display_name": "Les Hashey",
+    "image": "hashey01.png",
+    "physical_traits": [
+      "Average physique",
+      "Freckles",
+      "Hazel eyes",
+      "Brown hair",
+      "Curly hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Agreeable",
+      "Amiable",
+      "Considerate",
+      "Curious",
+      "Daring",
+      "Friendly",
+      "Introverted",
+      "Patient",
+      "Quiet",
+      "Reserved",
+      "Respectful",
+      "Babey"
+    ]
+  },
+  {
+    "command_name": "hester",
+    "display_name": "Clarence Hester",
+    "image": "hester01.png",
+    "physical_traits": [
+      "Average physique",
+      "Dimples",
+      "Blue eyes",
+      "Light brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Clever",
+      "Creative",
+      "Daring",
+      "Flexible",
+      "Observant",
+      "Patient",
+      "Reserved",
+      "Serious",
+      "Taciturn",
+      "Intelligent"
     ]
   },
   {
@@ -828,6 +1376,33 @@
     ]
   },
   {
+    "command_name": "hoobler",
+    "display_name": "Don Hoobler",
+    "image": "hoobler01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Short height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Agreeable",
+      "Amiable",
+      "Chaotic",
+      "Daring",
+      "Feral",
+      "Friendly",
+      "Funny",
+      "Impulsive",
+      "Respectful",
+      "Babey",
+      "Misfit"
+    ]
+  },
+  {
     "command_name": "hoosier",
     "display_name": "Hoosier Smith",
     "image": "hoosier01.png",
@@ -848,6 +1423,134 @@
       "Impertinent",
       "Provocable",
       "Sarcastic"
+    ]
+  },
+  {
+    "command_name": "jackson",
+    "display_name": "Eugene Jackson",
+    "image": "jackson01.png",
+    "physical_traits": [
+      "Skinny",
+      "Dimples",
+      "Brown eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Aloof",
+      "Analytical",
+      "Blunt",
+      "Daring",
+      "Foolish",
+      "Impulsive",
+      "Impatient",
+      "Provocable",
+      "Sarcastic",
+      "Bitchy"
+    ]
+  },
+  {
+    "command_name": "janovec",
+    "display_name": "John Janovec",
+    "image": "janovec01.png",
+    "physical_traits": [
+      "Average physique",
+      "Green eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair skinned",
+      "Average height"
+    ],
+    "personality_traits": [
+      "Active",
+      "Affectionate",
+      "Amused",
+      "Avoidant",
+      "Curious",
+      "Daring",
+      "Gut feeling",
+      "Impatient",
+      "Impulsive",
+      "Messy",
+      "Observant",
+      "Reserved",
+      "Suave",
+      "Unbothered",
+      "Independent"
+    ]
+  },
+  {
+    "command_name": "jefferson",
+    "display_name": "Alexander Jefferson",
+    "image": "jefferson01.png",
+    "physical_traits": [
+      "Average physique",
+      "Brown eyes",
+      "Black hair",
+      "Curly hair",
+      "Dark-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Clever",
+      "Creative",
+      "Daring",
+      "Disciplined",
+      "Introvert",
+      "
+    ]
+  },
+  {
+    "command_name": "jones",
+    "display_name": "Henry Jones",
+    "image": "jones01.png",
+    "physical_traits": [
+      "Slim",
+      "Blue eyes",
+      "Dark brown hair",
+      "Straight hair",
+      "Fair-skinned",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Cautious",
+      "Curious",
+      "Disciplined",
+      "Modest",
+      "Organized",
+      "Planful",
+      "Proud"
+      "Respectful",
+      "Serious",
+      "Awkward"
+    ]
+  },
+  {
+    "command_name": "kidd",
+    "display_name": "Jack Kidd",
+    "image": "kidd01.png",
+    "physical_traits": [
+      "Skinny",
+      "Hazel eyes",
+      "Light brown hair",
+      "Curly hair",
+      "Pale",
+      "Tall height"
+    ],
+    "personality_traits": [
+      "Analytical",
+      "Clever",
+      "Confident",
+      "Daring",
+      "Energized",
+      "Outgoing",
+      "Proud",
+      "Serious",
+      "Big picture",
+      "Intelligent"
     ]
   },
   {

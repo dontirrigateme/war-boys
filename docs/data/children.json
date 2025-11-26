@@ -2489,5 +2489,15 @@
     "mother_user_id": "990759232045473862",
     "mother_user_name": "Private Bullshit's Babe",
     "father": { "command_name": "runner", "display_name": "Runner Conley" }
+  },
+  {
+    "child_id": "bby_252",
+    "full_name": "Hades Patrick Smith",
+    "sex": "M",
+    "birth_date": "26 November 2025 @ 02:18",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ivy League",
+    "father": { "command_name": "hoosier", "display_name": "Hoosier Smith" }
   }
 ]

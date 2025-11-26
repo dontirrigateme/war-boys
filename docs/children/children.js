@@ -1,5 +1,5 @@
 // ---------- children.js (clean) ----------
-const DATA_VERSION = "2025-11-12-07"; // bump when children.json changes
+const DATA_VERSION = "2025-11-12-08"; // bump when children.json changes
 const DATA_URL = "../data/children.json?v=" + DATA_VERSION;
 
 const results     = document.getElementById("results");

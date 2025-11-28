@@ -9588,5 +9588,1377 @@
     "target": "spina",
     "fxp_modifier": 5,
     "rxp_modifier": 5
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "arrogant",
+    "fxp_modifier": -17,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -17,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "chaotic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "contrarian",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "crass",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "feral",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "humble",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "impulsive",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "messy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "misfit",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "optimistic",
+    "fxp_modifier": -17,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "pessimistic",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "sarcastic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "spiteful",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "sympathetic",
+    "fxp_modifier": -17,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "trait",
+    "target": "wary",
+    "fxp_modifier": -17,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "character",
+    "target": "hambone",
+    "fxp_modifier": 8,
+    "rxp_modifier": 8
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": -17,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "mystery_meat",
+    "modifier_type": "character",
+    "target": "person",
+    "fxp_modifier": 8,
+    "rxp_modifier": 8
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "amiable",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": -27,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "bitchy",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "boring",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "chaotic",
+    "fxp_modifier": -27,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "daring",
+    "fxp_modifier": -27,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "early bird",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "intimidating",
+    "fxp_modifier": -27,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "naive",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "nonthreatening",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "sarcastic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "sardonic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "spiteful",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "trait",
+    "target": "teetotaler",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "character",
+    "target": "cleven",
+    "fxp_modifier": 8,
+    "rxp_modifier": 8
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "character",
+    "target": "lipton",
+    "fxp_modifier": 8,
+    "rxp_modifier": 8
+  },
+  {
+    "gift_name": "near_beer",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 8,
+    "rxp_modifier": 8
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "calm",
+    "fxp_modifier": -22,
+    "rxp_modifier": -12
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -22,
+    "rxp_modifier": -12
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "chaotic",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "early bird",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "impulsive",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "lazy",
+    "fxp_modifier": -22,
+    "rxp_modifier": -12
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "literal",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "low energy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "night owl",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "trait",
+    "target": "somnambulation",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "no_doz",
+    "modifier_type": "character",
+    "target": "dike",
+    "fxp_modifier": 8,
+    "rxp_modifier": 8
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": -28,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "athletic",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "babey",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "boring",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "generous",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "genuine",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "himbo",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "humble",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "modest",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "nonthreatening",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "planful",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "pressure-prompted",
+    "fxp_modifier": -28,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "sarcastic",
+    "fxp_modifier": -28,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "suave",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "trait",
+    "target": "sympathetic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pants",
+    "modifier_type": "character",
+    "target": "pants",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pipe",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": -24,
+    "rxp_modifier": -14
+  },
+  {
+    "gift_name": "pipe",
+    "modifier_type": "trait",
+    "target": "intelligent",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pipe",
+    "modifier_type": "trait",
+    "target": "worldly",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pipe",
+    "modifier_type": "character",
+    "target": "brady",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "pipe",
+    "modifier_type": "character",
+    "target": "sledge",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "chaotic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "considerate",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "crass",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "direct",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "disciplined",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "funny",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "impertinent",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "impulsive",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "inconsiderate",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "messy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "neat freak",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "organized",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "provocable",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "respectful",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "rude",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "sarcastic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "sardonic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "suave",
+    "fxp_modifier": -15,
+    "rxp_modifier": -11
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "trait",
+    "target": "world-weary",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "pitcher_of_lemonade",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "analytical",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "clever",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "creative",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "disciplined",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "flexible",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "foolish",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "intelligent",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "oblivious",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "observant",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "overthinker",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "provocable",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "social",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "unadaptable",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "trait",
+    "target": "unlucky",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "character",
+    "target": "luz",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "character",
+    "target": "skinny",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "playing_cards",
+    "modifier_type": "character",
+    "target": "talbert",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "pocket_knife",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": -49,
+    "rxp_modifier": -42
+  },
+  {
+    "gift_name": "pocket_knife",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -49,
+    "rxp_modifier": -42
+  },
+  {
+    "gift_name": "pocket_knife",
+    "modifier_type": "trait",
+    "target": "handy",
+    "fxp_modifier": 2,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pocket_knife",
+    "modifier_type": "trait",
+    "target": "hunter",
+    "fxp_modifier": 2,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "pocket_knife",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": 2,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "radio",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": -31,
+    "rxp_modifier": -21
+  },
+  {
+    "gift_name": "radio",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": -31,
+    "rxp_modifier": -21
+  },
+  {
+    "gift_name": "radio",
+    "modifier_type": "trait",
+    "target": "coordinated",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "radio",
+    "modifier_type": "trait",
+    "target": "creative",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "radio",
+    "modifier_type": "trait",
+    "target": "uninterested",
+    "fxp_modifier": -31,
+    "rxp_modifier": -21
+  },
+  {
+    "gift_name": "radio",
+    "modifier_type": "character",
+    "target": "cleven",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "blunt",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "crass",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "daring",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "direct",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "feral",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "impertinent",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "messy",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "respectful",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "suave",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "unadaptable",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "trait",
+    "target": "wary",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "rancid-ass_beans",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -32,
+    "rxp_modifier": -21
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "trait",
+    "target": "handy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "colbert",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "doc bryan",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "encino man",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "espera",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "fick",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "godfather",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "hasser",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "lilley",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "manimal",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "mcgraw",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "pappy",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "patterson",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "person",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "qtip",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "reporter",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "reyes",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "sixta",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "speirs",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "refillable_lighter",
+    "modifier_type": "character",
+    "target": "trombley",
+    "fxp_modifier": -28,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "considerate",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "daring",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "feral",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "flexible",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "inconsiderate",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "kind",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "oblivious",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "observant",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "rude",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "sympathetic",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "unadaptable",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "trait",
+    "target": "wary",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "ack ack",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "basilone",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "burgin",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "chesty",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "chuckler",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "de leau",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "gunny",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "hillbilly",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "hoosier",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "leckie",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "leyden",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "manny",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "morgan",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "phillips",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "riggi",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "runner",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "sledge",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "rice",
+    "modifier_type": "character",
+    "target": "snafu",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
   }
 ]

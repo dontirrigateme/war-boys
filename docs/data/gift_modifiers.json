@@ -9182,5 +9182,411 @@
     "target": "alley",
     "fxp_modifier": 7,
     "rxp_modifier": 7
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "considerate",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "curious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "inconsiderate",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "sentimental",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "sympathetic",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "trait",
+    "target": "uninterested",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "bailey",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "biddick",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "blakely",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "brady",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "bubbles",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "bucky",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "chick",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "claytor",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "cleven",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "crosby",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "cruikshank",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "daniels",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "demarco",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "dinozzo",
+    "fxp_modifier": 12,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "douglass",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "graham",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set,
+    "modifier_type": "character",
+    "target": "hambone",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "jefferson",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "kidd",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "lemmons",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "macon",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "murphy",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "pappy lewis",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "quinn",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "rosie",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "snyder",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "solomon",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "masters_of_the_air_box_set",
+    "modifier_type": "character",
+    "target": "veal",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "anxious",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "blunt",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "clumsy",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "disciplined",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "flexible",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "handy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "impatient",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "literal",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "messy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "overthinker",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "patient",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "scientific",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "unskilled",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "wary",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "trait",
+    "target": "pressure-prompted",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "character",
+    "target": "chiwy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "character",
+    "target": "doc bryan",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "character",
+    "target": "doc roe",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "character",
+    "target": "lemaire",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "medical_scissors",
+    "modifier_type": "character",
+    "target": "spina",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
   }
 ]

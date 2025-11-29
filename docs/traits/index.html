@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Traits • War Boys</title>
+  <link rel="stylesheet" href="../style.css">
+  <style>
+    .wrap { max-width: 1100px; margin: 0 auto; padding: 16px; }
+
+    .toolbar {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      align-items: center;
+      margin: 16px 0 20px;
+    }
+    .toolbar select {
+      min-width: 260px;
+      padding: 8px 10px;
+      border-radius: 10px;
+      border: 1px solid #243045;
+      background: #151a23;
+      color: #e7ecf3;
+    }
+
+    .trait-card {
+      background: #111623;
+      border-radius: 16px;
+      border: 1px solid #1f2838;
+      padding: 18px 20px;
+      display: grid;
+      grid-template-columns: minmax(0,1.4fr) minmax(0,2fr);
+      gap: 20px;
+    }
+    @media (max-width: 720px) {
+      .trait-card {
+        grid-template-columns: 1fr;
+      }
+    }
+
+    .trait-header {
+      display: flex;
+      gap: 14px;
+      align-items: center;
+    }
+    .trait-header .portrait {
+      width: 120px;
+      height: 120px;
+      border-radius: 12px;
+      object-fit: cover;
+      border: 1px solid #2a3344;
+      background:#0b0f14;
+    }
+    .trait-header h2 {
+      margin: 0 0 4px;
+      font-size: 1.35rem;
+    }
+    .badge {
+      display: inline-block;
+      padding: 2px 8px;
+      border-radius: 999px;
+      background: #1f2838;
+      font-size: 0.75rem;
+      color: #c2ccd8;
+      margin-top: 4px;
+    }
+
+    .trait-columns {
+      display: grid;
+      grid-template-columns: repeat(auto-fit,minmax(180px,1fr));
+      gap: 18px;
+    }
+    .trait-column h3 {
+      margin: 0 0 6px;
+      font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: .06em;
+      color: #9aa7b1;
+    }
+    .trait-column ul {
+      list-style: none;
+      padding-left: 0;
+      margin: 0;
+      font-size: 0.95rem;
+    }
+    .trait-column li::before {
+      content: "• ";
+      opacity: 0.48;
+    }
+
+    #summary {
+      margin-bottom: 10px;
+      color: #9aa7b1;
+    }
+  </style>
+</head>
+<body>
+  <nav class="topnav">
+    <div class="brand">War Boys</div>
+    <div class="links">
+      <a href="../">Home</a>
+      <a href="../claims/">Claims</a>
+      <a href="../characters/">Characters</a>
+      <a href="../children/">Children</a>
+      <a class="active" href="../traits/">Traits</a>
+      <a href="../gifts/">Gift Guide</a>
+    </div>
+  </nav>
+
+  <main class="wrap">
+    <h1>Traits</h1>
+    <p class="muted">
+      Choose a character to see their physical and personality traits.
+    </p>
+
+    <div class="toolbar">
+      <select id="charPicker">
+        <option value="">— Select a character —</option>
+      </select>
+    </div>
+
+    <div id="summary">Pick a character from the menu above.</div>
+    <div id="traitCard"></div>
+  </main>
+
+  <script src="./traits.js?v=20251129a" defer></script>
+</body>
+</html>

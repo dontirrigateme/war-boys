@@ -291,7 +291,6 @@ function renderGiftTableForGift(gift, rows) {
           <th>Show</th>
           <th>FXP</th>
           <th>RXP</th>
-          <th>Total</th>
         </tr>
       </thead>
       <tbody>
@@ -307,7 +306,6 @@ function renderGiftTableForGift(gift, rows) {
         <td>${escapeHtml(show ? prettifyShow(show) : "—")}</td>
         <td>${formatDelta(effect.fxp)}</td>
         <td>${formatDelta(effect.rxp)}</td>
-        <td>${formatDelta(total)}</td>
       </tr>
     `;
   }
@@ -328,7 +326,6 @@ function renderGiftTableForCharacter(character, rows, show) {
           <th>Base RXP</th>
           <th>Final FXP</th>
           <th>Final RXP</th>
-          <th>Total</th>
         </tr>
       </thead>
       <tbody>
@@ -346,7 +343,6 @@ function renderGiftTableForCharacter(character, rows, show) {
         <td>${formatDelta(baseRxp)}</td>
         <td>${formatDelta(effect.fxp)}</td>
         <td>${formatDelta(effect.rxp)}</td>
-        <td>${formatDelta(total)}</td>
       </tr>
     `;
   }

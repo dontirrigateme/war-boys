@@ -9345,7 +9345,7 @@
     "rxp_modifier": 12
   },
   {
-    "gift_name": "masters_of_the_air_box_set,
+    "gift_name": "masters_of_the_air_box_set",
     "modifier_type": "character",
     "target": "hambone",
     "fxp_modifier": 12,
@@ -15374,7 +15374,7 @@
   {
     "gift_name": "toothbrush_kit",
     "modifier_type": "trait",
-    "target": boring"",
+    "target": boring",
     "fxp_modifier": 2,
     "rxp_modifier": 2
   },

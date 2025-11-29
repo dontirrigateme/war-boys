@@ -15374,7 +15374,7 @@
   {
     "gift_name": "toothbrush_kit",
     "modifier_type": "trait",
-    "target": boring",
+    "target": "boring",
     "fxp_modifier": 2,
     "rxp_modifier": 2
   },

@@ -1158,6 +1158,29 @@
     "image": "guarnere01.png"
   },
   {
+    "command_name": "gunny",
+    "title": "HANEY, ST ELMO",
+    "show": "the_pacific",
+    "aka": ["Gunny"],
+    "facts": [
+      "Show: The Pacific",
+      "Full name: St Elmo Murray Haney",
+      "Nickname(s): Gunny",
+      "Birthplace: Chickalah, Arkansas",
+      "Birth date: Apr-1898",
+      "Age (on D-Day): 44",
+      "Rank (highest achieved): Gunnery Sergeant",
+      "Branch: USMC",
+      "Company: King",
+      "Battalion: 3rd",
+      "Regiment: 5th Marines",
+      "Division: 1st Marine Division",
+      "Portrayed by: Gary Sweet",
+      "Gravesite: Benton County Memorial Park, Rogers, Arkansas. Plot: Veteran's Section."
+    ],
+    "image": "gunny01.png"
+  },
+  {
     "command_name": "halls",
     "title": "HALLS, JOHN",
     "show": "band_of_brothers",
@@ -1269,7 +1292,7 @@
       "Regiment: 5th Marines",
       "Division: 1st Marine Division",
       "Portrayed by: Leon Ford",
-      "Gravesite: Slate Ridge Cemetary, Delta, PA"
+      "Gravesite: Slate Ridge Cemetary, Delta, Pennsylvania"
     ],
     "image": "hillbilly01.png"
   },

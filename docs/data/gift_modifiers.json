@@ -5736,8 +5736,8 @@
     "gift_name": "espresso_machine",
     "modifier_type": "character",
     "target": "smokey",
-    "fxp_modifier": ,
-    "rxp_modifier": 
+    "fxp_modifier": 15,
+    "rxp_modifier": 15
   },
   {
     "gift_name": "fancy_soap",
@@ -6403,13 +6403,6 @@
     "target": "trombley",
     "fxp_modifier": 4,
     "rxp_modifier": 4
-  },
-  {
-    "gift_name": "gold_teeth",
-    "modifier_type": "trait",
-    "target": " ",
-    "fxp_modifier": ,
-    "rxp_modifier": 
   },
   {
     "gift_name": "gold_teeth",
@@ -15494,8 +15487,8 @@
     "gift_name": "umbrella_hat",
     "modifier_type": "character",
     "target": "cassidy",
-    "fxp_modifier": ,
-    "rxp_modifier": 
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
   },
   {
     "gift_name": "vat_69",

@@ -679,7 +679,7 @@
     "image": "daniels01.png"
   },
   {
-    "command_name": "de_leau",
+    "command_name": "de leau",
     "title": "DE L'EAU, JAY",
     "show": "the_pacific",
     "aka": ["de leau"],
@@ -2128,7 +2128,7 @@
     "image": "pappy01.png"
   },
   {
-    "command_name": "pappy_lewis",
+    "command_name": "pappy lewis",
     "title": "LEWIS, WINIFRED",
     "show": "masters_of_the_air",
     "aka": ["Pappy"],
@@ -3042,7 +3042,7 @@
     "image": "trombley01.png"
   },
   {
-    "command_name": "van_klinken",
+    "command_name": "van klinken",
     "title": "VAN KLINKEN, ROBERT",
     "show": "band_of_brothers",
     "aka": ["Bob"],

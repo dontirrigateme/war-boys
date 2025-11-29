@@ -2509,5 +2509,15 @@
     "mother_user_id": "1103766553222201374",
     "mother_user_name": "clung wrap",
     "father": { "command_name": "alley", "display_name": "James Alley" }
+  },
+  {
+    "child_id": "bby_254",
+    "full_name": "Nellie Christine Speirs",
+    "sex": "F",
+    "birth_date": "29 November 2025 @ 05:49",
+    "stage": "Infant",
+    "mother_user_id": "698227872585875477",
+    "mother_user_name": "Ron's Barbie",
+    "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
   }
 ]

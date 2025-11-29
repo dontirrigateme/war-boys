@@ -68,9 +68,16 @@ function buildLookups() {
   for (const c of charactersWithTraits) {
     const name = c.command_name;
     if (!name) continue;
+  
     const phys = Array.isArray(c.physical_traits) ? c.physical_traits : [];
     const pers = Array.isArray(c.personality_traits) ? c.personality_traits : [];
-    traitsByCharacter.set(name, new Set([...phys, ...pers]));
+  
+    // Normalize traits: lowercase + trimmed for case-insensitive matching
+    const normalizedTraits = [...phys, ...pers]
+      .filter(Boolean)
+      .map(t => String(t).toLowerCase().trim());
+  
+    traitsByCharacter.set(name, new Set(normalizedTraits));
   }
 
   // show mapping from characters.json, if present
@@ -258,7 +265,8 @@ function computeEffect(character, gift) {
     const dR     = Number(m.rxp_modifier || 0);
 
     if (type === "trait") {
-      if (charTraits.has(target)) {
+      const targetNorm = String(target || "").toLowerCase().trim();
+      if (targetNorm && charTraits.has(targetNorm)) {
         fxp += dF;
         rxp += dR;
       }

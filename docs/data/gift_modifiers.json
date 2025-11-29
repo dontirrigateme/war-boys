@@ -10960,5 +10960,4639 @@
     "target": "snafu",
     "fxp_modifier": 7,
     "rxp_modifier": 7
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "ack ack",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "alley",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "babe",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bailey",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "basilone",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "biddick",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "blakely",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "boyle",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "brady",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "brewer",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bubbles",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bucky",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bull",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "burgin",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cassidy",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chesty",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chick",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chiwy",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "christenson",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chuckler",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "claytor",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cleven",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cobb",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "colbert",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "compton",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "crosby",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cruikshank",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "daniels",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "de leau",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "demarco",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "dike",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "doc bryan",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "doc roe",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "douglass",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "dukeman",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "encino man",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "espera",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "evans",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "fick",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "filthy 13",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "foley",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "garcia",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "garza",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "godfather",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "grant",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "gunny",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "halls",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hambone",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hashey",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hasser",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hester",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hillbilly",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hoosier",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "jackson",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "janovec",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "jefferson",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "jones",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "kidd",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "kiehn",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "leckie",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lemaire",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lemmons",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lesniewski",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "leyden",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "liebgott",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lilley",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lipton",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lorraine",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "luz",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "macon",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "malarkey",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "manimal",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "manny",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "martin",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "mcclung",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "mcgrath",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "mcgraw",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "meehan",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "miller",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "moose",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "more",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "morgan",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "murphy",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "okeefe",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "pappy",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "pappy lewis",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "patterson",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "peacock",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "penkala",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "person",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "petty",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "phillips",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "popeye",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "qtip",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "quinn",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "ramirez",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "ranney",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "reporter",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "reyes",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "riggi",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "rosie",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "runner",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "shames",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "shifty",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sixta",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "skinny",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "skip",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sledge",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "smith",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "smokey",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "snafu",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "snyder",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sobel",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "solomon",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "speirs",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "spina",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "strayer",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "talbert",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "tipper",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "trombley",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "van klinken",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "veal",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "vest",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "webb",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "webster",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "welsh",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "zielinski",
+    "fxp_modifier": -54,
+    "rxp_modifier": -44
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": -49,
+    "rxp_modifier": -42
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "ack ack",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "alley",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "babe",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bailey",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "basilone",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "biddick",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "blakely",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "boyle",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "brady",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "brewer",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bubbles",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bucky",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "bull",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "burgin",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cassidy",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chesty",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chick",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chiwy",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "christenson",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "chuckler",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "claytor",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cleven",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cobb",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "compton",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "crosby",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "cruikshank",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "daniels",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "de leau",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "demarco",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "dike",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "doc roe",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "douglass",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "dukeman",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "evans",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "foley",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "garcia",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "grant",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "gunny",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "halls",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hambone",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hashey",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hester",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hillbilly",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "hoosier",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "jackson",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "janovec",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "jefferson",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "jones",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "kidd",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "kiehn",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "leckie",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lemaire",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lemmons",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lesniewski",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "leyden",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "liebgott",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lipton",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "lorraine",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "luz",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "macon",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "malarkey",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "manny",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "martin",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "mcclung",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "mcgrath",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "meehan",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "miller",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "moose",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "more",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "morgan",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "murphy",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "okeefe",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "pappy lewis",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "peacock",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "penkala",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "petty",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "phillips",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "popeye",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "quinn",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "ramirez",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "ranney",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "riggi",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "rosie",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "runner",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "shames",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "shifty",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "skinny",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "skip",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sledge",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "smith",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "smokey",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "snafu",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "snyder",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "sobel",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "solomon",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "speirs",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "spina",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "strayer",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "talbert",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "tipper",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "van klinken",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "veal",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "vest",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "webb",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "webster",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "welsh",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "roll_of_copenhagen",
+    "modifier_type": "character",
+    "target": "zielinski",
+    "fxp_modifier": -44,
+    "rxp_modifier": -37
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "affectionate",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "anxious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "bitchy",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "calm",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "contrarian",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "genuine",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "humble",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "impertinent",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "respectful",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "self-control",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "subdued",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "sympathetic",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "uninterested",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "wary",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "trait",
+    "target": "world-weary",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "character",
+    "target": "colbert",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "character",
+    "target": "malarkey",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "character",
+    "target": "person",
+    "fxp_modifier": -23,
+    "rxp_modifier": -16
+  },
+  {
+    "gift_name": "rosary",
+    "modifier_type": "character",
+    "target": "skip",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "agreeable",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "aloof",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "amiable",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "avoidant",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "bitchy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "contrarian",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "direct",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "disciplined",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "extroverted",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "flexible",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "introverted",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "loquacious",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "loud",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "provocable",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "quiet",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "retentive",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "self-control",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "taciturn",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "unadaptable",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "unbothered",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "unrestrained",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "trait",
+    "target": "verbose",
+    "fxp_modifier": -26,
+    "rxp_modifier": -19
+  },
+  {
+    "gift_name": "shock_absorber",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "adhd",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "analytical",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "chaotic",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "charismatic",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "coordinated",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "energized",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "flexible",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "foolish",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "gut feeling",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "hunter",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "impatient",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "lazy",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "observant",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "scientific",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "superstitious",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "unadaptable",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "unskilled",
+    "fxp_modifier": -32,
+    "rxp_modifier": -25
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "trait",
+    "target": "wary",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "character",
+    "target": "chesty",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "character",
+    "target": "godfather",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "silk_map",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": -27,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "ack ack",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "alley",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "babe",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "bailey",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "basilone",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "biddick",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "blakely",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "boyle",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "brady",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "brewer",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "bubbles",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "bucky",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "bull",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "burgin",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "cassidy",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "chesty",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "chick",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "chiwy",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "christenson",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "chuckler",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "claytor",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "cleven",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "cobb",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "compton",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "crosby",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "cruikshank",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "daniels",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "de leau",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "demarco",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "dike",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "doc roe",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "douglass",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "dukeman",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "evans",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "foley",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "garcia",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "graham",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "grant",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "gunny",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "halls",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "hambone",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "hashey",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "hester",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "hillbilly",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "hoosier",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "jackson",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "janovec",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "jefferson",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "jones",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "kidd",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "kiehn",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "leckie",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "lemaire",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "lemmons",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "lesniewski",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "leyden",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "liebgott",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "lipton",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "lorraine",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "luz",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "macon",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "malarkey",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "manny",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "martin",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "mcclung",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "mcgrath",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "meehan",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "miller",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "moose",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "more",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "morgan",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "murphy",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "okeefe",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "pappy lewis",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "peacock",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "penkala",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "petty",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "phillips",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "popeye",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "quinn",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "ramirez",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "ranney",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "riggi",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "rosie",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "runner",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "shames",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "shifty",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "skinny",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "skip",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "sledge",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "smith",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "smokey",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "snafu",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "snyder",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "sobel",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "solomon",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "speirs",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "spina",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "strayer",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "talbert",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "tipper",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "van klinken",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "veal",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "vest",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "webb",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "webster",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "welsh",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "skoal",
+    "modifier_type": "character",
+    "target": "zielinski",
+    "fxp_modifier": -22,
+    "rxp_modifier": -17
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "aloof",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "avoidant",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "dramatic",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "energized",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "lazy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "night owl",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "oblivious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "observant",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "quiet",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "trait",
+    "target": "world-weary",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "sleep_mask",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "adhd",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "aloof",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "anxious",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "avoidant",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "demanding",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "direct",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "dramatic",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "impatient",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "lazy",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "patient",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "scientific",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "unbothered",
+    "fxp_modifier": -14,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "trait",
+    "target": "world-weary",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "smelling_salts",
+    "modifier_type": "character",
+    "target": "boyle",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "agreeable",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "amiable",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "awkward",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "boring",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "crass",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "easy-going",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "flippant",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "funny",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "literal",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "modest",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "naive",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "punny",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "serious",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "silly",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "suave",
+    "fxp_modifier": -12,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "trait",
+    "target": "thick-skinned",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "spotted_dick",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": -15,
+    "rxp_modifier": -10
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "character",
+    "target": "christenson",
+    "fxp_modifier": -13,
+    "rxp_modifier": -8
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "character",
+    "target": "colbert",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "character",
+    "target": "manimal",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "character",
+    "target": "person",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "character",
+    "target": "qtip",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "subway_sandwich",
+    "modifier_type": "character",
+    "target": "reporter",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "considerate",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "curious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "inconsiderate",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "sentimental",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "trait",
+    "target": "uninterested",
+    "fxp_modifier": -28,
+    "rxp_modifier": -22
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "ack ack",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "basilone",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "burgin",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "chesty",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "chuckler",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "de leau",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "dinozzo",
+    "fxp_modifier": 12,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "gunny",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "hillbilly",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "hoosier",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "leckie",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "leyden",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "manny",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "morgan",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "phillips",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "riggi",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "the_pacific_box_set",
+    "modifier_type": "character",
+    "target": "runner",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "avoidant",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "awkward",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "contrarian",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "crass",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "curious",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "emotionally-constipated",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "foolish",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "lazy",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "misfit",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "modest",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "naive",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "respectful",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "sad",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "serious",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "shy",
+    "fxp_modifier": -15,
+    "rxp_modifier": -15
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "unbothered",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "trait",
+    "target": "unrestrained",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": 10,
+    "rxp_modifier": 10
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "character",
+    "target": "manimal",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "titter_magazine",
+    "modifier_type": "character",
+    "target": "person",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "affectionate",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": -33,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "expressive",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "flippant",
+    "fxp_modifier": -33,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "forgetful",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "friendly",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "genuine",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": -33,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "inconsiderate",
+    "fxp_modifier": -33,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "sarcastic",
+    "fxp_modifier": -33,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "sensitive",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "sentimental",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "spiteful",
+    "fxp_modifier": -33,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "trait",
+    "target": "warm",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "alley",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "babe",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "blithe",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "boyle",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "brewer",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "bull",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "chiwy",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "christenson",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "cobb",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "compton",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "dike",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "doc roe",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "dukeman",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "evans",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "filthy 13",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "foley",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "garcia",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "grant",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "guarnere",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "halls",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "hashey",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "hester",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "hoobler",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "jackson",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "janovec",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "jones",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "kiehn",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "lemaire",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "lesniewski",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "liebgott",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "lipton",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "lorraine",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "luz",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "malarkey",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "martin",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "mcclung",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "mcgrath",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "meehan",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "miller",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "moose",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "more",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "okeefe",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "peacock",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "penkala",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "petty",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "popeye",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "ramirez",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "ranney",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "shames",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "shifty",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "skinny",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "skip",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "smith",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "smokey",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "sobel",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "speirs",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "spina",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "strayer",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "talbert",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "tipper",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "van klinken",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "vest",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "webb",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "webster",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "welsh",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toccoa_scrapbook",
+    "modifier_type": "character",
+    "target": "zielinski",
+    "fxp_modifier": 12,
+    "rxp_modifier": 12
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": boring"",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "disciplined",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "extroverted",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "feral",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "messy",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "neat freak",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "outgoing",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "slob",
+    "fxp_modifier": -9,
+    "rxp_modifier": -6
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "trait",
+    "target": "social",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "toothbrush_kit",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "modifier_type": "trait",
+    "target": "amused",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "modifier_type": "trait",
+    "target": "messy",
+    "fxp_modifier": -13,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "modifier_type": "trait",
+    "target": "modest",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "modifier_type": "trait",
+    "target": "organized",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "modifier_type": "trait",
+    "target": "proud",
+    "fxp_modifier": -13,
+    "rxp_modifier": -9
+  },
+  {
+    "gift_name": "umbrella_hat",
+    "modifier_type": "character",
+    "target": "cassidy",
+    "fxp_modifier": ,
+    "rxp_modifier": 
+  },
+  {
+    "gift_name": "vat_69",
+    "modifier_type": "trait",
+    "target": "healthy habits",
+    "fxp_modifier": -50,
+    "rxp_modifier": -43
+  },
+  {
+    "gift_name": "vat_69",
+    "modifier_type": "trait",
+    "target": "impulsive",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "vat_69",
+    "modifier_type": "trait",
+    "target": "teetotaler",
+    "fxp_modifier": -53,
+    "rxp_modifier": -45
+  },
+  {
+    "gift_name": "vat_69",
+    "modifier_type": "trait",
+    "target": "unrestrained",
+    "fxp_modifier": 4,
+    "rxp_modifier": 4
+  },
+  {
+    "gift_name": "vat_69",
+    "modifier_type": "character",
+    "target": "nixon",
+    "fxp_modifier": 5,
+    "rxp_modifier": 9
+  },
+  {
+    "gift_name": "vat_69",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 5,
+    "rxp_modifier": 9
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "trait",
+    "target": "impertinent",
+    "fxp_modifier": -47,
+    "rxp_modifier": -40
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "trait",
+    "target": "optimistic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "trait",
+    "target": "pessimistic",
+    "fxp_modifier": -46,
+    "rxp_modifier": -39
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "character",
+    "target": "gunny",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "character",
+    "target": "jones",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "character",
+    "target": "sink",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
+  },
+  {
+    "gift_name": "war_bond",
+    "modifier_type": "character",
+    "target": "winters",
+    "fxp_modifier": 6,
+    "rxp_modifier": 6
   }
 ]

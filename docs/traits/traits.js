@@ -1,4 +1,4 @@
-const DATA_VERSION = "2025-11-29-01";
+const DATA_VERSION = "2025-11-29-02";
 
 const TRAITS_URL     = "../data/character_traits.json?v=" + DATA_VERSION;
 const CHARACTERS_URL = "../data/characters.json?v=" + DATA_VERSION;

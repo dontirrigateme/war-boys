@@ -1491,13 +1491,6 @@
     "rxp_modifier": 10
   },
   {
-    "gift_name": "boots",
-    "modifier_type": "trait",
-    "target": " ",
-    "fxp_modifier": ,
-    "rxp_modifier": 
-  },
-  {
     "gift_name": "box_of_chocolates",
     "modifier_type": "trait",
     "target": "disciplined",

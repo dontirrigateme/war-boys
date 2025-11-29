@@ -1173,7 +1173,7 @@
       "Dark blond hair",
       "Curly hair",
       "Fair-skinned",
-      "Average height:
+      "Average height"
     ],
     "personality_traits": [
       "Active",
@@ -1253,7 +1253,7 @@
       "Brown hair",
       "Straight hair",
       "Fair-skinned",
-      "Averahe height
+      "Average height"
     ],
     "personality_traits": [
       "Active",
@@ -1948,7 +1948,9 @@
       "Feral",
       "Extroverted",
       "Independent",
-      "
+      "Manic",
+      "Messy",
+      "Thick-skinned"
     ]
   },
   {
@@ -2483,7 +2485,7 @@
       "Loud",
       "Messy",
       "Provocable",
-      "Sarcastic"
+      "Sarcastic",
       "Slob",
       "Unrestrained",
       "Intense"
@@ -3349,11 +3351,11 @@
       "Dark brown hair",
       "Straight hair",
       "Fair-skinned",
-      "Tall height
+      "Tall height"
     ],
     "personality_traits": [
       "Amiable",
-      "Amused,"
+      "Amused",
       "Confident",
       "Considerate",
       "Creative",

@@ -324,6 +324,12 @@
     "base_rxp": 22
   },
   {
+    "gift_name": "potato_masher",
+    "display_name": "Potato Masher",
+    "base_fxp": 15,
+    "base_rxp": 13
+  },
+  {
     "gift_name": "radio",
     "display_name": "Radio",
     "base_fxp": 16,

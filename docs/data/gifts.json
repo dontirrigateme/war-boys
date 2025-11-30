@@ -448,5 +448,11 @@
     "display_name": "War Bond",
     "base_fxp": 24,
     "base_rxp": 20
+  },
+  {
+    "gift_name": "watch",
+    "display_name": "Watch",
+    "base_fxp": 15,
+    "base_rxp": 13
   }
 ]

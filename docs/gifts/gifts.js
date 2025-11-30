@@ -1,5 +1,5 @@
 // ---------- gifts.js ----------
-const DATA_VERSION = "2025-11-29-03"; // bump when data files change
+const DATA_VERSION = "2025-11-29-04"; // bump when data files change
 
 const GIFTS_URL      = "../data/gifts.json?v=" + DATA_VERSION;
 const TRAITS_URL     = "../data/character_traits.json?v=" + DATA_VERSION;

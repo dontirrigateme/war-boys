@@ -15580,5 +15580,152 @@
     "target": "winters",
     "fxp_modifier": 6,
     "rxp_modifier": 6
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "active",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "analytical",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "anxious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "cautious",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "coordinated",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "demanding",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "disciplined",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "early bird",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "easy-going",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "forgetful",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "impulsive",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "lazy",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "night owl",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "oblivious",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "organized",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "patient",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "planful",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "pressure-prompted",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "trait",
+    "target": "retentive",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "character",
+    "target": "dukeman",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "watch",
+    "modifier_type": "character",
+    "target": "perconte",
+    "fxp_modifier": 5,
+    "rxp_modifier": 5
   }
 ]

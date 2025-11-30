@@ -10423,6 +10423,188 @@
     "rxp_modifier": 3
   },
   {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "affectionate",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "annoyed",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "apathetic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "bitchy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "caretaker",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "chaotic",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "clumsy",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "coordinated",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "daring",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "foolish",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "handy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "icy",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "impulsive",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "indifferent",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "intense",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "intimidating",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "loud",
+    "fxp_modifier": 3,
+    "rxp_modifier": 3
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "nonthreatening",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "provocable",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "quiet",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "rude",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "spiteful",
+    "fxp_modifier": 2,
+    "rxp_modifier": 2
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "unrestrained",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "trait",
+    "target": "unskilled",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "character",
+    "target": "lorraine",
+    "fxp_modifier": 7,
+    "rxp_modifier": 7
+  },
+  {
+    "gift_name": "potato_masher",
+    "modifier_type": "character",
+    "target": "toye",
+    "fxp_modifier": -25,
+    "rxp_modifier": -18
+  },
+  {
     "gift_name": "radio",
     "modifier_type": "trait",
     "target": "active",

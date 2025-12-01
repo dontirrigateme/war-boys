@@ -2519,5 +2519,15 @@
     "mother_user_id": "698227872585875477",
     "mother_user_name": "Ron's Barbie",
     "father": { "command_name": "speirs", "display_name": "Ron Speirs" }
+  },
+  {
+    "child_id": "bby_255",
+    "full_name": "Velma Kelly Colbert",
+    "sex": "F",
+    "birth_date": "30 November 2025 @ 16:18",
+    "stage": "Infant",
+    "mother_user_id": "465285923022831647",
+    "mother_user_name": "Ive League",
+    "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
   }
 ]

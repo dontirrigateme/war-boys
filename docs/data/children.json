@@ -2529,5 +2529,15 @@
     "mother_user_id": "465285923022831647",
     "mother_user_name": "Ive League",
     "father": { "command_name": "colbert", "display_name": "Brad Colbert" }
+  },
+  {
+    "child_id": "bby_256",
+    "full_name": "Chisel Sumpsocket Jacks",
+    "sex": "F",
+    "birth_date": "05 December 2025 @ 01:47",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "manimal", "display_name": "Manimal Jacks" }
   }
 ]

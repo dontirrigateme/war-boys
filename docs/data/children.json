@@ -2559,5 +2559,15 @@
     "mother_user_id": "990759232045473862",
     "mother_user_name": "Private Bullshit's Babe",
     "father": { "command_name": "penkala", "display_name": "Alex Penkala" }
+  },
+  {
+    "child_id": "bby_259",
+    "full_name": "Quicksand Scarecrow Alley",
+    "sex": "F",
+    "birth_date": "12 December 2025 @ 21:10",
+    "stage": "Infant",
+    "mother_user_id": "1103766553222201374",
+    "mother_user_name": "clung wrap",
+    "father": { "command_name": "alley", "display_name": "James Alley" }
   }
 ]
